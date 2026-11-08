@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <link rel="canonical" href="https://chami8.ru/">
 <title>Ча Ми 茶蜜</title>
+<script src="season.js"></script>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="Китайский чай от производителя Zhong Min Hong Tai (Аньси, Фуцзянь): Да Хун Пао и пуэр в мандарине сяо цин гань. Липецкий мёд. Заваривание гунфу, доставка, заявка онлайн.">
 <meta property="og:type" content="website">
@@ -887,9 +888,12 @@ const calm = matchMedia('(prefers-reduced-motion: reduce)').matches;
 if(!calm){
   const hero=document.querySelector('.hero'), cols=['#f7c6d0','#f4b3c2','#fbdde4','#ef9fb4'];
   for(let i=0;i<7;i++){
-    const l=document.createElementNS('http://www.w3.org/2000/svg','svg');
+    let l;
+    if(window.chamiLeaf){ l=document.createElement('div'); l.className='leaf'; l.setAttribute('aria-hidden','true'); const sc=window.chamiCols; l.innerHTML=window.chamiLeaf(sc[i%sc.length]); }
+    else{
+    l=document.createElementNS('http://www.w3.org/2000/svg','svg');
     l.setAttribute('viewBox','0 0 20 24'); l.setAttribute('class','leaf'); l.setAttribute('aria-hidden','true');
-    l.innerHTML='<path d="M10 24C3 19 0 12 2 6 4 1 8 0 10 4 12 0 16 1 18 6 20 12 17 19 10 24Z" fill="'+cols[i%4]+'"/>';
+    l.innerHTML='<path d="M10 24C3 19 0 12 2 6 4 1 8 0 10 4 12 0 16 1 18 6 20 12 17 19 10 24Z" fill="'+cols[i%4]+'"/>'; }
     l.style.cssText='left:'+(5+Math.random()*90)+'%;top:'+(Math.random()*55)+'%;width:'+(12+Math.random()*14)+'px;animation-duration:'+(11+Math.random()*10)+'s;animation-delay:-'+(Math.random()*12)+'s';
     hero.appendChild(l);
   }
@@ -913,10 +917,10 @@ document.getElementById('orderForm').addEventListener('submit',e=>{
 // leaves over the whole page + Fu walking
 (function(){
   const calm = matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const sky=document.querySelector('.sky'), cols=['#f7c6d0','#f4b3c2','#fbdde4','#ef9fb4','#fde8ec'];
+  const sky=document.querySelector('.sky'), cols=window.chamiCols||['#f7c6d0','#f4b3c2','#fbdde4','#ef9fb4','#fde8ec'];
   const petal=c=>'<svg viewBox="0 0 20 24" width="100%"><path d="M10 24C3 19 0 12 2 6 4 1 8 0 10 4 12 0 16 1 18 6 20 12 17 19 10 24Z" fill="'+c+'"/><path d="M10 21V9" stroke="rgba(190,90,120,.35)" stroke-width="1"/></svg>';
   const flower=c=>{let g='';for(let k=0;k<5;k++)g+='<path transform="rotate('+(k*72)+')" d="M0 0C-5-4-5-10-2-12L0-10 2-12C5-10 5-4 0 0Z" fill="'+c+'"/>';return '<svg viewBox="-13 -13 26 26" width="100%">'+g+'<circle r="2.6" fill="#f2c94c"/><circle r="1.2" fill="#d9822b"/></svg>';};
-  const leaf=c=>Math.random()<.45?flower(c):petal(c);
+  const leaf=window.chamiLeaf||(c=>Math.random()<.45?flower(c):petal(c));
   function burst(x,y,n){ for(let i=0;i<n;i++){ const el=document.createElement('div'); el.style.cssText='position:fixed;left:'+x+'px;top:'+y+'px;width:14px;pointer-events:none;z-index:47;transition:transform 1.2s cubic-bezier(.2,.7,.3,1),opacity 1.2s'; el.innerHTML=leaf(cols[i%5]); document.body.appendChild(el); const a=Math.random()*Math.PI*2,d=50+Math.random()*70; requestAnimationFrame(()=>{el.style.transform='translate('+Math.cos(a)*d+'px,'+(Math.sin(a)*d-40)+'px) rotate('+(Math.random()*400-200)+'deg)';el.style.opacity='0';}); setTimeout(()=>el.remove(),1300);} }
   if(sky){
     const n = calm ? 6 : (innerWidth<600 ? 8 : 12);
