@@ -56,6 +56,11 @@ if not (token and chat):
     print("Telegram secrets not set, skipping posts")
     sys.exit(1 if os.environ.get("TEST") else 0)
 tg_failed = False
+# accept "@name", "name", "t.me/name" or "https://t.me/name"; numeric ids stay as they are
+chat = re.sub(r"^(https?://)?(t\.me|telegram\.me)/", "", chat.strip()).strip("/")
+if not re.fullmatch(r"-?\d+", chat) and not chat.startswith("@"):
+    chat = "@" + chat
+print("Telegram chat:", chat)
 for u in new:
     if "/articles/" not in u or u.rstrip("/").endswith("/articles"):
         continue
@@ -67,7 +72,7 @@ for u in new:
     desc = re.search(r'<meta name="description" content="([^"]*)"', page)
     title = re.sub("<[^>]+>", "", title.group(1)).strip() if title else u
     text = f"🍵 <b>{html.escape(html.unescape(title))}</b>\n\n{html.escape(html.unescape(desc.group(1))) if desc else ''}\n\n<a href=\"{u}\">Читать на сайте «Ча Ми»</a>"
-    if post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat.strip(), "text": text, "parse_mode": "HTML"}) is None:
+    if post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML"}) is None:
         tg_failed = True
     else:
         print("Telegram: posted", u)
