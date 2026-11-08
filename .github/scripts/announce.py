@@ -1,0 +1,61 @@
+"""After a push to main: tell search engines about new or changed pages (IndexNow)
+and, if Telegram secrets are set, post new articles to the channel."""
+import json, os, re, subprocess, sys, time, urllib.request, html
+
+SITE = "https://chami8.ru"
+KEY = os.environ["INDEXNOW_KEY"]
+
+
+def locs(text):
+    return dict(re.findall(r"<loc>([^<]+)</loc>\s*<lastmod>([^<]*)</lastmod>", text))
+
+
+def old_sitemap():
+    before = os.environ.get("BEFORE", "")
+    if not before or set(before) == {"0"}:
+        return ""
+    try:
+        return subprocess.check_output(["git", "show", f"{before}:sitemap.xml"], text=True)
+    except subprocess.CalledProcessError:
+        return ""
+
+
+def post(url, payload):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(), headers={"Content-Type": "application/json; charset=utf-8"})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print(url, r.status)
+            return r.read()
+    except Exception as e:  # keep going: one failed ping must not stop the rest
+        print(url, "failed:", e)
+
+
+now, was = locs(open("sitemap.xml", encoding="utf-8").read()), locs(old_sitemap())
+changed = [u for u, d in now.items() if was.get(u) != d]
+new = [u for u in now if u not in was]
+print("changed:", changed, "new:", new)
+if not changed:
+    sys.exit(0)
+
+time.sleep(int(os.environ.get("WAIT", "120")))  # let GitHub Pages finish deploying
+
+body = {"host": "chami8.ru", "key": KEY, "keyLocation": f"{SITE}/{KEY}.txt", "urlList": changed}
+for endpoint in ("https://yandex.com/indexnow", "https://api.indexnow.org/indexnow"):
+    post(endpoint, body)
+
+token, chat = os.environ.get("TG_TOKEN"), os.environ.get("TG_CHAT")
+if not (token and chat):
+    print("Telegram secrets not set, skipping posts")
+    sys.exit(0)
+for u in new:
+    if "/articles/" not in u or u.rstrip("/").endswith("/articles"):
+        continue
+    path = u.replace(SITE, "").strip("/") + "/index.html"
+    if not os.path.exists(path):
+        continue
+    page = open(path, encoding="utf-8").read()
+    title = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S)
+    desc = re.search(r'<meta name="description" content="([^"]*)"', page)
+    title = re.sub("<[^>]+>", "", title.group(1)).strip() if title else u
+    text = f"🍵 <b>{html.escape(html.unescape(title))}</b>\n\n{html.escape(html.unescape(desc.group(1))) if desc else ''}\n\n<a href=\"{u}\">Читать на сайте «Ча Ми»</a>"
+    post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML"})

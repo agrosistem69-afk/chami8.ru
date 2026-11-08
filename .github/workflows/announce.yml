@@ -1,0 +1,18 @@
+name: Announce new pages
+on:
+  push:
+    branches: [main]
+    paths: [sitemap.xml]
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 .github/scripts/announce.py
+        env:
+          BEFORE: ${{ github.event.before }}
+          INDEXNOW_KEY: 3d0db21aedbda6a57f1d2446491afba3
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
