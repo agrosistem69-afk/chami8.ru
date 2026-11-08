@@ -3,6 +3,7 @@ on:
   push:
     branches: [main]
     paths: [sitemap.xml]
+  workflow_dispatch:
 jobs:
   announce:
     runs-on: ubuntu-latest
@@ -13,6 +14,7 @@ jobs:
       - run: python3 .github/scripts/announce.py
         env:
           BEFORE: ${{ github.event.before }}
+          TEST: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
           INDEXNOW_KEY: 3d0db21aedbda6a57f1d2446491afba3
           TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}

@@ -31,6 +31,12 @@ def post(url, payload):
 
 
 now, was = locs(open("sitemap.xml", encoding="utf-8").read()), locs(old_sitemap())
+if os.environ.get("TEST"):
+    # manual run: re-announce the newest article so the Telegram setup can be checked
+    arts = [u for u in now if "/articles/" in u and not u.rstrip("/").endswith("/articles")]
+    newest = max(arts, key=lambda u: now[u]) if arts else None
+    was = {u: d for u, d in now.items() if u != newest}
+    os.environ["WAIT"] = "0"
 changed = [u for u, d in now.items() if was.get(u) != d]
 new = [u for u in now if u not in was]
 print("changed:", changed, "new:", new)
