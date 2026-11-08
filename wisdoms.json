@@ -2,886 +2,6 @@
  "updated": "2026-11-08",
  "items": [
   {
-   "id": 1,
-   "tag": "tea",
-   "zh": "吃茶去",
-   "py": "chī chá qù",
-   "t": {
-    "ru": "«Иди выпей чаю». Так мастер отвечал ученикам на любой вопрос: истина в простом деле, здесь и сейчас.",
-    "en": "“Go and have some tea.” The master gave this answer to every question: truth lies in a simple act, here and now.",
-    "es": "«Ve a tomar té». El maestro respondía así a cualquier pregunta: la verdad está en lo sencillo, aquí y ahora.",
-    "ky": "«Барып чай ич». Устат шакирттердин ар бир суроосуна ушинтип жооп берчү: чындык жөнөкөй иште, ушул жерде жана азыр.",
-    "uz": "«Borib choy ich». Ustoz shogirdlarning har qanday savoliga shunday javob bergan: haqiqat oddiy ishda, shu yerda va hozir."
-   },
-   "s": {
-    "ru": "Мастер чань Чжаочжоу, эпоха Тан",
-    "en": "Chan master Zhaozhou, Tang dynasty",
-    "es": "maestro chan Zhaozhou, dinastía Tang",
-    "ky": "Чань устаты Чжаочжоу, Тан доору",
-    "uz": "Chan ustozi Zhaozhou, Tan sulolasi"
-   }
-  },
-  {
-   "id": 2,
-   "tag": "tea",
-   "zh": "茶禅一味",
-   "py": "chá chán yī wèi",
-   "t": {
-    "ru": "Чай и чань (дзен) — один вкус.",
-    "en": "Tea and Chan (Zen) share one taste.",
-    "es": "El té y el chan (zen) tienen un mismo sabor.",
-    "ky": "Чай менен чань (дзен) — бир даам.",
-    "uz": "Choy va chan (dzen) — bir ta’m."
-   },
-   "s": {
-    "ru": "Монах Юаньу Кэцинь, эпоха Сун",
-    "en": "Monk Yuanwu Keqin, Song dynasty",
-    "es": "monje Yuanwu Keqin, dinastía Song",
-    "ky": "Кечил Юаньу Кэцинь, Сун доору",
-    "uz": "Rohib Yuanwu Keqin, Sun sulolasi"
-   }
-  },
-  {
-   "id": 3,
-   "tag": "tea",
-   "zh": "茶之为用，味至寒，为饮最宜精行俭德之人",
-   "py": "chá zhī wéi yòng, wèi zhì hán, wéi yǐn zuì yí jīng xíng jiǎn dé zhī rén",
-   "t": {
-    "ru": "Чай по природе прохладен. Как напиток он лучше всего подходит людям сдержанным и скромным.",
-    "en": "Tea is cool by nature. As a drink it suits best those who act with care and live with modest virtue.",
-    "es": "El té es fresco por naturaleza. Como bebida conviene sobre todo a quienes actúan con cuidado y viven con sencillez.",
-    "ky": "Чай табиятынан салкын. Суусундук катары ал токтоо жана жөнөкөй адамдарга баарынан ылайык.",
-    "uz": "Choy tabiatan salqin. Ichimlik sifatida u vazmin va kamtar odamlarga eng mos keladi."
-   },
-   "s": {
-    "ru": "Лу Юй, «Канон чая», эпоха Тан",
-    "en": "Lu Yu, The Classic of Tea, Tang dynasty",
-    "es": "Lu Yu, El clásico del té, dinastía Tang",
-    "ky": "Лу Юй, «Чай канону», Тан доору",
-    "uz": "Lu Yu, «Choy kanoni», Tan sulolasi"
-   }
-  },
-  {
-   "id": 4,
-   "tag": "tea",
-   "zh": "茶者，南方之嘉木也",
-   "py": "chá zhě, nán fāng zhī jiā mù yě",
-   "t": {
-    "ru": "Чай — прекрасное дерево юга. Так начинается первая в мире книга о чае.",
-    "en": "Tea is a fine tree of the south. These are the opening words of the world’s first book on tea.",
-    "es": "El té es un noble árbol del sur. Así empieza el primer libro sobre el té del mundo.",
-    "ky": "Чай — түштүктүн асыл дарагы. Дүйнөдөгү чай жөнүндөгү биринчи китеп ушинтип башталат.",
-    "uz": "Choy — janubning go‘zal daraxti. Choy haqidagi dunyodagi birinchi kitob shunday boshlanadi."
-   },
-   "s": {
-    "ru": "Лу Юй, «Канон чая», эпоха Тан",
-    "en": "Lu Yu, The Classic of Tea, Tang dynasty",
-    "es": "Lu Yu, El clásico del té, dinastía Tang",
-    "ky": "Лу Юй, «Чай канону», Тан доору",
-    "uz": "Lu Yu, «Choy kanoni», Tan sulolasi"
-   }
-  },
-  {
-   "id": 5,
-   "tag": "tea",
-   "zh": "其沸如鱼目，微有声，为一沸；缘边如涌泉连珠，为二沸；腾波鼓浪，为三沸",
-   "py": "qí fèi rú yú mù… wéi sān fèi",
-   "t": {
-    "ru": "Пузырьки как рыбьи глаза и тихий шум — первое кипение. По краям жемчужные нити, как у родника, — второе. Бурлящие волны — третье.",
-    "en": "Bubbles like fish eyes and a faint sound: the first boil. Strings of pearls rising at the edge like a spring: the second. Rolling waves: the third.",
-    "es": "Burbujas como ojos de pez y un leve rumor: primer hervor. Hilos de perlas en el borde, como un manantial: segundo. Olas que se agitan: tercero.",
-    "ky": "Балыктын көзүндөй көбүкчөлөр жана акырын шуулдоо — биринчи кайноо. Чет жагында булактагыдай бермет тизмелери — экинчиси. Толкундар — үчүнчүсү.",
-    "uz": "Baliq ko‘zidek pufakchalar va sekin shovqin — birinchi qaynash. Chetida buloqdagidek marvarid shodalari — ikkinchisi. To‘lqinlar — uchinchisi."
-   },
-   "s": {
-    "ru": "Лу Юй, «Канон чая», эпоха Тан",
-    "en": "Lu Yu, The Classic of Tea, Tang dynasty",
-    "es": "Lu Yu, El clásico del té, dinastía Tang",
-    "ky": "Лу Юй, «Чай канону», Тан доору",
-    "uz": "Lu Yu, «Choy kanoni», Tan sulolasi"
-   }
-  },
-  {
-   "id": 6,
-   "tag": "tea",
-   "zh": "从来佳茗似佳人",
-   "py": "cóng lái jiā míng sì jiā rén",
-   "t": {
-    "ru": "Хороший чай всегда подобен красавице.",
-    "en": "Fine tea has always been like a beautiful woman.",
-    "es": "El buen té siempre se ha parecido a una bella dama.",
-    "ky": "Жакшы чай дайыма сулууга окшош.",
-    "uz": "Yaxshi choy hamisha go‘zal qizga o‘xshaydi."
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 7,
-   "tag": "tea",
-   "zh": "且将新火试新茶，诗酒趁年华",
-   "py": "qiě jiāng xīn huǒ shì xīn chá, shī jiǔ chèn nián huá",
-   "t": {
-    "ru": "Разожги новый огонь и попробуй новый чай: стихи и вино хороши, пока ты молод.",
-    "en": "Light a new fire and taste the new tea: enjoy poems and wine while you are young.",
-    "es": "Enciende un fuego nuevo y prueba el té nuevo: disfruta de versos y vino mientras eres joven.",
-    "ky": "Жаңы от жагып, жаңы чайдын даамын тат: ыр менен шарап жаш кезиңде жакшы.",
-    "uz": "Yangi olov yoq va yangi choyni tatib ko‘r: she’r va sharob yoshlikda yaxshi."
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 8,
-   "tag": "tea",
-   "zh": "活水还须活火烹",
-   "py": "huó shuǐ hái xū huó huǒ pēng",
-   "t": {
-    "ru": "Живую воду надо кипятить на живом огне.",
-    "en": "Living water must be boiled over a living fire.",
-    "es": "El agua viva debe hervirse con fuego vivo.",
-    "ky": "Тирүү сууну тирүү отко кайнатуу керек.",
-    "uz": "Tirik suvni tirik olovda qaynatish kerak."
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 9,
-   "tag": "tea",
-   "zh": "寒夜客来茶当酒，竹炉汤沸火初红",
-   "py": "hán yè kè lái chá dāng jiǔ, zhú lú tāng fèi huǒ chū hóng",
-   "t": {
-    "ru": "Холодной ночью пришёл гость, и чай ему вместо вина. В бамбуковой печке закипает вода, огонь только разгорается.",
-    "en": "A guest comes on a cold night, and tea serves in place of wine. Water boils on the bamboo stove as the fire turns red.",
-    "es": "Llega un invitado en una noche fría, y el té ocupa el lugar del vino. El agua hierve en el hornillo de bambú y el fuego enrojece.",
-    "ky": "Суук түнү конок келди, ага шараптын ордуна чай. Бамбук мешинде суу кайнап, от жаңы гана тутанат.",
-    "uz": "Sovuq kechada mehmon keldi, unga sharob o‘rniga choy. Bambuk o‘choqda suv qaynaydi, olov endigina qizaradi."
-   },
-   "s": {
-    "ru": "Ду Лэй, эпоха Сун",
-    "en": "Du Lei, Song dynasty",
-    "es": "Du Lei, dinastía Song",
-    "ky": "Ду Лэй, Сун доору",
-    "uz": "Du Lei, Sun sulolasi"
-   }
-  },
-  {
-   "id": 10,
-   "tag": "tea",
-   "zh": "一碗喉吻润，两碗破孤闷",
-   "py": "yī wǎn hóu wěn rùn, liǎng wǎn pò gū mèn",
-   "t": {
-    "ru": "Первая чаша увлажняет горло, вторая прогоняет одиночество.",
-    "en": "The first bowl moistens the throat, the second breaks loneliness.",
-    "es": "El primer cuenco humedece la garganta, el segundo rompe la soledad.",
-    "ky": "Биринчи чөйчөк тамакты нымдайт, экинчиси жалгыздыкты кууйт.",
-    "uz": "Birinchi piyola tomoqni namlaydi, ikkinchisi yolg‘izlikni haydaydi."
-   },
-   "s": {
-    "ru": "Лу Тун, «Песнь о семи чашах», эпоха Тан",
-    "en": "Lu Tong, Song of Seven Bowls, Tang dynasty",
-    "es": "Lu Tong, Canción de los siete cuencos, dinastía Tang",
-    "ky": "Лу Тун, «Жети чөйчөк жөнүндө ыр», Тан доору",
-    "uz": "Lu Tong, «Yetti piyola qo‘shig‘i», Tan sulolasi"
-   }
-  },
-  {
-   "id": 11,
-   "tag": "tea",
-   "zh": "四碗发轻汗，平生不平事，尽向毛孔散",
-   "py": "sì wǎn fā qīng hàn, píng shēng bù píng shì, jìn xiàng máo kǒng sàn",
-   "t": {
-    "ru": "С четвёртой чашей выступает лёгкий пот, и все обиды жизни уходят через кожу.",
-    "en": "The fourth bowl brings a light sweat, and every wrong of a lifetime leaves through the pores.",
-    "es": "El cuarto cuenco trae un sudor ligero, y todas las penas de la vida salen por los poros.",
-    "ky": "Төртүнчү чөйчөктөн жеңил тер чыгып, өмүрдөгү бардык таарынычтар тери аркылуу кетет.",
-    "uz": "To‘rtinchi piyoladan yengil ter chiqadi va hayotdagi barcha alamlar teri orqali chiqib ketadi."
-   },
-   "s": {
-    "ru": "Лу Тун, «Песнь о семи чашах», эпоха Тан",
-    "en": "Lu Tong, Song of Seven Bowls, Tang dynasty",
-    "es": "Lu Tong, Canción de los siete cuencos, dinastía Tang",
-    "ky": "Лу Тун, «Жети чөйчөк жөнүндө ыр», Тан доору",
-    "uz": "Lu Tong, «Yetti piyola qo‘shig‘i», Tan sulolasi"
-   }
-  },
-  {
-   "id": 12,
-   "tag": "tea",
-   "zh": "七碗吃不得也，唯觉两腋习习清风生",
-   "py": "qī wǎn chī bù dé yě, wéi jué liǎng yè xí xí qīng fēng shēng",
-   "t": {
-    "ru": "Седьмую чашу уже не выпить: лишь чувствуешь, как под мышками рождается свежий ветер.",
-    "en": "The seventh bowl cannot be drunk: you only feel a fresh breeze rising beneath your arms.",
-    "es": "El séptimo cuenco ya no se puede beber: solo sientes nacer una brisa fresca bajo los brazos.",
-    "ky": "Жетинчи чөйчөктү ичүүгө болбойт: колтугуңдун астынан таза шамал жаралганын гана сезесиң.",
-    "uz": "Yettinchi piyolani ichib bo‘lmaydi: faqat qo‘ltig‘ing ostida toza shabada paydo bo‘lganini sezasan."
-   },
-   "s": {
-    "ru": "Лу Тун, «Песнь о семи чашах», эпоха Тан",
-    "en": "Lu Tong, Song of Seven Bowls, Tang dynasty",
-    "es": "Lu Tong, Canción de los siete cuencos, dinastía Tang",
-    "ky": "Лу Тун, «Жети чөйчөк жөнүндө ыр», Тан доору",
-    "uz": "Lu Tong, «Yetti piyola qo‘shig‘i», Tan sulolasi"
-   }
-  },
-  {
-   "id": 13,
-   "tag": "tea",
-   "zh": "以茶可雅心，以茶可行道",
-   "py": "yǐ chá kě yǎ xīn, yǐ chá kě xíng dào",
-   "t": {
-    "ru": "Чаем облагораживают сердце, чаем следуют Пути.",
-    "en": "Tea refines the heart; tea lets one walk the Way.",
-    "es": "Con el té se ennoblece el corazón; con el té se sigue el Camino.",
-    "ky": "Чай менен жүрөк асылданат, чай менен Жолду ээрчийсиң.",
-    "uz": "Choy bilan qalb nafislashadi, choy bilan Yo‘ldan yuriladi."
-   },
-   "s": {
-    "ru": "Лю Чжэньлян, «Десять добродетелей чая», эпоха Тан",
-    "en": "Liu Zhenliang, Ten Virtues of Tea, Tang dynasty",
-    "es": "Liu Zhenliang, Las diez virtudes del té, dinastía Tang",
-    "ky": "Лю Чжэньлян, «Чайдын он касиети», Тан доору",
-    "uz": "Liu Zhenliang, «Choyning o‘n fazilati», Tan sulolasi"
-   }
-  },
-  {
-   "id": 14,
-   "tag": "tea",
-   "zh": "独啜曰神，二客曰胜，三四曰趣",
-   "py": "dú chuò yuē shén, èr kè yuē shèng, sān sì yuē qù",
-   "t": {
-    "ru": "Пить чай в одиночку — это дух, вдвоём — изысканность, втроём или вчетвером — веселье.",
-    "en": "Drinking tea alone is spirit, with one guest is elegance, with three or four is fun.",
-    "es": "Beber té a solas es espíritu, con un invitado es elegancia, con tres o cuatro es alegría.",
-    "ky": "Жалгыз чай ичүү — рух, экөө — назиктик, үчөө-төртөө — шаттык.",
-    "uz": "Yolg‘iz choy ichish — ruh, ikki kishi — nafosat, uch-to‘rt kishi — shodlik."
-   },
-   "s": {
-    "ru": "Чжан Юань, «Записки о чае», эпоха Мин",
-    "en": "Zhang Yuan, Notes on Tea, Ming dynasty",
-    "es": "Zhang Yuan, Notas sobre el té, dinastía Ming",
-    "ky": "Чжан Юань, «Чай жөнүндө жазмалар», Мин доору",
-    "uz": "Zhang Yuan, «Choy haqida yozuvlar», Min sulolasi"
-   }
-  },
-  {
-   "id": 15,
-   "tag": "tea",
-   "zh": "八分之茶，遇十分之水，茶亦十分矣",
-   "py": "bā fēn zhī chá, yù shí fēn zhī shuǐ, chá yì shí fēn yǐ",
-   "t": {
-    "ru": "Чай на восемь баллов с водой на десять тоже становится чаем на десять. Вода раскрывает природу чая.",
-    "en": "Tea worth eight, brewed with water worth ten, becomes tea worth ten. Water reveals the nature of tea.",
-    "es": "Un té de ocho con un agua de diez se convierte en un té de diez. El agua revela la naturaleza del té.",
-    "ky": "Сегиз упайлык чай он упайлык суу менен он упайлык болуп калат. Суу чайдын табиятын ачат.",
-    "uz": "Sakkiz ballik choy o‘n ballik suv bilan o‘n ballik bo‘ladi. Suv choyning tabiatini ochadi."
-   },
-   "s": {
-    "ru": "Чжан Дафу, эпоха Мин",
-    "en": "Zhang Dafu, Ming dynasty",
-    "es": "Zhang Dafu, dinastía Ming",
-    "ky": "Чжан Дафу, Мин доору",
-    "uz": "Zhang Dafu, Min sulolasi"
-   }
-  },
-  {
-   "id": 16,
-   "tag": "tea",
-   "zh": "茶滋于水，水藉乎器",
-   "py": "chá zī yú shuǐ, shuǐ jiè hū qì",
-   "t": {
-    "ru": "Чай питается водой, а вода полагается на посуду.",
-    "en": "Tea is nourished by water, and water relies on the vessel.",
-    "es": "El té se nutre del agua, y el agua depende de la vasija.",
-    "ky": "Чай сууга азыктанат, суу идишке таянат.",
-    "uz": "Choy suvdan oziqlanadi, suv esa idishga tayanadi."
-   },
-   "s": {
-    "ru": "Сюй Цышу, «Трактат о чае», эпоха Мин",
-    "en": "Xu Cishu, Treatise on Tea, Ming dynasty",
-    "es": "Xu Cishu, Tratado del té, dinastía Ming",
-    "ky": "Сюй Цышу, «Чай жөнүндө трактат», Мин доору",
-    "uz": "Xu Cishu, «Choy risolasi», Min sulolasi"
-   }
-  },
-  {
-   "id": 17,
-   "tag": "tea",
-   "zh": "香叶，嫩芽。慕诗客，爱僧家",
-   "py": "xiāng yè, nèn yá. mù shī kè, ài sēng jiā",
-   "t": {
-    "ru": "Душистый лист, нежная почка. Её любят поэты и монахи.",
-    "en": "Fragrant leaf, tender bud. Poets long for it, monks love it.",
-    "es": "Hoja fragante, brote tierno. La anhelan los poetas, la aman los monjes.",
-    "ky": "Жыпар жалбырак, назик бүчүр. Аны акындар да, кечилдер да сүйөт.",
-    "uz": "Xushbo‘y barg, nozik kurtak. Uni shoirlar ham, rohiblar ham sevadi."
-   },
-   "s": {
-    "ru": "Юань Чжэнь, эпоха Тан",
-    "en": "Yuan Zhen, Tang dynasty",
-    "es": "Yuan Zhen, dinastía Tang",
-    "ky": "Юань Чжэнь, Тан доору",
-    "uz": "Yuan Zhen, Tan sulolasi"
-   }
-  },
-  {
-   "id": 18,
-   "tag": "tea",
-   "zh": "无由持一碗，寄与爱茶人",
-   "py": "wú yóu chí yī wǎn, jì yǔ ài chá rén",
-   "t": {
-    "ru": "Жаль, не могу передать эту чашу тому, кто любит чай.",
-    "en": "If only I could send this bowl to someone who loves tea.",
-    "es": "Ojalá pudiera enviar este cuenco a quien ama el té.",
-    "ky": "Бул чөйчөктү чайды сүйгөн адамга жибере албаганым өкүнүчтүү.",
-    "uz": "Afsus, bu piyolani choyni sevgan odamga yubora olmayman."
-   },
-   "s": {
-    "ru": "Бо Цзюйи, эпоха Тан",
-    "en": "Bai Juyi, Tang dynasty",
-    "es": "Bai Juyi, dinastía Tang",
-    "ky": "Бо Цзюйи, Тан доору",
-    "uz": "Bai Juyi, Tan sulolasi"
-   }
-  },
-  {
-   "id": 19,
-   "tag": "tea",
-   "zh": "不寄他人先寄我，应缘我是别茶人",
-   "py": "bù jì tā rén xiān jì wǒ, yīng yuán wǒ shì bié chá rén",
-   "t": {
-    "ru": "Новый чай прислали не другим, а сначала мне: видно, потому что я знаю толк в чае.",
-    "en": "The new tea was sent to me before anyone else, surely because I know good tea.",
-    "es": "El té nuevo me lo enviaron a mí antes que a nadie, seguramente porque sé distinguir el buen té.",
-    "ky": "Жаңы чайды башкаларга эмес, адегенде мага жиберишти: чайды түшүнгөнүм үчүн болсо керек.",
-    "uz": "Yangi choyni boshqalarga emas, avval menga yuborishdi: choyni yaxshi bilganim uchun bo‘lsa kerak."
-   },
-   "s": {
-    "ru": "Бо Цзюйи, эпоха Тан",
-    "en": "Bai Juyi, Tang dynasty",
-    "es": "Bai Juyi, dinastía Tang",
-    "ky": "Бо Цзюйи, Тан доору",
-    "uz": "Bai Juyi, Tan sulolasi"
-   }
-  },
-  {
-   "id": 20,
-   "tag": "tea",
-   "zh": "神农尝百草，日遇七十二毒，得荼而解之",
-   "py": "shén nóng cháng bǎi cǎo, rì yù qī shí èr dú, dé tú ér jiě zhī",
-   "t": {
-    "ru": "Шэнь-нун пробовал сотни трав и за день встретил семьдесят два яда, а чай их обезвредил.",
-    "en": "Shennong tasted a hundred herbs and met seventy-two poisons in a day, and tea undid them.",
-    "es": "Shennong probó cien hierbas y en un día se topó con setenta y dos venenos, y el té los anuló.",
-    "ky": "Шэнь-нун жүздөгөн чөптү даамдап, бир күндө жетимиш эки уу кезиктирди, аларды чай жок кылды.",
-    "uz": "Shennong yuzlab o‘tlarni tatib, bir kunda yetmish ikki zaharga duch keldi va choy ularni yo‘q qildi."
-   },
-   "s": {
-    "ru": "Легенда о Шэнь-нуне",
-    "en": "Legend of Shennong",
-    "es": "Leyenda de Shennong",
-    "ky": "Шэнь-нун жөнүндө уламыш",
-    "uz": "Shennong haqida rivoyat"
-   }
-  },
-  {
-   "id": 21,
-   "tag": "tea",
-   "zh": "以茶代酒",
-   "py": "yǐ chá dài jiǔ",
-   "t": {
-    "ru": "«Чай вместо вина». Правитель тайком наливал чай учёному Вэй Яо, который не мог пить вино. С тех пор так поднимают чашу за друзей.",
-    "en": "“Tea in place of wine.” A ruler secretly poured tea for the scholar Wei Yao, who could not drink wine. Since then people toast friends this way.",
-    "es": "«Té en lugar de vino». Un soberano servía té a escondidas al erudito Wei Yao, que no podía beber vino. Desde entonces se brinda así por los amigos.",
-    "ky": "«Шараптын ордуна чай». Башкаруучу шарап иче албаган окумуштуу Вэй Яого жашыруун чай куйчу. Ошондон бери достор үчүн ушинтип чөйчөк көтөрүшөт.",
-    "uz": "«Sharob o‘rniga choy». Hukmdor sharob icha olmaydigan olim Vey Yaoga yashirincha choy quyib bergan. O‘shandan beri do‘stlar uchun shunday qadah ko‘tariladi."
-   },
-   "s": {
-    "ru": "«Записи о Трёх царствах»",
-    "en": "Records of the Three Kingdoms",
-    "es": "Crónicas de los Tres Reinos",
-    "ky": "«Үч падышалык жазмалары»",
-    "uz": "«Uch podsholik solnomasi»"
-   }
-  },
-  {
-   "id": 22,
-   "tag": "tea",
-   "zh": "开门七件事：柴米油盐酱醋茶",
-   "py": "kāi mén qī jiàn shì: chái mǐ yóu yán jiàng cù chá",
-   "t": {
-    "ru": "Семь дел с утра: дрова, рис, масло, соль, соевый соус, уксус и чай.",
-    "en": "Seven things to start the day: firewood, rice, oil, salt, soy sauce, vinegar and tea.",
-    "es": "Siete cosas al abrir la puerta: leña, arroz, aceite, sal, salsa de soja, vinagre y té.",
-    "ky": "Таңкы жети иш: отун, күрүч, май, туз, соя соусу, уксус жана чай.",
-    "uz": "Ertalabki yetti ish: o‘tin, guruch, yog‘, tuz, soya sousi, sirka va choy."
-   },
-   "s": {
-    "ru": "Народная поговорка",
-    "en": "Folk saying",
-    "es": "Refrán popular",
-    "ky": "Элдик макал",
-    "uz": "Xalq maqoli"
-   }
-  },
-  {
-   "id": 23,
-   "tag": "tea",
-   "zh": "客来敬茶",
-   "py": "kè lái jìng chá",
-   "t": {
-    "ru": "Пришёл гость — подай ему чай.",
-    "en": "When a guest arrives, offer tea.",
-    "es": "Cuando llega un invitado, ofrécele té.",
-    "ky": "Конок келсе, чай сун.",
-    "uz": "Mehmon kelsa, choy tut."
-   },
-   "s": {
-    "ru": "Народная поговорка",
-    "en": "Folk saying",
-    "es": "Refrán popular",
-    "ky": "Элдик макал",
-    "uz": "Xalq maqoli"
-   }
-  },
-  {
-   "id": 24,
-   "tag": "tea",
-   "zh": "茶七酒八",
-   "py": "chá qī jiǔ bā",
-   "t": {
-    "ru": "Чай наливают на семь десятых чаши, вино на восемь. Пустое место оставляют для дружбы.",
-    "en": "Pour tea seven-tenths full, wine eight-tenths. The empty space is left for friendship.",
-    "es": "El té se sirve hasta siete décimos, el vino hasta ocho. El espacio vacío se deja para la amistad.",
-    "ky": "Чайды чөйчөктүн ондон жетисине, шарапты сегизине куят. Бош орун достук үчүн калат.",
-    "uz": "Choy piyolaning o‘ndan yettisigacha, sharob sakkizigacha quyiladi. Bo‘sh joy do‘stlik uchun qoldiriladi."
-   },
-   "s": {
-    "ru": "Народная поговорка",
-    "en": "Folk saying",
-    "es": "Refrán popular",
-    "ky": "Элдик макал",
-    "uz": "Xalq maqoli"
-   }
-  },
-  {
-   "id": 25,
-   "tag": "tea",
-   "zh": "水为茶之母，器为茶之父",
-   "py": "shuǐ wéi chá zhī mǔ, qì wéi chá zhī fù",
-   "t": {
-    "ru": "Вода — мать чая, посуда — его отец.",
-    "en": "Water is the mother of tea, the teapot is its father.",
-    "es": "El agua es la madre del té, la tetera es su padre.",
-    "ky": "Суу — чайдын энеси, идиш — атасы.",
-    "uz": "Suv — choyning onasi, idish — otasi."
-   },
-   "s": {
-    "ru": "Народная поговорка",
-    "en": "Folk saying",
-    "es": "Refrán popular",
-    "ky": "Элдик макал",
-    "uz": "Xalq maqoli"
-   }
-  },
-  {
-   "id": 26,
-   "tag": "dream",
-   "zh": "庄周梦蝶",
-   "py": "zhuāng zhōu mèng dié",
-   "t": {
-    "ru": "Чжуан-цзы приснилось, что он бабочка. Проснувшись, он не знал: он ли видел бабочку во сне, или бабочке снится, что она Чжуан-цзы.",
-    "en": "Zhuangzi dreamed he was a butterfly. On waking he did not know whether he had dreamed of the butterfly, or the butterfly was dreaming it was Zhuangzi.",
-    "es": "Zhuangzi soñó que era una mariposa. Al despertar no sabía si él había soñado con la mariposa o si la mariposa soñaba que era Zhuangzi.",
-    "ky": "Чжуан-цзы түшүндө көпөлөк болуп калды. Ойгонгондо ал билген жок: ал көпөлөктү түшүндө көрдүбү, же көпөлөк өзүн Чжуан-цзы деп түш көрүп жатабы.",
-    "uz": "Zhuangzi tushida o‘zini kapalak deb ko‘rdi. Uyg‘onganda u bilmadi: kapalakni tushida u ko‘rdimi yoki kapalak tushida o‘zini Zhuangzi deb ko‘ryaptimi."
-   },
-   "s": {
-    "ru": "Чжуан-цзы, IV век до н. э.",
-    "en": "Zhuangzi, 4th century BC",
-    "es": "Zhuangzi, siglo IV a. C.",
-    "ky": "Чжуан-цзы, б. з. ч. IV кылым",
-    "uz": "Zhuangzi, mil. avv. IV asr"
-   }
-  },
-  {
-   "id": 27,
-   "tag": "dream",
-   "zh": "古之真人，其寝不梦，其觉无忧",
-   "py": "gǔ zhī zhēn rén, qí qǐn bù mèng, qí jué wú yōu",
-   "t": {
-    "ru": "Истинный человек древности спал без снов и просыпался без тревог.",
-    "en": "The true person of old slept without dreams and woke without worries.",
-    "es": "El hombre verdadero de la antigüedad dormía sin sueños y despertaba sin preocupaciones.",
-    "ky": "Байыркы чыныгы адам түшсүз уктап, тынчсызданбай ойгончу.",
-    "uz": "Qadimgi haqiqiy inson tushsiz uxlab, tashvishsiz uyg‘onar edi."
-   },
-   "s": {
-    "ru": "Чжуан-цзы, IV век до н. э.",
-    "en": "Zhuangzi, 4th century BC",
-    "es": "Zhuangzi, siglo IV a. C.",
-    "ky": "Чжуан-цзы, б. з. ч. IV кылым",
-    "uz": "Zhuangzi, mil. avv. IV asr"
-   }
-  },
-  {
-   "id": 28,
-   "tag": "dream",
-   "zh": "且有大觉而后知此其大梦也",
-   "py": "qiě yǒu dà jué ér hòu zhī cǐ qí dà mèng yě",
-   "t": {
-    "ru": "Лишь после великого пробуждения понимаешь, что всё было великим сном.",
-    "en": "Only after the great awakening do we know this was all a great dream.",
-    "es": "Solo tras el gran despertar se sabe que todo fue un gran sueño.",
-    "ky": "Улуу ойгонуудан кийин гана мунун баары улуу түш болгонун түшүнөсүң.",
-    "uz": "Faqat buyuk uyg‘onishdan keyin bularning barchasi buyuk tush bo‘lganini anglaysan."
-   },
-   "s": {
-    "ru": "Чжуан-цзы, IV век до н. э.",
-    "en": "Zhuangzi, 4th century BC",
-    "es": "Zhuangzi, siglo IV a. C.",
-    "ky": "Чжуан-цзы, б. з. ч. IV кылым",
-    "uz": "Zhuangzi, mil. avv. IV asr"
-   }
-  },
-  {
-   "id": 29,
-   "tag": "dream",
-   "zh": "黄粱一梦",
-   "py": "huáng liáng yī mèng",
-   "t": {
-    "ru": "«Сон за время, пока варится просо». Юноше приснилась целая жизнь с богатством и славой, а проснулся он раньше, чем сварилась каша.",
-    "en": "“The dream of yellow millet.” A young man dreamed a whole life of wealth and fame, and woke before the millet had finished cooking.",
-    "es": "«El sueño del mijo amarillo». Un joven soñó toda una vida de riqueza y fama, y despertó antes de que se cociera el mijo.",
-    "ky": "«Таруу бышканча көргөн түш». Жигит түшүндө байлык жана даңк менен бүтүн өмүрдү көрдү, ал эми ботко бышканга чейин ойгонуп кетти.",
-    "uz": "«Tariq pishguncha ko‘rilgan tush». Yigit tushida boylik va shon-shuhratga to‘la butun umrni ko‘rdi, bo‘tqa pishmasdan uyg‘onib ketdi."
-   },
-   "s": {
-    "ru": "Новелла эпохи Тан",
-    "en": "Tang dynasty tale",
-    "es": "Relato de la dinastía Tang",
-    "ky": "Тан доорундагы новелла",
-    "uz": "Tan sulolasi hikoyasi"
-   }
-  },
-  {
-   "id": 30,
-   "tag": "dream",
-   "zh": "南柯一梦",
-   "py": "nán kē yī mèng",
-   "t": {
-    "ru": "«Сон о Южной ветви». Человек во сне правил целым царством, а оказалось, что это муравейник под деревом.",
-    "en": "“A dream of the Southern Branch.” A man ruled a whole kingdom in his dream, and it turned out to be an anthill under a tree.",
-    "es": "«El sueño de la Rama del Sur». Un hombre gobernó en sueños todo un reino, y resultó ser un hormiguero bajo un árbol.",
-    "ky": "«Түштүк бутак жөнүндө түш». Киши түшүндө бүтүн падышалыкты башкарды, ал эми ал дарактын түбүндөгү кумурска уюгу болуп чыкты.",
-    "uz": "«Janubiy shox haqidagi tush». Bir kishi tushida butun podsholikni boshqardi, u esa daraxt tagidagi chumoli uyasi bo‘lib chiqdi."
-   },
-   "s": {
-    "ru": "Новелла эпохи Тан",
-    "en": "Tang dynasty tale",
-    "es": "Relato de la dinastía Tang",
-    "ky": "Тан доорундагы новелла",
-    "uz": "Tan sulolasi hikoyasi"
-   }
-  },
-  {
-   "id": 31,
-   "tag": "dream",
-   "zh": "浮生若梦，为欢几何",
-   "py": "fú shēng ruò mèng, wéi huān jǐ hé",
-   "t": {
-    "ru": "Наша зыбкая жизнь подобна сну. Много ли в ней радости?",
-    "en": "Our floating life is like a dream. How much joy does it hold?",
-    "es": "Nuestra vida flotante es como un sueño. ¿Cuánta alegría cabe en ella?",
-    "ky": "Биздин туруксуз өмүрүбүз түшкө окшош. Анда кубаныч канча?",
-    "uz": "Bizning omonat hayotimiz tushga o‘xshaydi. Unda quvonch qancha?"
-   },
-   "s": {
-    "ru": "Ли Бо, эпоха Тан",
-    "en": "Li Bai, Tang dynasty",
-    "es": "Li Bai, dinastía Tang",
-    "ky": "Ли Бо, Тан доору",
-    "uz": "Li Bai, Tan sulolasi"
-   }
-  },
-  {
-   "id": 32,
-   "tag": "dream",
-   "zh": "人生如梦，一尊还酹江月",
-   "py": "rén shēng rú mèng, yī zūn huán lèi jiāng yuè",
-   "t": {
-    "ru": "Жизнь как сон. Плесну чашу вина луне над рекой.",
-    "en": "Life is like a dream. I pour a cup of wine to the moon on the river.",
-    "es": "La vida es como un sueño. Ofrezco una copa de vino a la luna sobre el río.",
-    "ky": "Өмүр түштөй. Дарыядагы айга бир чөйчөк шарап төгөм.",
-    "uz": "Hayot tushdek. Daryo uzra oyga bir qadah sharob to‘kaman."
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 33,
-   "tag": "dream",
-   "zh": "世事一场大梦，人生几度秋凉",
-   "py": "shì shì yī chǎng dà mèng, rén shēng jǐ dù qiū liáng",
-   "t": {
-    "ru": "Дела мира — один большой сон. Сколько осенних холодов выпадет нам за жизнь?",
-    "en": "The world’s affairs are one great dream. How many cool autumns does a life hold?",
-    "es": "Los asuntos del mundo son un gran sueño. ¿Cuántos otoños fríos tiene una vida?",
-    "ky": "Дүйнөнүн иштери — бир чоң түш. Өмүрдө канча салкын күз болот?",
-    "uz": "Dunyo ishlari — bitta katta tush. Umrda necha bor salqin kuz bo‘ladi?"
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 34,
-   "tag": "dream",
-   "zh": "日有所思，夜有所梦",
-   "py": "rì yǒu suǒ sī, yè yǒu suǒ mèng",
-   "t": {
-    "ru": "О чём думаешь днём, то и снится ночью.",
-    "en": "What you think of by day, you dream of by night.",
-    "es": "Lo que piensas de día, lo sueñas de noche.",
-    "ky": "Күндүз эмнени ойлосоң, түнү ошону түшүңдө көрөсүң.",
-    "uz": "Kunduzi nimani o‘ylasang, kechasi tushingda o‘shani ko‘rasan."
-   },
-   "s": {
-    "ru": "Народная поговорка",
-    "en": "Folk saying",
-    "es": "Refrán popular",
-    "ky": "Элдик макал",
-    "uz": "Xalq maqoli"
-   }
-  },
-  {
-   "id": 35,
-   "tag": "dream",
-   "zh": "梦里不知身是客，一晌贪欢",
-   "py": "mèng lǐ bù zhī shēn shì kè, yī shǎng tān huān",
-   "t": {
-    "ru": "Во сне забыл, что я лишь гость, и на миг отдался радости.",
-    "en": "In the dream I forgot I was only a guest, and for a moment gave myself to joy.",
-    "es": "En el sueño olvidé que solo era un huésped y por un instante me entregué a la alegría.",
-    "ky": "Түшүмдө мен жөн гана конок экенимди унутуп, бир азга кубанычка бериле калдым.",
-    "uz": "Tushimda faqat mehmon ekanimni unutib, bir lahzaga quvonchga berildim."
-   },
-   "s": {
-    "ru": "Ли Юй, последний правитель Южной Тан",
-    "en": "Li Yu, last ruler of Southern Tang",
-    "es": "Li Yu, último soberano de Tang del Sur",
-    "ky": "Ли Юй, Түштүк Тандын акыркы башкаруучусу",
-    "uz": "Li Yu, Janubiy Tanning so‘nggi hukmdori"
-   }
-  },
-  {
-   "id": 36,
-   "tag": "dream",
-   "zh": "春眠不觉晓，处处闻啼鸟",
-   "py": "chūn mián bù jué xiǎo, chù chù wén tí niǎo",
-   "t": {
-    "ru": "Весной спится так сладко, что не замечаешь рассвета, а вокруг уже поют птицы.",
-    "en": "In spring I sleep so sweetly I miss the dawn, and birds are singing everywhere.",
-    "es": "En primavera duermo tan a gusto que no noto el alba, y por todas partes cantan los pájaros.",
-    "ky": "Жазында ушунчалык таттуу уктайсың, таң атканын байкабайсың, айланада куштар сайрайт.",
-    "uz": "Bahorda shunchalik shirin uxlaysanki, tong otganini sezmaysan, atrofda qushlar sayraydi."
-   },
-   "s": {
-    "ru": "Мэн Хаожань, эпоха Тан",
-    "en": "Meng Haoran, Tang dynasty",
-    "es": "Meng Haoran, dinastía Tang",
-    "ky": "Мэн Хаожань, Тан доору",
-    "uz": "Meng Haoran, Tan sulolasi"
-   }
-  },
-  {
-   "id": 37,
-   "tag": "dream",
-   "zh": "庄生晓梦迷蝴蝶",
-   "py": "zhuāng shēng xiǎo mèng mí hú dié",
-   "t": {
-    "ru": "Чжуан-цзы в предрассветном сне заблудился, став бабочкой.",
-    "en": "In a dawn dream Zhuangzi lost himself as a butterfly.",
-    "es": "En un sueño del alba Zhuangzi se perdió convertido en mariposa.",
-    "ky": "Чжуан-цзы таңкы түшүндө көпөлөк болуп адашып кетти.",
-    "uz": "Zhuangzi tong chog‘idagi tushida kapalakka aylanib adashdi."
-   },
-   "s": {
-    "ru": "Ли Шанъинь, эпоха Тан",
-    "en": "Li Shangyin, Tang dynasty",
-    "es": "Li Shangyin, dinastía Tang",
-    "ky": "Ли Шанъинь, Тан доору",
-    "uz": "Li Shangyin, Tan sulolasi"
-   }
-  },
-  {
-   "id": 38,
-   "tag": "dream",
-   "zh": "醉后不知天在水，满船清梦压星河",
-   "py": "zuì hòu bù zhī tiān zài shuǐ, mǎn chuán qīng mèng yā xīng hé",
-   "t": {
-    "ru": "Захмелев, не замечаешь, что небо отражается в воде: лодка, полная светлых снов, плывёт по Млечному Пути.",
-    "en": "Tipsy, you forget the sky lies in the water: a boat full of clear dreams floats upon the Milky Way.",
-    "es": "Ebrio, olvidas que el cielo está en el agua: una barca llena de sueños claros navega sobre la Vía Láctea.",
-    "ky": "Кызуу кезде асман сууда экенин байкабайсың: ачык түштөргө толгон кайык Саманчынын жолу менен сүзөт.",
-    "uz": "Mast bo‘lib, osmon suvda aks etganini sezmaysan: tiniq tushlarga to‘la qayiq Somon yo‘li uzra suzadi."
-   },
-   "s": {
-    "ru": "Тан Гун, эпоха Юань",
-    "en": "Tang Gong, Yuan dynasty",
-    "es": "Tang Gong, dinastía Yuan",
-    "ky": "Тан Гун, Юань доору",
-    "uz": "Tang Gong, Yuan sulolasi"
-   }
-  },
-  {
-   "id": 39,
-   "tag": "dream",
-   "zh": "久矣吾不复梦见周公",
-   "py": "jiǔ yǐ wú bù fù mèng jiàn zhōu gōng",
-   "t": {
-    "ru": "«Как давно мне уже не снится Чжоу-гун». Так Конфуций грустил, что ослабел и больше не видит во сне своего идеала.",
-    "en": "“How long it is since I dreamed of the Duke of Zhou.” Confucius grieved that he had grown weak and no longer dreamed of his ideal.",
-    "es": "«Hace mucho que no sueño con el duque de Zhou». Confucio lamentaba haberse debilitado y no soñar ya con su ideal.",
-    "ky": "«Чжоу-гунду түшүмдө көрбөгөнүмө көп болду». Конфуций алсырап, өзүнүн идеалын түшүндө көрбөй калганына кайгырчу.",
-    "uz": "«Chjou-gunni tushimda ko‘rmaganimga ancha bo‘ldi». Konfutsiy kuchsizlanib, o‘z ideali tushiga kirmay qo‘yganidan qayg‘urgan."
-   },
-   "s": {
-    "ru": "Конфуций, «Лунь юй»",
-    "en": "Confucius, The Analects",
-    "es": "Confucio, Analectas",
-    "ky": "Конфуций, «Лунь юй»",
-    "uz": "Konfutsiy, «Lun yuy»"
-   }
-  },
-  {
-   "id": 40,
-   "tag": "both",
-   "zh": "食罢一觉睡，起来两瓯茶",
-   "py": "shí bà yī jiào shuì, qǐ lái liǎng ōu chá",
-   "t": {
-    "ru": "Поел, хорошо поспал, проснулся и выпил две чашки чая.",
-    "en": "I ate, had a good sleep, then rose and drank two bowls of tea.",
-    "es": "Comí, dormí bien, me levanté y bebí dos cuencos de té.",
-    "ky": "Тамак ичтим, жакшы уктадым, турдум да эки чөйчөк чай ичтим.",
-    "uz": "Ovqatlandim, yaxshi uxladim, turib ikki piyola choy ichdim."
-   },
-   "s": {
-    "ru": "Бо Цзюйи, эпоха Тан",
-    "en": "Bai Juyi, Tang dynasty",
-    "es": "Bai Juyi, dinastía Tang",
-    "ky": "Бо Цзюйи, Тан доору",
-    "uz": "Bai Juyi, Tan sulolasi"
-   }
-  },
-  {
-   "id": 41,
-   "tag": "both",
-   "zh": "一饮涤昏寐，再饮清我神，三饮便得道",
-   "py": "yī yǐn dí hūn mèi, zài yǐn qīng wǒ shén, sān yǐn biàn dé dào",
-   "t": {
-    "ru": "Первая чаша смывает сонную муть, вторая проясняет дух, с третьей постигаешь Путь.",
-    "en": "The first cup washes away drowsiness, the second clears the spirit, with the third you attain the Way.",
-    "es": "La primera taza borra la somnolencia, la segunda aclara el espíritu, con la tercera alcanzas el Camino.",
-    "ky": "Биринчи чөйчөк уйкулуу тумандуулукту жууйт, экинчиси рухту тазалайт, үчүнчүсү менен Жолго жетесиң.",
-    "uz": "Birinchi piyola uyqu g‘uborini yuvadi, ikkinchisi ruhni tiniqlashtiradi, uchinchisi bilan Yo‘lga erishasan."
-   },
-   "s": {
-    "ru": "Монах-поэт Цзяожань, эпоха Тан",
-    "en": "Monk-poet Jiaoran, Tang dynasty",
-    "es": "monje y poeta Jiaoran, dinastía Tang",
-    "ky": "Кечил акын Цзяожань, Тан доору",
-    "uz": "Rohib shoir Jiaoran, Tan sulolasi"
-   }
-  },
-  {
-   "id": 42,
-   "tag": "both",
-   "zh": "酒困路长惟欲睡，日高人渴漫思茶",
-   "py": "jiǔ kùn lù cháng wéi yù shuì, rì gāo rén kě màn sī chá",
-   "t": {
-    "ru": "После вина и долгой дороги хочется только спать. Солнце высоко, жажда, и думаешь лишь о чае.",
-    "en": "Weary from wine and a long road, I only want to sleep. The sun is high, I am thirsty, and I dream of tea.",
-    "es": "Cansado del vino y del largo camino, solo quiero dormir. El sol está alto, tengo sed y pienso en el té.",
-    "ky": "Шараптан жана узак жолдон кийин уктагың гана келет. Күн бийик, суусап, чай жөнүндө гана ойлойсуң.",
-    "uz": "Sharob va uzoq yo‘ldan keyin faqat uxlagim keladi. Quyosh baland, chanqadim, faqat choyni o‘ylayman."
-   },
-   "s": {
-    "ru": "Су Ши, эпоха Сун",
-    "en": "Su Shi, Song dynasty",
-    "es": "Su Shi, dinastía Song",
-    "ky": "Су Ши, Сун доору",
-    "uz": "Su Shi, Sun sulolasi"
-   }
-  },
-  {
-   "id": 43,
-   "tag": "both",
-   "zh": "酒阑更喜团茶苦，梦断偏宜瑞脑香",
-   "py": "jiǔ lán gèng xǐ tuán chá kǔ, mèng duàn piān yí ruì nǎo xiāng",
-   "t": {
-    "ru": "Когда вино допито, особенно приятна горечь прессованного чая. Когда сон прервался, хорош аромат благовоний.",
-    "en": "When the wine is done, the bitterness of pressed tea is all the sweeter. When a dream breaks off, incense suits it best.",
-    "es": "Acabado el vino, el amargor del té prensado agrada aún más. Cuando el sueño se rompe, el incienso es lo mejor.",
-    "ky": "Шарап түгөнгөндө пресстелген чайдын ачуулугу ого бетер жагымдуу. Түш үзүлгөндө жыпар түтөтүүнүн жыты жакшы.",
-    "uz": "Sharob tugagach, presslangan choyning achchig‘i yanada yoqimli. Tush uzilganda xushbo‘y tutatqi hidi yaxshi."
-   },
-   "s": {
-    "ru": "Ли Цинчжао, эпоха Сун",
-    "en": "Li Qingzhao, Song dynasty",
-    "es": "Li Qingzhao, dinastía Song",
-    "ky": "Ли Цинчжао, Сун доору",
-    "uz": "Li Qingzhao, Sun sulolasi"
-   }
-  },
-  {
-   "id": 44,
-   "tag": "both",
-   "zh": "今日鬓丝禅榻畔，茶烟轻飏落花风",
-   "py": "jīn rì bìn sī chán tà pàn, chá yān qīng yáng luò huā fēng",
-   "t": {
-    "ru": "Сегодня, седой, сижу у скамьи для медитации: дымок от чая легко вьётся на ветру с опадающими лепестками.",
-    "en": "Today, grey at the temples, I sit by the meditation bench: steam from the tea drifts lightly in a wind of falling petals.",
-    "es": "Hoy, con las sienes canas, me siento junto al banco de meditación: el vapor del té flota suave en un viento de pétalos que caen.",
-    "ky": "Бүгүн, чачым агарып, медитация отургучунун жанында отурам: чайдын буусу түшкөн гүл желеги менен жеңил тараалат.",
-    "uz": "Bugun, sochlarim oqarib, meditatsiya kursisi yonida o‘tiribman: choy bug‘i to‘kilayotgan gulbarglar shamolida yengil taraladi."
-   },
-   "s": {
-    "ru": "Ду Му, эпоха Тан",
-    "en": "Du Mu, Tang dynasty",
-    "es": "Du Mu, dinastía Tang",
-    "ky": "Ду Му, Тан доору",
-    "uz": "Du Mu, Tan sulolasi"
-   }
-  },
-  {
    "id": 45,
    "tag": "tea",
    "fa": "عمر خیام",
@@ -1112,6 +232,526 @@
     "es": "Amigo, no nos aflijamos por el mañana. Este instante de vida es un regalo. Mañana, al dejar este viejo mundo, seremos iguales a los que partieron hace siete mil años.",
     "ky": "Досум, эртеңки күн үчүн кайгырбайлы. Өмүрдүн бул көз ирмеми — белек. Эртең бул эски дүйнөдөн кеткенде, жети миң жыл мурда кеткендер менен теңелебиз.",
     "uz": "Do‘stim, ertangi kun g‘amini yemaylik. Umrning bu lahzasi — sovg‘a. Ertaga bu eski dunyodan ketganda, yetti ming yil oldin ketganlar bilan teng bo‘lamiz."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 57,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Вчера я зашёл в мастерскую гончара. Там стояли сотни кувшинов, и вдруг один воскликнул: «Где же гончар, где покупатель и где продавец?»",
+    "en": "Yesterday I walked into a potter's workshop. Hundreds of jugs stood there, and suddenly one cried out: “Where is the potter, where the buyer, where the seller?”",
+    "es": "Ayer entré en el taller de un alfarero. Había cientos de cántaros, y de pronto uno exclamó: «¿Dónde está el alfarero, dónde el comprador y dónde el vendedor?»",
+    "ky": "Кечээ карапачынын устаканасына кирдим. Ал жерде жүздөгөн кумура турган эле, бирөөсү капыстан кыйкырды: «Карапачы кайда, сатып алуучу кайда, сатуучу кайда?»",
+    "uz": "Kecha kulolning ustaxonasiga kirdim. U yerda yuzlab ko‘za turardi, birdan bittasi qichqirdi: «Kulol qani, xaridor qani, sotuvchi qani?»"
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 58,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Гончар мял глину, а глина шептала ему: «Тише, тише, ведь когда-то я была такой же, как ты».",
+    "en": "The potter was kneading clay, and the clay whispered to him: “Gently, gently, for once I was just like you.”",
+    "es": "El alfarero amasaba el barro, y el barro le susurraba: «Despacio, despacio, que una vez yo fui como tú».",
+    "ky": "Карапачы чопону ийлеп жатты, чопо ага шыбырады: «Акырын, акырын, мен да бир кезде сендей элем».",
+    "uz": "Kulol loyni qorardi, loy esa unga pichirladi: «Sekinroq, sekinroq, axir men ham bir vaqtlar sen kabi edim»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 59,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Из тех, кто ушёл по этой долгой дороге, никто не вернулся, чтобы рассказать нам, что там. Так не оставляй на потом то, что можно сделать сегодня.",
+    "en": "Of all who set out on that long road, not one has come back to tell us what lies there. So do not put off what can be done today.",
+    "es": "De todos los que partieron por ese largo camino, ninguno ha vuelto para contarnos qué hay allí. No dejes para luego lo que puedes hacer hoy.",
+    "ky": "Ошол узак жолго аттангандардын бири да кайтып келип, ал жакта эмне бар экенин айтып берген жок. Бүгүн жасай турган ишти кийинкиге калтырба.",
+    "uz": "O‘sha uzoq yo‘lga ketganlardan birortasi ham qaytib kelib, u yerda nima borligini aytmadi. Bugun qila oladigan ishingni keyinga qoldirma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 60,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Мы пришли в этот мир, как капля в море, и уйдём, как мошка, что мелькнула и исчезла. Поэтому каждый миг дорог.",
+    "en": "We came into this world like a drop into the sea, and we will leave like a gnat that flickers and vanishes. That is why every moment is precious.",
+    "es": "Llegamos a este mundo como una gota al mar y nos iremos como un mosquito que aparece y desaparece. Por eso cada instante es valioso.",
+    "ky": "Биз бул дүйнөгө деңизге тамган тамчыдай келдик, жылт этип жоголгон чиркейдей кетебиз. Ошондуктан ар бир көз ирмем кымбат.",
+    "uz": "Biz bu dunyoga dengizga tushgan tomchidek keldik, lip etib yo‘qolgan pashshadek ketamiz. Shuning uchun har bir lahza qimmatli."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 61,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Трава, что растёт у ручья, может, выросла из губ прекрасной девушки. Не топчи её небрежно: ступай бережно.",
+    "en": "The grass growing by the stream may have sprung from the lips of a lovely girl. Do not trample it carelessly: tread gently.",
+    "es": "La hierba que crece junto al arroyo quizá brotó de los labios de una bella muchacha. No la pises con descuido: camina con cuidado.",
+    "ky": "Арыктын жээгинде өскөн чөп сулуу кыздын эрининен өнүп чыккандыр. Аны шалаакы тебелебе: этият бас.",
+    "uz": "Ariq bo‘yida o‘sgan maysa go‘zal qizning lablaridan unib chiqqandir. Uni beparvo oyoq osti qilma: ehtiyot bo‘lib yur."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 62,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Каждая пылинка на этой земле когда-то была чьим-то лицом. Смахивая пыль, делай это нежно.",
+    "en": "Every speck of dust on this earth was once someone's face. When you brush the dust away, do it tenderly.",
+    "es": "Cada mota de polvo de esta tierra fue alguna vez el rostro de alguien. Cuando quites el polvo, hazlo con ternura.",
+    "ky": "Бул жердеги ар бир чаң бир кезде кимдир бирөөнүн жүзү болгон. Чаңды аарчыганда назик аарчы.",
+    "uz": "Bu yerdagi har bir zarra bir vaqtlar kimningdir yuzi bo‘lgan. Changni artayotganda nozik art."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 63,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Кусок хлеба, кувшин, книга стихов и ты рядом со мной в пустыне. И пустыня становится раем.",
+    "en": "A loaf of bread, a jug, a book of verse, and you beside me in the wilderness. And the wilderness becomes paradise.",
+    "es": "Un pedazo de pan, un cántaro, un libro de versos y tú a mi lado en el desierto. Y el desierto se vuelve paraíso.",
+    "ky": "Бир кесим нан, кумура, ыр китеби жана чөлдө жанымда сен. Ошондо чөл бейишке айланат.",
+    "uz": "Bir burda non, ko‘za, she’rlar kitobi va sahroda yonimda sen. Shunda sahro jannatga aylanadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 64,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я послал душу в незримое узнать тайну жизни после жизни. Душа вернулась и сказала: «Рай и ад — во мне самом».",
+    "en": "I sent my soul into the unseen to learn the secret of the life beyond. My soul returned and said: “Heaven and hell are within me.”",
+    "es": "Envié mi alma a lo invisible para conocer el secreto de la otra vida. Mi alma volvió y dijo: «El cielo y el infierno están en mí mismo».",
+    "ky": "Жанымды көзгө көрүнбөгөн дүйнөгө жиберип, о дүйнөнүн сырын билгим келди. Жаным кайтып келип айтты: «Бейиш да, тозок да өзүмдө».",
+    "uz": "Ruhimni ko‘rinmas olamga yuborib, narigi dunyo sirini bilmoqchi bo‘ldim. Ruhim qaytib keldi va dedi: «Jannat ham, do‘zax ham o‘zimda»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 65,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Перо судьбы пишет и, написав, идёт дальше. Ни мольбой, ни умом, ни слезами не сотрёшь ни одной строки. Поэтому пиши свою жизнь бережно.",
+    "en": "The pen of fate writes and, having written, moves on. Neither prayer nor wit nor tears can erase a single line. So write your life with care.",
+    "es": "La pluma del destino escribe y, una vez escrito, sigue adelante. Ni ruegos, ni ingenio, ni lágrimas borran una sola línea. Escribe tu vida con cuidado.",
+    "ky": "Тагдырдын калеми жазат да, жазып бүтүп, ары кетет. Жалынуу да, акыл да, көз жаш да бир сапты өчүрө албайт. Ошондуктан өмүрүңдү этият жаз.",
+    "uz": "Taqdir qalami yozadi va yozib bo‘lib, yo‘lida davom etadi. Na iltijo, na aql, na ko‘z yoshi bir satrni o‘chira oladi. Shuning uchun umringni ehtiyot bilan yoz."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 66,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Великие мудрецы, что были светильниками знания, так и не нашли выхода из этой тёмной ночи. Рассказали сказку и уснули.",
+    "en": "The great sages, who were lamps of knowledge, never found a way out of this dark night. They told a tale and fell asleep.",
+    "es": "Los grandes sabios, que eran lámparas del saber, nunca hallaron salida de esta noche oscura. Contaron un cuento y se durmieron.",
+    "ky": "Билимдин чырагы болгон улуу акылмандар да бул караңгы түндөн чыгар жол таба алышкан жок. Жомок айтып беришти да, уктап калышты.",
+    "uz": "Ilm chirog‘i bo‘lgan buyuk donishmandlar ham bu qorong‘i tundan chiqish yo‘lini topa olmadilar. Bir ertak aytib berishdi-yu, uxlab qolishdi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 67,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Никто не обещал нам завтрашний день. Порадуй своё сердце сейчас, сядь при лунном свете: луна ещё долго будет светить, а нас не найдёт.",
+    "en": "No one has promised us tomorrow. Gladden your heart now, sit in the moonlight: the moon will shine for a long time yet, but will not find us.",
+    "es": "Nadie nos ha prometido el mañana. Alegra tu corazón ahora, siéntate a la luz de la luna: la luna brillará mucho tiempo, pero no nos encontrará.",
+    "ky": "Эч ким бизге эртеңки күндү убада кылган эмес. Жүрөгүңдү азыр кубант, ай жарыгында отур: ай дагы көпкө жаркырайт, а бизди таппайт.",
+    "uz": "Hech kim bizga ertangi kunni va’da qilmagan. Ko‘nglingni hozir shod qil, oy nurida o‘tir: oy hali uzoq porlaydi, bizni esa topmaydi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 68,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Будь у меня власть над небом, я переделал бы его, чтобы каждый добрый человек легко достигал своей мечты.",
+    "en": "If I had power over the heavens, I would remake them so that every kind person could easily reach their dream.",
+    "es": "Si tuviera poder sobre el cielo, lo rehacería para que toda persona buena alcanzara fácilmente su sueño.",
+    "ky": "Асманга бийлигим болсо, аны кайра жасап, ар бир боорукер адам өз тилегине оңой жетсин дээр элем.",
+    "uz": "Agar falakka hukmim yetsa edi, uni qaytadan yaratib, har bir yaxshi odam orzusiga oson yetishini qilardim."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 69,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Не поднимай рук к ночному небу с мольбой о помощи: оно и само кружится по кругу так же беспомощно, как ты и я.",
+    "en": "Do not raise your hands to the night sky for help: it turns round and round as helplessly as you or I.",
+    "es": "No alces las manos al cielo nocturno pidiendo ayuda: gira y gira tan impotente como tú o como yo.",
+    "ky": "Жардам сурап түнкү асманга кол көтөрбө: ал өзү да сендей, мендей арга жок айланып турат.",
+    "uz": "Yordam so‘rab tungi osmonga qo‘l cho‘zma: uning o‘zi ham sen va men kabi ilojsiz aylanib turadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 70,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Будь счастлив этим мигом: этот миг и есть твоя жизнь.",
+    "en": "Be happy in this moment: this moment is your life.",
+    "es": "Sé feliz en este instante: este instante es tu vida.",
+    "ky": "Ушул көз ирмемге бактылуу бол: ушул көз ирмем — сенин өмүрүң.",
+    "uz": "Shu lahzadan baxtiyor bo‘l: shu lahza — sening umring."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 71,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Лучше честно признаться в своих слабостях, чем носить маску святого и лицемерить.",
+    "en": "Better to admit your weaknesses honestly than to wear the mask of a saint and pretend.",
+    "es": "Mejor admitir con honestidad tus debilidades que llevar la máscara de un santo y fingir.",
+    "ky": "Олуянын бетпердесин кийип эки жүздүү болгончо, алсыздыгыңды чынчылдык менен мойнуңа алганың жакшы.",
+    "uz": "Avliyo niqobini kiyib ikkiyuzlamachilik qilgandan ko‘ra, zaifliklaringni halol tan olgan yaxshi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 72,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Утренний ветерок распахнул одежды розы, и соловей запел от радости. Посиди в саду: эта минута больше не повторится.",
+    "en": "The morning breeze opened the rose's robe, and the nightingale sang for joy. Sit in the garden: this minute will not come again.",
+    "es": "La brisa de la mañana abrió el manto de la rosa y el ruiseñor cantó de alegría. Siéntate en el jardín: este minuto no volverá.",
+    "ky": "Таңкы жел гүлдүн кийимин ачты, булбул кубанычтан сайрады. Бакта отур: бул мүнөт кайталанбайт.",
+    "uz": "Tong shabadasi gulning libosini ochdi, bulbul shodlikdan sayradi. Bog‘da o‘tir: bu daqiqa qaytib kelmaydi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 73,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Весна, ручей, несколько верных друзей и полная чаша. Мне больше ничего не нужно.",
+    "en": "Spring, a stream, a few true friends and a full cup. I need nothing more.",
+    "es": "Primavera, un arroyo, unos pocos amigos fieles y una copa llena. No necesito nada más.",
+    "ky": "Жаз, суу жээги, бир нече чыныгы дос жана толгон чөйчөк. Мага мындан башка эч нерсе керек эмес.",
+    "uz": "Bahor, ariq bo‘yi, bir necha sodiq do‘st va to‘la kosa. Menga bundan boshqa hech narsa kerak emas."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 74,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Облако плакало над травой. Мы смотрим сегодня на эту свежую зелень, а кто будет смотреть на траву, что вырастет из нашего праха?",
+    "en": "The cloud wept over the grass. Today we gaze at this fresh green, but who will gaze at the grass that grows from our dust?",
+    "es": "La nube lloró sobre la hierba. Hoy contemplamos este verde fresco, pero ¿quién contemplará la hierba que crezca de nuestro polvo?",
+    "ky": "Булут чөптүн үстүндө ыйлады. Бүгүн биз бул жаңы көк чөптү карап турабыз, а биздин топурагыбыздан өскөн чөптү ким карайт?",
+    "uz": "Bulut maysa ustida yig‘ladi. Bugun biz bu yashil maysaga qarab turibmiz, bizning tuprog‘imizdan o‘sgan maysaga kim qaraydi?"
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 75,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Тайны, что я знаю, я не могу рассказать никому: не каждое сердце их вместит. Иные вещи понимаешь только сам, в тишине.",
+    "en": "The secrets I know I can tell no one: not every heart can hold them. Some things you only understand yourself, in silence.",
+    "es": "Los secretos que conozco no puedo contárselos a nadie: no todo corazón los puede contener. Algunas cosas solo se entienden a solas, en silencio.",
+    "ky": "Мен билген сырларды эч кимге айта албайм: ар бир жүрөк аларды батыра албайт. Айрым нерселерди өзүң гана, тынчтыкта түшүнөсүң.",
+    "uz": "Men bilgan sirlarni hech kimga ayta olmayman: har bir yurak ularni sig‘dira olmaydi. Ba’zi narsalarni faqat o‘zing, sukunatda tushunasan."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 76,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Жизнь дана нам взаймы на короткий срок. Береги её, как дорогой подарок от друга.",
+    "en": "Life is lent to us for a short while. Cherish it like a precious gift from a friend.",
+    "es": "La vida nos es prestada por poco tiempo. Cuídala como un regalo valioso de un amigo.",
+    "ky": "Өмүр бизге кыска убакытка карызга берилген. Аны досуңдун кымбат белегиндей сакта.",
+    "uz": "Umr bizga qisqa muddatga omonat berilgan. Uni do‘stingning qimmatli sovg‘asidek asra."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 77,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если весь этот мир — лишь сон, зачем же так мучиться во сне? Проснись с лёгким сердцем.",
+    "en": "If this whole world is only a dream, why torment yourself so much in the dream? Wake with a light heart.",
+    "es": "Si todo este mundo es solo un sueño, ¿para qué atormentarse tanto en él? Despierta con el corazón ligero.",
+    "ky": "Эгер бул дүйнөнүн баары түш гана болсо, түштө мынчалык эмнеге кыйналасың? Жеңил жүрөк менен ойгон.",
+    "uz": "Agar bu butun dunyo faqat tush bo‘lsa, tushda nega bunchalik qiynalasan? Yengil ko‘ngil bilan uyg‘on."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 78,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Под землёй мы выспимся вдоволь, без друзей и без бесед. Так не проспи эту ночь, пока рядом те, кого ты любишь.",
+    "en": "Beneath the earth we will sleep our fill, without friends or talk. So do not sleep through this night while those you love are near.",
+    "es": "Bajo la tierra dormiremos a gusto, sin amigos ni charlas. Así que no te duermas esta noche mientras tengas cerca a los que amas.",
+    "ky": "Жер астында достор менен маектешүүсүз тоюп уктайбыз. Андыктан сүйгөндөрүң жаныңда турганда бул түндү уктап өткөрбө.",
+    "uz": "Yer ostida do‘stlarsiz, suhbatsiz to‘yib uxlaymiz. Shuning uchun sevganlaring yoningda ekan, bu tunni uxlab o‘tkazma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 79,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Каждое утро роса ложится на тюльпаны, и к полудню её уже нет. Так и печаль: не держись за неё, она высохнет сама.",
+    "en": "Every morning dew settles on the tulips, and by noon it is gone. Sorrow is the same: do not hold on to it, it will dry on its own.",
+    "es": "Cada mañana el rocío cae sobre los tulipanes, y al mediodía ya no está. Así es la tristeza: no te aferres a ella, se secará sola.",
+    "ky": "Ар таң сайын жоогазындарга шүүдүрүм түшөт, түшкө маал ал жок болот. Кайгы да ушундай: аны кармаба, өзү эле кургайт.",
+    "uz": "Har tong lolalarga shabnam qo‘nadi, tushga borib u yo‘q bo‘ladi. G‘am ham shunday: uni ushlab turma, o‘zi qurib ketadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 80,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Делай добро и не жди награды: доброе дело, как семя, само прорастёт там, где ты не ждёшь.",
+    "en": "Do good and expect no reward: a good deed, like a seed, will sprout by itself where you least expect it.",
+    "es": "Haz el bien y no esperes recompensa: una buena acción, como una semilla, brotará sola donde menos lo esperas.",
+    "ky": "Жакшылык кыл да, сыйлык күтпө: жакшы иш үрөндөй, сен күтпөгөн жерден өзү өнүп чыгат.",
+    "uz": "Yaxshilik qil-u, mukofot kutma: yaxshi ish urug‘dek, sen kutmagan joyda o‘zi unib chiqadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 81,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Друзья, когда соберётесь вместе и поднимете чаши, вспомните обо мне. А когда дойдёт черёд до моего места, переверните одну пустую чашу.",
+    "en": "Friends, when you gather and raise your cups, remember me. And when you come to my empty place, turn one cup upside down.",
+    "es": "Amigos, cuando os reunáis y alcéis las copas, acordaos de mí. Y cuando lleguéis a mi sitio vacío, poned una copa boca abajo.",
+    "ky": "Достор, чогулуп чөйчөк көтөргөндө мени эстегиле. Менин бош ордума келгенде, бир бош чөйчөктү тескери коюп койгула.",
+    "uz": "Do‘stlar, yig‘ilib kosa ko‘targaningizda meni eslang. Mening bo‘sh joyimga kelganda esa, bitta bo‘sh kosani to‘ntarib qo‘ying."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 82,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Начало и конец этого мира скрыты от нас. Не ломай голову над загадкой без ответа: лучше порадуйся тому, что есть.",
+    "en": "The beginning and the end of this world are hidden from us. Do not rack your brain over a riddle with no answer: better rejoice in what you have.",
+    "es": "El principio y el fin de este mundo nos están ocultos. No te rompas la cabeza con un enigma sin respuesta: mejor alégrate de lo que tienes.",
+    "ky": "Бул дүйнөнүн башы да, аягы да бизден жашырылган. Жообу жок табышмакка башыңды катырба: андан көрө бар нерсеге кубан.",
+    "uz": "Bu dunyoning boshi ham, oxiri ham bizdan yashirin. Javobsiz jumboq ustida boshingni qotirma: undan ko‘ra borga shukr qilib shodlan."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",

@@ -60,7 +60,7 @@ if(window.chamiDress) window.chamiDress();
 
   /* ---------- wisdoms (wisdoms.json is refilled every week) ---------- */
   var chat=document.getElementById('fuChat'), cBody=chat.querySelector('.fu-body'), cActs=chat.querySelector('.fu-acts');
-  var FALLBACK=[{id:1,tag:'tea',zh:'吃茶去',py:'chī chá qù',t:{ru:'«Иди выпей чаю».',en:'“Go and have some tea.”',es:'«Ve a tomar té».',ky:'«Барып чай ич».',uz:'«Borib choy ich».'},s:{ru:'Мастер чань Чжаочжоу',en:'Chan master Zhaozhou',es:'maestro chan Zhaozhou',ky:'Чань устаты Чжаочжоу',uz:'Chan ustozi Zhaozhou'}}];
+  var FALLBACK=[{id:46,tag:'tea',fa:'عمر خیام',py:'ʿOmar Khayyām · 1048–1131',t:{ru:'Вчерашний день ушёл, завтрашний ещё не настал. Живи этим мгновением.',en:'Yesterday is gone and tomorrow has not come. Live this moment.',es:'El ayer se fue y el mañana aún no llega. Vive este instante.',ky:'Кечээки күн кетти, эртеңкиси али келе элек. Ушул көз ирмем менен жаша.',uz:'Kechagi kun ketdi, ertangisi hali kelmadi. Shu lahza bilan yasha.'},s:{ru:'Омар Хайям, рубаи (пересказ)',en:'Omar Khayyam, rubaiyat (retold)',es:'Omar Jayam, rubaiyat (versión libre)',ky:'Омар Хайям, рубаилер (кайра баяндоо)',uz:'Umar Xayyom, ruboiylar (erkin bayon)'}}];
   var W=null, cur=null, state='', topic='any', line='';
   var base=(document.querySelector('script[src*="fu.js"]')||{}).src||'/fu.js';
   var wUrl=base.replace(/fu\.js.*$/,'wisdoms.json');
