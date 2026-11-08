@@ -880,6 +880,246 @@
     "ky": "Ду Му, Тан доору",
     "uz": "Du Mu, Tan sulolasi"
    }
+  },
+  {
+   "id": 45,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Караван жизни идёт удивительно быстро. Лови миг радости и не печалься о завтрашнем дне: подай чашу, ночь уже проходит.",
+    "en": "The caravan of life passes strangely fast. Catch the moment of joy and do not grieve over tomorrow: bring the cup, the night is slipping away.",
+    "es": "La caravana de la vida pasa asombrosamente rápido. Atrapa el instante de alegría y no te aflijas por el mañana: trae la copa, que la noche se va.",
+    "ky": "Өмүр кербени таң каларлык тез өтөт. Кубанычтуу көз ирмемди карма, эртеңки күн үчүн кайгырба: чөйчөктү алып кел, түн өтүп баратат.",
+    "uz": "Umr karvoni ajib tez o‘tadi. Shodlik lahzasini tut, ertangi kun g‘amini yema: kosani keltir, tun o‘tib boryapti."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 46,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Вчерашний день ушёл, завтрашний ещё не настал. Не тревожься ни о том, ни о другом: живи этим мгновением.",
+    "en": "Yesterday is gone and tomorrow has not come. Worry about neither: live this moment.",
+    "es": "El ayer se fue y el mañana aún no llega. No te inquietes por ninguno: vive este instante.",
+    "ky": "Кечээки күн кетти, эртеңкиси али келе элек. Экөөнө тең кабатыр болбо: ушул көз ирмем менен жаша.",
+    "uz": "Kechagi kun ketdi, ertangisi hali kelmadi. Ikkisidan ham tashvish chekma: shu lahza bilan yasha."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 47,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Этот глиняный кувшин когда-то был влюблённым, как я. Его ручка — рука, что обнимала любимую.",
+    "en": "This clay jug was once a lover, just like me. Its handle is the arm that once embraced the beloved.",
+    "es": "Este cántaro de barro fue una vez un enamorado, como yo. Su asa es el brazo que abrazaba a la amada.",
+    "ky": "Бул чопо кумура бир кезде мендей ашык болгон. Анын тутканы — сүйгөнүн кучактаган кол.",
+    "uz": "Bu sopol ko‘za bir vaqtlar men kabi oshiq bo‘lgan. Uning dastasi — yorni quchgan qo‘l."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 48,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я спал, и мудрец сказал мне: проснись, во сне ещё никто не нашёл цветка радости. Выспаться ты успеешь.",
+    "en": "I was asleep, and a sage said to me: wake up, no one has ever found the flower of joy in sleep. There will be time enough to rest.",
+    "es": "Dormía, y un sabio me dijo: despierta, nadie ha hallado jamás en el sueño la flor de la alegría. Ya tendrás tiempo de descansar.",
+    "ky": "Мен уктап жаткам, бир акылман мага айтты: ойгон, түштө эч ким кубаныч гүлүн тапкан эмес. Уктап алууга үлгүрөсүң.",
+    "uz": "Uxlab yotgan edim, bir donishmand menga dedi: uyg‘on, tushda hech kim shodlik gulini topmagan. Uxlab olishga ulgurasan."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 49,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Не сажай в саду сердца ростка печали. Читай каждый день книгу радости и пей из чаши жизни, пока она полна.",
+    "en": "Do not plant a sprout of sorrow in the garden of your heart. Read the book of joy every day and drink from the cup of life while it is full.",
+    "es": "No plantes en el jardín del corazón el brote de la tristeza. Lee cada día el libro de la alegría y bebe de la copa de la vida mientras esté llena.",
+    "ky": "Жүрөк багына кайгынын көчөтүн отургузба. Ар күнү кубаныч китебин оку, өмүр чөйчөгү толук турганда андан ич.",
+    "uz": "Yurak bog‘iga g‘am nihollarini ekma. Har kuni shodlik kitobini o‘qi, umr kosasi to‘la ekan, undan ich."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 50,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Луна ещё много раз взойдёт и будет искать нас в этом саду, но кого-то из нас уже не найдёт. Проведём же эту ночь вместе.",
+    "en": "The moon will rise many more times and look for us in this garden, but some of us it will not find. So let us spend this night together.",
+    "es": "La luna saldrá muchas veces más y nos buscará en este jardín, pero a alguno de nosotros ya no lo encontrará. Pasemos, pues, esta noche juntos.",
+    "ky": "Ай дагы көп ирет чыгып, бизди ушул бактан издейт, бирок айрымыбызды таппайт. Андыктан бул түндү бирге өткөрөлү.",
+    "uz": "Oy hali ko‘p marta chiqib, bizni shu bog‘dan izlaydi, ammo ba’zimizni topmaydi. Shunday ekan, bu tunni birga o‘tkazaylik."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 51,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Тайны вечности не прочтёшь ни ты, ни я. За завесой о нас спорят, а когда завеса упадёт, не останется ни тебя, ни меня.",
+    "en": "Neither you nor I can read the secrets of eternity. Behind the veil they talk of us, and when the veil falls there will be neither you nor me.",
+    "es": "Ni tú ni yo podemos leer los secretos de la eternidad. Tras el velo hablan de nosotros, y cuando caiga el velo no quedaremos ni tú ni yo.",
+    "ky": "Түбөлүктүн сырын сен да, мен да окуй албайбыз. Парда артында биз жөнүндө сүйлөшөт, парда түшкөндө сен да, мен да калбайбыз.",
+    "uz": "Azal sirlarini na sen bilasan, na men. Parda ortida biz haqimizda gap bor, parda tushsa, na sen qolasan, na men."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 52,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Этот мир — старый караван-сарай. День и ночь сменяют друг друга у его ворот, а сотни царей уже ушли отсюда. Будь здесь добрым гостем.",
+    "en": "This world is an old caravanserai. Day and night take turns at its gates, and hundreds of kings have already left it. Be a kind guest here.",
+    "es": "Este mundo es un viejo caravasar. El día y la noche se turnan en sus puertas, y cientos de reyes ya se han marchado. Sé aquí un buen huésped.",
+    "ky": "Бул дүйнө — эски кербен сарай. Анын дарбазасында күн менен түн алмашат, жүздөгөн падышалар бул жерден кетип калды. Бул жерде жакшы конок бол.",
+    "uz": "Bu dunyo — eski karvonsaroy. Uning darvozasida kun bilan tun almashadi, yuzlab shohlar bu yerdan ketib bo‘ldi. Bu yerda yaxshi mehmon bo‘l."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 53,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Посмотри: роза раскрылась на рассвете, и ветер уже уносит её лепестки. Так и наша жизнь: радуйся, пока цветёт.",
+    "en": "Look: the rose opened at dawn, and the wind is already carrying off its petals. So is our life: rejoice while it blooms.",
+    "es": "Mira: la rosa se abrió al alba y el viento ya se lleva sus pétalos. Así es nuestra vida: alégrate mientras florece.",
+    "ky": "Кара: гүл таң атканда ачылды, шамал анын желектерин алып кетип баратат. Өмүрүбүз да ушундай: гүлдөп турганда кубан.",
+    "uz": "Qara: gul tongda ochildi, shamol esa uning yaproqlarini olib ketyapti. Umrimiz ham shunday: gullab turganda shodlan."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 54,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "На рассвете я дремал и услышал голос: «Проснитесь, наполните чаши, пока чаша жизни не опустела».",
+    "en": "At dawn I was dozing and heard a voice: “Wake up and fill your cups before the cup of life runs dry.”",
+    "es": "Al alba dormitaba y oí una voz: «Despertad y llenad las copas antes de que se vacíe la copa de la vida».",
+    "ky": "Таң эрте мүлгүп жатып бир үн уктум: «Ойгонгула, өмүр чөйчөгү бошой электе чөйчөктөрдү толтургула».",
+    "uz": "Tong chog‘i mudrab yotib bir ovoz eshitdim: «Uyg‘oninglar, umr kosasi bo‘shamasdan kosalarni to‘ldiringlar»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 55,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Мы — куклы, а небо — кукольник. Немного поиграем на доске бытия и по одному вернёмся в ящик. Так сыграем свою роль достойно.",
+    "en": "We are puppets and heaven is the puppeteer. We play a little on the board of being, then one by one go back into the box. So let us play our part well.",
+    "es": "Somos títeres y el cielo es el titiritero. Jugamos un poco en el tablero del ser y uno a uno volvemos a la caja. Hagamos bien nuestro papel.",
+    "ky": "Биз — куурчактарбыз, асман — куурчакчы. Бир аз бар болуу тактасында ойноп, бирден кутуга кайтабыз. Андыктан ролубузду татыктуу ойнойлу.",
+    "uz": "Biz — qo‘g‘irchoqlarmiz, osmon — qo‘g‘irchoqboz. Borliq taxtasida biroz o‘ynab, birin-ketin qutiga qaytamiz. Shunday ekan, rolimizni munosib o‘ynaylik."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 56,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Друг, не будем горевать о завтрашнем дне. Этот миг жизни — подарок. Завтра, покинув старый мир, мы станем равны тем, кто ушёл семь тысяч лет назад.",
+    "en": "Friend, let us not grieve over tomorrow. This moment of life is a gift. Tomorrow, leaving this old world, we will be equal to those who left seven thousand years ago.",
+    "es": "Amigo, no nos aflijamos por el mañana. Este instante de vida es un regalo. Mañana, al dejar este viejo mundo, seremos iguales a los que partieron hace siete mil años.",
+    "ky": "Досум, эртеңки күн үчүн кайгырбайлы. Өмүрдүн бул көз ирмеми — белек. Эртең бул эски дүйнөдөн кеткенде, жети миң жыл мурда кеткендер менен теңелебиз.",
+    "uz": "Do‘stim, ertangi kun g‘amini yemaylik. Umrning bu lahzasi — sovg‘a. Ertaga bu eski dunyodan ketganda, yetti ming yil oldin ketganlar bilan teng bo‘lamiz."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
   }
  ]
 }

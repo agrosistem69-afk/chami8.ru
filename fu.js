@@ -93,7 +93,7 @@ if(window.chamiDress) window.chamiDress();
       btn(d.tTea,function(){ topic='tea'; showW(); },1); btn(d.tDream,function(){ topic='dream'; showW(); },1); btn(d.tAny,function(){ topic='any'; showW(); });
     } else if(state==='wait'){ cBody.innerHTML='<p>'+esc(d.wait)+'</p>'; }
     else if(state==='w'&&cur){
-      cBody.innerHTML='<p class="fu-intro">'+esc(line)+'</p><div class="fu-zh" lang="zh">'+esc(cur.zh)+'</div>'+(cur.py?'<div class="fu-py">'+esc(cur.py)+'</div>':'')+'<p>'+esc(cur.t[l]||cur.t.ru)+'</p><p class="fu-src">— '+esc((cur.s&&(cur.s[l]||cur.s.ru))||'')+'</p>';
+      cBody.innerHTML='<p class="fu-intro">'+esc(line)+'</p>'+(cur.fa?'<div class="fu-zh" lang="fa" dir="rtl">'+esc(cur.fa)+'</div>':'<div class="fu-zh" lang="zh">'+esc(cur.zh)+'</div>')+(cur.py?'<div class="fu-py">'+esc(cur.py)+'</div>':'')+'<p>'+esc(cur.t[l]||cur.t.ru)+'</p><p class="fu-src">— '+esc((cur.s&&(cur.s[l]||cur.s.ru))||'')+'</p>';
       btn(d.more,showW,1); btn(d.thanks,thanks);
     } else if(state==='bye'){ cBody.innerHTML='<p>'+esc(line)+'</p>'; }
   }
