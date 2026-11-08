@@ -92,3 +92,10 @@ body.has-sticky{padding-bottom:84px}
 .cards li:hover{box-shadow:0 10px 24px -14px rgba(0,0,0,.45);transform:translateY(-2px)}
 .cards li:hover h2 a{color:var(--cinnabar)}
 @media (prefers-reduced-motion:reduce){.cards li{transition:none}.cards li:hover{transform:none}}
+
+/* frame reserved for a photo Greg will send later */
+.ph{margin:1.6em 0}
+.ph .frame{aspect-ratio:4/3;border:2px dashed rgba(163,48,28,.35);border-radius:8px;background:rgba(229,214,182,.35);display:grid;place-items:center;text-align:center;padding:16px}
+.ph .frame span{font:48px/1 var(--f-brush);color:rgba(163,48,28,.45);display:block;margin-bottom:8px}
+.ph .frame small{color:var(--muted);font-size:14px}
+.ph.wide .frame{aspect-ratio:16/9}
