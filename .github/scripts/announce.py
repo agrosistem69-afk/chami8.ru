@@ -24,7 +24,7 @@ def post(url, payload):
     req = urllib.request.Request(url, data=json.dumps(payload).encode(), headers={"Content-Type": "application/json; charset=utf-8"})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
-            print(url, r.status)
+            print(url.split("/bot")[0], r.status)
             return r.read()
     except urllib.error.HTTPError as e:  # keep going: one failed ping must not stop the rest
         print(url.split("/bot")[0], "failed:", e.code, e.read().decode(errors="replace")[:300])
