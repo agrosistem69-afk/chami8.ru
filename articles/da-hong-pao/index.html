@@ -188,5 +188,23 @@
   <a href="/#offer">Оферта</a><a href="/#privacy">Политика конфиденциальности</a><a href="/#delivery">Доставка и возврат</a>
   <span>© 2026 · ИП Кордеро Гонсалес Г. Д. · ИНН 771977151064</span>
 </div></footer>
+<div class="sticky-buy" id="stickyBuy" aria-label="Купить Да Хун Пао">
+  <div class="in">
+    <img src="/articles/img/products/da-hong-pao-100g.webp" width="44" height="55" alt="">
+    <span class="nm">Да Хун Пао, 100 г<b>550 ₽</b></span>
+    <a class="btn" href="/?add=dhp">Купить</a>
+  </div>
+</div>
+<script>
+(function(){
+  var bar=document.getElementById('stickyBuy'), shop=document.querySelector('.shop'), h1=document.querySelector('h1');
+  if(!bar) return; document.body.classList.add('has-sticky');
+  var shopOn=false, pastTop=false, upd=function(){ bar.classList.toggle('on', pastTop && !shopOn); };
+  if('IntersectionObserver' in window){
+    if(shop) new IntersectionObserver(function(e){ shopOn=e[0].isIntersecting; upd(); }).observe(shop);
+    if(h1) new IntersectionObserver(function(e){ pastTop=!e[0].isIntersecting && e[0].boundingClientRect.top<0; upd(); }).observe(h1);
+  } else { bar.classList.add('on'); }
+})();
+</script>
 </body>
 </html>
