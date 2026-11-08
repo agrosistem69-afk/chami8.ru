@@ -85,3 +85,10 @@ footer a{color:var(--on-ink-muted)}
 .sticky-buy .btn{padding:11px 18px;white-space:nowrap}
 body.has-sticky{padding-bottom:84px}
 @media (prefers-reduced-motion:reduce){.sticky-buy{transition:none}}
+
+/* whole article card is clickable (stretched title link) */
+.cards li{position:relative;transition:box-shadow .2s,transform .2s}
+.cards h2 a::after{content:"";position:absolute;inset:0;z-index:1}
+.cards li:hover{box-shadow:0 10px 24px -14px rgba(0,0,0,.45);transform:translateY(-2px)}
+.cards li:hover h2 a{color:var(--cinnabar)}
+@media (prefers-reduced-motion:reduce){.cards li{transition:none}.cards li:hover{transform:none}}
