@@ -1,6 +1,6 @@
 """After a push to main: tell search engines about new or changed pages (IndexNow)
 and, if Telegram secrets are set, post new articles to the channel."""
-import json, os, re, subprocess, sys, time, urllib.request, html
+import json, os, re, subprocess, sys, time, urllib.request, urllib.error, html
 
 SITE = "https://chami8.ru"
 KEY = os.environ["INDEXNOW_KEY"]
@@ -26,8 +26,10 @@ def post(url, payload):
         with urllib.request.urlopen(req, timeout=30) as r:
             print(url, r.status)
             return r.read()
-    except Exception as e:  # keep going: one failed ping must not stop the rest
-        print(url, "failed:", e)
+    except urllib.error.HTTPError as e:  # keep going: one failed ping must not stop the rest
+        print(url.split("/bot")[0], "failed:", e.code, e.read().decode(errors="replace")[:300])
+    except Exception as e:
+        print(url.split("/bot")[0], "failed:", e)
 
 
 now, was = locs(open("sitemap.xml", encoding="utf-8").read()), locs(old_sitemap())
@@ -52,7 +54,8 @@ for endpoint in ("https://yandex.com/indexnow", "https://api.indexnow.org/indexn
 token, chat = os.environ.get("TG_TOKEN"), os.environ.get("TG_CHAT")
 if not (token and chat):
     print("Telegram secrets not set, skipping posts")
-    sys.exit(0)
+    sys.exit(1 if os.environ.get("TEST") else 0)
+tg_failed = False
 for u in new:
     if "/articles/" not in u or u.rstrip("/").endswith("/articles"):
         continue
@@ -64,4 +67,8 @@ for u in new:
     desc = re.search(r'<meta name="description" content="([^"]*)"', page)
     title = re.sub("<[^>]+>", "", title.group(1)).strip() if title else u
     text = f"🍵 <b>{html.escape(html.unescape(title))}</b>\n\n{html.escape(html.unescape(desc.group(1))) if desc else ''}\n\n<a href=\"{u}\">Читать на сайте «Ча Ми»</a>"
-    post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML"})
+    if post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat.strip(), "text": text, "parse_mode": "HTML"}) is None:
+        tg_failed = True
+    else:
+        print("Telegram: posted", u)
+sys.exit(1 if tg_failed else 0)
