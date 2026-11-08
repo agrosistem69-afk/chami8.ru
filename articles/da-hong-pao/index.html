@@ -199,12 +199,13 @@
 (function(){
   var bar=document.getElementById('stickyBuy'), shop=document.querySelector('.shop'), h1=document.querySelector('h1');
   if(!bar) return; document.body.classList.add('has-sticky');
-  var shopOn=false, pastTop=false, upd=function(){ bar.classList.toggle('on', pastTop && !shopOn); };
+  var shopOn=false, pastTop=false, upd=function(){ var on=pastTop && !shopOn; bar.classList.toggle('on', on); document.body.classList.toggle('sticky-on', on); };
   if('IntersectionObserver' in window){
     if(shop) new IntersectionObserver(function(e){ shopOn=e[0].isIntersecting; upd(); }).observe(shop);
     if(h1) new IntersectionObserver(function(e){ pastTop=!e[0].isIntersecting && e[0].boundingClientRect.top<0; upd(); }).observe(h1);
   } else { bar.classList.add('on'); }
 })();
 </script>
+<script src="/fu.js?v=1" defer></script>
 </body>
 </html>
