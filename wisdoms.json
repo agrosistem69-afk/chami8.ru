@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "items": [
   {
    "id": 45,
@@ -1212,6 +1212,206 @@
     "es": "Ven, llena la copa y arroja al fuego de la primavera el manto invernal del arrepentimiento. El pájaro del tiempo tiene poco que volar, y ya está en camino.",
     "ky": "Кел, чөйчөктү толтур да, өкүнүчтүн кышкы кийимин жаздын отуна ыргыт. Убакыт кушунун учар жолу кыска, ал болсо учуп баратат.",
     "uz": "Kel, kosani to‘ldir-u, afsusning qishki libosini bahor oloviga tashla. Vaqt qushining uchadigan yo‘li qisqa, u esa allaqachon uchib ketyapti."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 106,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Пойдём со мной на узкую полоску травы между пустыней и пашней. Там забывают, кто раб, а кто султан, и всем хватает места под одним небом.",
+    "en": "Come with me to the narrow strip of grass between the desert and the field. There no one remembers who is a slave and who is a sultan, and there is room for all under one sky.",
+    "es": "Ven conmigo a la estrecha franja de hierba entre el desierto y el campo sembrado. Allí nadie recuerda quién es esclavo y quién sultán, y bajo un mismo cielo hay sitio para todos.",
+    "ky": "Мени менен чөл менен эгин талаанын ортосундагы кууш чөптүү тилкеге жүр. Ал жерде ким кул, ким султан экени унутулат, бир асман астында баарына орун жетет.",
+    "uz": "Men bilan cho‘l va ekinzor orasidagi tor o‘tloq yo‘lakka yur. U yerda kim qul-u, kim sulton ekani unutiladi, bir osmon ostida hammaga joy yetadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 107,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Друзья, когда меня не станет, не грустите: проводите меня с полной чашей и положите у садовой тропинки, где часто ходят люди. Пусть мимо проходят живые и радуются.",
+    "en": "Friends, when I am gone, do not grieve: see me off with a full cup and lay me by a garden path where people often walk. Let the living pass by and be glad.",
+    "es": "Amigos, cuando yo ya no esté, no estéis tristes: despedidme con la copa llena y dejadme junto a un sendero del jardín por donde pase mucha gente. Que los vivos pasen a mi lado y se alegren.",
+    "ky": "Достор, мен жок болгондо капа болбогула: толгон чөйчөк менен узаткыла да, эл көп жүргөн бак жолунун жанына койгула. Тирүүлөр жанымдан өтүп, кубана берсин.",
+    "uz": "Do‘stlar, men ketganimda g‘am chekmanglar: meni to‘la kosa bilan kuzatib, odamlar ko‘p yuradigan bog‘ so‘qmog‘i yoniga qo‘yinglar. Tiriklar yonimdan o‘tib, quvona bersin."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 108,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сегодня ночью я возьму самую большую чашу и отпущу на покой старую, скучную рассудительность. Пусть хоть одну ночь сердце поживёт без вечных расчётов.",
+    "en": "Tonight I will take the largest cup and send old, dull reasoning off to rest. Let the heart live at least one night without endless calculations.",
+    "es": "Esta noche tomaré la copa más grande y mandaré a descansar a la vieja y aburrida sensatez. Que el corazón viva al menos una noche sin cálculos sin fin.",
+    "ky": "Бүгүн түнү эң чоң чөйчөктү алам да, эски, зериктирген акылмандыкты эс алууга жөнөтөм. Жүрөк жок дегенде бир түн түбөлүк эсептерсиз жашап көрсүн.",
+    "uz": "Bu kecha eng katta kosani olaman-u, eski, zerikarli aqlli-hushlikni dam olishga jo‘nataman. Yurak hech bo‘lmasa bir kecha cheksiz hisob-kitoblarsiz yashab ko‘rsin."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 109,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Глиняные кувшины в мастерской спорили до поздней ночи. А потом в окно заглянул тонкий месяц, и они толкнули друг друга: «Брат, слышишь? Скоро праздник, скоро нас наполнят».",
+    "en": "The clay jugs in the workshop argued late into the night. Then a thin new moon looked in at the window, and they nudged one another: “Brother, do you hear? The feast is near, soon we shall be filled.”",
+    "es": "Las vasijas de barro del taller discutieron hasta muy entrada la noche. Luego una luna fina se asomó a la ventana y se dieron un codazo: «Hermano, ¿lo oyes? Ya llega la fiesta, pronto nos llenarán».",
+    "ky": "Устаканадагы чопо кумуралар түн бир оокумга чейин талашышты. Анан терезеден ичке жаңы ай карады, алар бири-бирин түртүштү: «Агайын, угуп жатасыңбы? Майрам жакын, жакында бизди толтурушат».",
+    "uz": "Ustaxonadagi loy ko‘zalar tun yarmigacha bahslashdi. Keyin derazadan ingichka yangi oy mo‘raladi, ular bir-birini turtishdi: «Og‘ajon, eshityapsanmi? Bayram yaqin, tez orada bizni to‘ldirishadi»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 110,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сады древнего Ирема исчезли вместе со своими розами, и никто не знает, где волшебная чаша царя Джамшида. Но лоза всё так же горит рубином, и у воды всё так же цветут сады.",
+    "en": "The gardens of ancient Iram vanished with their roses, and no one knows where King Jamshid’s magic cup has gone. Yet the vine still glows like a ruby, and gardens still bloom by the water.",
+    "es": "Los jardines de la antigua Iram desaparecieron con sus rosas, y nadie sabe dónde está la copa mágica del rey Yamshid. Pero la vid sigue brillando como un rubí, y junto al agua siguen floreciendo jardines.",
+    "ky": "Байыркы Иремдин бактары гүлдөрү менен кошо жоголду, Жамшид падышанын сыйкырдуу чөйчөгү кайда экенин эч ким билбейт. Бирок жүзүм сабагы мурдагыдай рубиндей жанат, суу боюнда бактар мурдагыдай гүлдөйт.",
+    "uz": "Qadimgi Iramning bog‘lari atirgullari bilan birga yo‘qoldi, Jamshid shohning sehrli jomi qayerdaligini hech kim bilmaydi. Ammo tok hamon yoqutdek yonadi, suv bo‘yida bog‘lar hamon gullaydi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 111,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Тюльпан каждое утро поднимает к небу свою чашечку и пьёт небесную росу. Делай так же: принимай с благодарностью то, что дарит день, пока чаша не перевернулась.",
+    "en": "Every morning the tulip lifts its little cup to the sky and drinks the heavenly dew. Do the same: gratefully accept what the day gives, until your cup is turned over.",
+    "es": "Cada mañana el tulipán alza al cielo su pequeña copa y bebe el rocío celestial. Haz lo mismo: acepta con gratitud lo que el día te regala, mientras tu copa no se dé la vuelta.",
+    "ky": "Жоогазын ар таңда асманга кичинекей чөйчөгүн көтөрүп, асман шүүдүрүмүн ичет. Сен да ошондой кыл: чөйчөгүң оодарылганча күн тартуулаганды ыраазычылык менен кабыл ал.",
+    "uz": "Lola har tong osmonga kichkina kosachasini ko‘tarib, samoviy shabnamni ichadi. Sen ham shunday qil: kosang to‘ntarilmaguncha, kun in’om etganini shukr bilan qabul qil."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 112,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я прижался губами к краю старого глиняного кувшина, чтобы узнать тайну жизни. И кувшин шепнул мне: «Пока живёшь, пей из чаши радости: оттуда не возвращаются».",
+    "en": "I pressed my lips to the rim of an old clay jug to learn the secret of life. And the jug whispered to me: “While you live, drink from the cup of joy, for no one returns from there.”",
+    "es": "Acerqué los labios al borde de una vieja vasija de barro para conocer el secreto de la vida. Y la vasija me susurró: «Mientras vivas, bebe de la copa de la alegría, porque de allí nadie vuelve».",
+    "ky": "Жашоонун сырын билейин деп, эски чопо кумуранын кырына эриндеримди тийгиздим. Кумура мага шыбырады: «Тирүү кезиңде кубаныч чөйчөгүнөн ич: ал жактан эч ким кайтпайт».",
+    "uz": "Hayot sirini bilay deb, eski loy ko‘zaning labiga lablarimni tekkizdim. Ko‘za menga shivirladi: «Tirik ekansan, shodlik kosasidan ich: u yoqdan hech kim qaytmaydi»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 113,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я коснулся губами края чаши и подумал: эта глина когда-то тоже жила и любила. Сколько поцелуев она подарила и сколько получила, прежде чем стать чашей?",
+    "en": "I touched the rim of the cup with my lips and thought: this clay once lived and loved too. How many kisses did it give and receive before it became a cup?",
+    "es": "Toqué con los labios el borde de la copa y pensé: este barro también vivió y amó una vez. ¿Cuántos besos dio y recibió antes de convertirse en copa?",
+    "ky": "Чөйчөктүн кырына эриним тийгенде ойлондум: бул чопо да качандыр бир кезде жашап, сүйгөн. Чөйчөк болгонго чейин ал канча өбүү тартуулап, канчасын алды экен?",
+    "uz": "Kosaning labiga lablarim tekkanida o‘yladim: bu loy ham bir vaqtlar yashagan va sevgan. Kosaga aylangunicha u qancha bo‘sa bergan, qanchasini olgan ekan?"
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 114,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Мне кажется, нигде роза не цветёт так ярко, как там, где покоится великий царь. А каждый гиацинт в саду, наверное, упал из кос когда-то прекрасной девушки. Красота не исчезает, она лишь меняет облик.",
+    "en": "It seems to me that nowhere does the rose bloom so brightly as where a great king rests. And every hyacinth in the garden must have fallen from the braids of a girl who was once beautiful. Beauty does not vanish; it only changes its form.",
+    "es": "Me parece que en ningún sitio florece la rosa tan viva como donde descansa un gran rey. Y cada jacinto del jardín debió de caer de las trenzas de una muchacha que un día fue hermosa. La belleza no desaparece: solo cambia de forma.",
+    "ky": "Мага улуу падыша жаткан жерде гүлдөй жаркырап гүлдөгөн гүл жоктой сезилет. Бактагы ар бир сүмбүл болсо качандыр бир сулуу кыздын өрүмүнөн түшкөндүр. Сулуулук жоголбойт, ал жалаң түрүн өзгөртөт.",
+    "uz": "Menga ulug‘ shoh yotgan joydagidek yorqin gullaydigan atirgul hech qayerda yo‘qdek tuyuladi. Bog‘dagi har bir sunbul esa bir vaqtlar go‘zal bo‘lgan qizning sochidan tushgan bo‘lsa kerak. Go‘zallik yo‘qolmaydi, u faqat qiyofasini o‘zgartiradi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 115,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Этот мир — лишь шатёр, где путник отдыхает одну ночь по дороге дальше. Утром он встаёт и уходит, а слуга снимает шатёр и готовит его для нового гостя. Отдыхай спокойно и не держись за полог.",
+    "en": "This world is only a tent where a traveller rests for one night on his way onward. In the morning he rises and leaves, and the servant takes down the tent and readies it for a new guest. Rest in peace and do not cling to the curtain.",
+    "es": "Este mundo no es más que una tienda donde el viajero descansa una noche antes de seguir su camino. Por la mañana se levanta y se marcha, y el criado desmonta la tienda y la prepara para un nuevo huésped. Descansa tranquilo y no te aferres a la cortina.",
+    "ky": "Бул дүйнө жолоочу андан ары жол алардан мурун бир түн эс алган чатыр гана. Эртең менен ал туруп кетет, кызматчы чатырды жыйнап, жаңы конокко даярдайт. Тынч эс ал, көшөгөгө жабышпа.",
+    "uz": "Bu dunyo yo‘lovchi yo‘lini davom ettirishdan oldin bir kecha dam oladigan chodir, xolos. Ertalab u turib ketadi, xizmatkor esa chodirni yig‘ib, yangi mehmonga tayyorlaydi. Xotirjam dam ol, pardaga yopishib olma."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
