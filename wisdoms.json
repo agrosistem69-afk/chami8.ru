@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "items": [
   {
    "id": 45,
@@ -1412,6 +1412,206 @@
     "es": "Este mundo no es más que una tienda donde el viajero descansa una noche antes de seguir su camino. Por la mañana se levanta y se marcha, y el criado desmonta la tienda y la prepara para un nuevo huésped. Descansa tranquilo y no te aferres a la cortina.",
     "ky": "Бул дүйнө жолоочу андан ары жол алардан мурун бир түн эс алган чатыр гана. Эртең менен ал туруп кетет, кызматчы чатырды жыйнап, жаңы конокко даярдайт. Тынч эс ал, көшөгөгө жабышпа.",
     "uz": "Bu dunyo yo‘lovchi yo‘lini davom ettirishdan oldin bir kecha dam oladigan chodir, xolos. Ertalab u turib ketadi, xizmatkor esa chodirni yig‘ib, yangi mehmonga tayyorlaydi. Xotirjam dam ol, pardaga yopishib olma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 116,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "В мастерской гончара один неуклюжий кувшин вздохнул: «Надо мной смеются, что я кривобокий. Но разве не рука мастера дрогнула?» Не смейся над чужим изъяном: всех нас лепили одни и те же руки.",
+    "en": "In the potter's shop one clumsy jug sighed: 'They laugh at me for leaning crooked. But was it not the master's hand that trembled?' Don't laugh at another's flaw: we were all shaped by the same hands.",
+    "es": "En el taller del alfarero, una jarra torpe suspiró: «Se ríen de mí porque estoy torcida. ¿Pero no fue la mano del maestro la que tembló?» No te burles del defecto ajeno: a todos nos moldearon las mismas manos.",
+    "ky": "Карапачынын устаканасында бир кыйшык кумура үшкүрүндү: «Кыйшыгым үчүн мага күлүшөт. Бирок устанын колу калтырабады беле?» Башканын кемчилигине күлбө: баарыбызды бир эле кол жасаган.",
+    "uz": "Kulolning ustaxonasida bir qiyshiq ko‘za xo‘rsindi: «Qiyshiqligim uchun mendan kulishadi. Axir ustaning qo‘li titramadimi?» Birovning kamchiligidan kulma: hammamizni bir xil qo‘llar yasagan."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 117,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Один кувшин пугал других: мол, мастер разобьёт всех, кто вышел неудачным. «Пустое! — ответил другой. — Он добрый малый, всё будет хорошо». Верь в доброту, а не в угрозы.",
+    "en": "One jug frightened the others: the master, it said, will smash all who turned out badly. 'Nonsense!' answered another. 'He is a good fellow, and all will be well.' Trust in kindness, not in threats.",
+    "es": "Una jarra asustaba a las demás: el maestro, decía, romperá a todas las que salieron mal. «¡Tonterías! —respondió otra—. Es un buen tipo y todo saldrá bien». Confía en la bondad, no en las amenazas.",
+    "ky": "Бир кумура башкаларды коркутту: уста начар чыккандардын баарын талкалайт дейт. «Бекер сөз! — деп жооп берди экинчиси. — Ал боорукер жан, баары жакшы болот». Коркутууга эмес, боорукерликке ишен.",
+    "uz": "Bir ko‘za boshqalarni qo‘rqitdi: usta yomon chiqqanlarning hammasini sindiradi, dedi. «Bekor gap! — deb javob berdi boshqasi. — U mehribon odam, hammasi yaxshi bo‘ladi». Do‘qqa emas, mehribonlikka ishon."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 118,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Недавно в сумерках у дверей харчевни показался светлый гость с кувшином на плече. Он предложил мне отпить, и это оказалась чаша радости. Иногда ответ приходит не в споре, а тихим вечером.",
+    "en": "Lately, at dusk by the tavern door, a shining guest appeared with a jug on his shoulder. He offered me a sip, and it was the cup of joy. Sometimes the answer comes not in a dispute but on a quiet evening.",
+    "es": "Hace poco, al anochecer, junto a la puerta de la taberna, apareció un huésped luminoso con un cántaro al hombro. Me ofreció un sorbo, y era la copa de la alegría. A veces la respuesta no llega en una disputa, sino en una tarde tranquila.",
+    "ky": "Жакында күүгүмдө ашкананын эшигинин алдында ийнине кумура көтөргөн нурдуу конок пайда болду. Ал мага ууртап көр деди, ал кубаныч чөйчөгү экен. Кээде жооп талаштан эмес, тынч кечте келет.",
+    "uz": "Yaqinda shom chog‘ida oshxona eshigi oldida yelkasida ko‘za ko‘targan nurli mehmon paydo bo‘ldi. U menga bir ho‘plab ko‘rishni taklif qildi, bu esa shodlik qadahi ekan. Ba’zan javob bahsda emas, sokin oqshomda keladi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 119,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Не ломай голову ни над земным, ни над небесным. Отдай ветру запутанный клубок завтрашних забот и запусти пальцы в кудри того, кто тебе дорог.",
+    "en": "Do not rack your brain over things earthly or heavenly. Give the tangled knot of tomorrow's worries to the wind, and lose your fingers in the curls of the one you hold dear.",
+    "es": "No te rompas la cabeza con lo terrenal ni con lo celestial. Entrega al viento el ovillo enredado de las preocupaciones de mañana y hunde los dedos en los rizos de quien te es querido.",
+    "ky": "Жердегини да, асмандагыны да ойлоп башыңды оорутпа. Эртеңки түйшүктөрдүн чаталышкан түйүнүн шамалга бер да, жаныңа жакын адамдын бурама чачына манжаларыңды сал.",
+    "uz": "Yerdagi ham, osmondagi ham narsalar haqida bosh qotirma. Ertangi tashvishlarning chigal tugunini shamolga topshir-u, aziz insoningning jingalak sochlariga barmoqlaringni botir."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 120,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Старые мудрецы молчат, но соловей поёт розе на древнем языке: «Налей, налей!», чтобы её бледные щёки зарделись. Любовь говорит голосом весны, а не книг.",
+    "en": "The old sages are silent, but the nightingale sings to the rose in an ancient tongue: 'Pour, pour!' so that her pale cheeks may blush. Love speaks in the voice of spring, not of books.",
+    "es": "Los viejos sabios callan, pero el ruiseñor le canta a la rosa en una lengua antigua: «¡Sirve, sirve!», para que sus pálidas mejillas se sonrojen. El amor habla con la voz de la primavera, no de los libros.",
+    "ky": "Байыркы акылмандар унчукпайт, бирок булбул гүлгө байыркы тилде ырдайт: «Куй, куй!», анын кубарган жаагы кызарсын деп. Сүйүү китептин эмес, жаздын үнү менен сүйлөйт.",
+    "uz": "Qadimgi donolar jim, ammo bulbul atirgulga qadimiy tilda kuylaydi: «Quy, quy!», uning oqargan yuzlari qizarsin deb. Muhabbat kitoblar emas, bahor ovozida so‘zlaydi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 121,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Старый кувшин пробормотал: «Неважно, кто меня слепил и кто купит. Я так давно стою забытым, что совсем пересох. Наполните меня прежним, знакомым напитком, и я, пожалуй, оживу».",
+    "en": "An old jug murmured: 'It doesn't matter who made me or who will buy me. I have stood forgotten so long that I've gone quite dry. Fill me with the old familiar drink, and I think I'll come back to life.'",
+    "es": "Una vieja jarra murmuró: «No importa quién me hizo ni quién me comprará. He estado olvidada tanto tiempo que me he secado del todo. Lléname con la bebida de siempre, y creo que volveré a la vida».",
+    "ky": "Эски кумура күңк этти: «Мени ким жасаганы, ким сатып алары маанилүү эмес. Унутулуп тура берип, таптакыр кургап калдым. Мени мурунку тааныш суусундук менен толтургула, балким, кайра жанданармын».",
+    "uz": "Eski ko‘za g‘o‘ldiradi: «Meni kim yasagani-yu, kim sotib olishi muhim emas. Unutilib turaverib, butunlay qurib qoldim. Meni avvalgi tanish ichimlik bilan to‘ldiringlar, balki yana jonlanarman»."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 122,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сколько раз я клялся остепениться и отказаться от чаши! Но приходила весна с розой в руке и в клочья рвала мою потёртую клятву. С весной трудно спорить.",
+    "en": "How many times I swore to settle down and give up the cup! But spring would come with a rose in her hand and tear my threadbare vow to pieces. It is hard to argue with spring.",
+    "es": "¡Cuántas veces juré sentar cabeza y renunciar a la copa! Pero llegaba la primavera con una rosa en la mano y hacía pedazos mi gastado juramento. Es difícil discutir con la primavera.",
+    "ky": "Канча жолу оңолом, чөйчөктөн баш тартам деп ант бердим! Бирок колуна гүл кармаган жаз келип, менин эскирген антымды тытып салчу. Жаз менен талашуу кыйын.",
+    "uz": "Necha marta tavba qilib, qadahdan voz kechaman deb qasam ichdim! Ammo qo‘lida atirgul tutgan bahor kelib, eskirgan qasamimni parcha-parcha qilib tashlardi. Bahor bilan bahslashish qiyin."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 123,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Не бойся, что когда наш с тобой счёт закроется, мир больше не увидит ничего подобного. Вечный виночерпий уже налил из своей чаши миллионы таких пузырьков, как мы, и нальёт ещё. Пей свою каплю спокойно.",
+    "en": "Do not fear that when your account and mine are closed, the world will never see the like again. The eternal cupbearer has already poured millions of bubbles like us from his bowl, and will pour more. Drink your drop in peace.",
+    "es": "No temas que, cuando se cierre tu cuenta y la mía, el mundo no vuelva a ver nada igual. El eterno copero ya ha vertido de su cuenco millones de burbujas como nosotros, y verterá más. Bebe tu gota en paz.",
+    "ky": "Сенин да, менин да эсебибиз жабылганда дүйнө мындайды кайра көрбөйт деп коркпо. Түбөлүк сакы өз идишинен биз сыяктуу миллиондогон көбүкчөлөрдү куйган, дагы куят. Өз тамчыңды тынч ич.",
+    "uz": "Sening ham, mening ham hisobimiz yopilganda dunyo bunday narsani qayta ko‘rmaydi, deb qo‘rqma. Abadiy soqiy o‘z kosasidan biz kabi millionlab pufakchalarni quygan va yana quyadi. O‘z tomchingni xotirjam ich."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 124,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Как жаль, что весна уходит вместе с розой и закрывается благоуханная книга юности! Соловей, что пел в ветвях, улетел, и кто знает, откуда он прилетал и куда исчез. Слушай его, пока он поёт.",
+    "en": "What a pity that spring departs with the rose and the fragrant book of youth closes! The nightingale that sang in the branches has flown, and who knows where it came from or where it went. Listen while it sings.",
+    "es": "¡Qué pena que la primavera se vaya con la rosa y se cierre el fragante libro de la juventud! El ruiseñor que cantaba en las ramas se ha ido volando, y quién sabe de dónde vino o adónde fue. Escúchalo mientras canta.",
+    "ky": "Жаз гүл менен кошо кетип, жаштыктын жыпар жыттуу китеби жабылганы кандай өкүнүчтүү! Бутакта сайраган булбул учуп кетти, анын кайдан келип, кайда кеткенин ким билет. Ал сайрап турганда ук.",
+    "uz": "Bahor atirgul bilan birga ketib, yoshlikning xushbo‘y kitobi yopilishi naqadar achinarli! Shoxlarda sayragan bulbul uchib ketdi, u qayerdan kelib, qayerga ketganini kim biladi. U sayrab turganida tingla."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 125,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Когда-нибудь у берега реки тебя найдёт ангел с тёмной чашей и предложит отпить. Не вздрагивай и не отворачивайся: прими её без страха, как тот, кто прожил свой день сполна.",
+    "en": "One day, by the riverbank, an angel with a dark cup will find you and offer you a drink. Do not flinch or turn away: accept it without fear, as one who has lived his day to the full.",
+    "es": "Algún día, a la orilla del río, te encontrará un ángel con una copa oscura y te ofrecerá beber. No te estremezcas ni apartes la mirada: acéptala sin miedo, como quien ha vivido su día plenamente.",
+    "ky": "Бир күнү дарыянын жээгинде сени кара чөйчөк кармаган периште таап, ууртоону сунат. Селт этпе, бурулба: өз күнүн толук жашаган адамдай аны коркпой кабыл ал.",
+    "uz": "Bir kuni daryo bo‘yida seni qora qadah tutgan farishta topib, ichishni taklif qiladi. Cho‘chima, yuz o‘girma: o‘z kunini to‘liq yashagan odamdek uni qo‘rqmasdan qabul qil."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
