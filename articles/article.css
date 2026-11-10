@@ -99,3 +99,7 @@ body.has-sticky{padding-bottom:84px}
 .ph .frame span{font:48px/1 var(--f-brush);color:rgba(163,48,28,.45);display:block;margin-bottom:8px}
 .ph .frame small{color:var(--muted);font-size:14px}
 .ph.wide .frame{aspect-ratio:16/9}
+
+/* dark backgrounds sit under the falling leaves, text stays above them */
+.shop,footer{position:relative;background:transparent}
+.shop::before,footer::before{content:"";position:absolute;inset:0;z-index:-2;pointer-events:none;background:var(--ink);border-radius:inherit}
