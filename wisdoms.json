@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-11",
  "items": [
   {
    "id": 45,
@@ -1612,6 +1612,206 @@
     "es": "Algún día, a la orilla del río, te encontrará un ángel con una copa oscura y te ofrecerá beber. No te estremezcas ni apartes la mirada: acéptala sin miedo, como quien ha vivido su día plenamente.",
     "ky": "Бир күнү дарыянын жээгинде сени кара чөйчөк кармаган периште таап, ууртоону сунат. Селт этпе, бурулба: өз күнүн толук жашаган адамдай аны коркпой кабыл ал.",
     "uz": "Bir kuni daryo bo‘yida seni qora qadah tutgan farishta topib, ichishni taklif qiladi. Cho‘chima, yuz o‘girma: o‘z kunini to‘liq yashagan odamdek uni qo‘rqmasdan qabul qil."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 126,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если сам не пьёшь из чаши, не насмехайся над теми, кто пьёт. Не хвались своей праведностью: у каждого из нас есть дела похуже, о которых лучше помолчать.",
+    "en": "If you do not drink from the cup yourself, do not mock those who do. Do not boast of your virtue: each of us has worse deeds that are better left unspoken.",
+    "es": "Si tú no bebes de la copa, no te burles de quienes beben. No presumas de tu virtud: cada uno de nosotros tiene faltas peores de las que más vale callar.",
+    "ky": "Өзүң чөйчөктөн ичпесең, ичкендерди шылдыңдаба. Тазалыгың менен мактанба: ар бирибиздин унчукпай койгон андан да жаман иштерибиз бар.",
+    "uz": "O‘zing qadahdan ichmasang, ichganlarni masxara qilma. Taqvoing bilan maqtanma: har birimizning aytmay qo‘ygan bundan ham yomonroq ishlarimiz bor."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 127,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Строгий судья, ты считаешь себя трезвее нас. Но мы пьём лишь сок виноградной лозы, а ты своими приговорами пьёшь людскую кровь. Рассуди честно, кто из нас жестче к людям?",
+    "en": "Stern judge, you think yourself more sober than we are. But we drink only the juice of the vine, while your verdicts drink people's blood. Be fair: which of us is harsher to others?",
+    "es": "Juez severo, te crees más sobrio que nosotros. Pero nosotros solo bebemos el jugo de la vid, y tus sentencias beben la sangre de la gente. Sé justo: ¿quién de los dos es más duro con los demás?",
+    "ky": "Катаал казы, сен өзүңдү бизден сергек санайсың. Бирок биз жүзүм ширесин гана ичебиз, ал эми сенин өкүмдөрүң адамдардын канын ичет. Адилет айтчы, кайсыбыз адамдарга катуураак?",
+    "uz": "Qattiq qozi, sen o‘zingni bizdan hushyorroq deb bilasan. Biz esa faqat tok sharbatini ichamiz, sening hukmlaring esa odamlar qonini ichadi. Insof bilan ayt: qaysi birimiz odamlarga qattiqroqmiz?"
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 128,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если чаша развеселила тебя, будь счастлив. Если рядом с тобой сидит та, чьё лицо светло, как луна, будь счастлив. Всё в мире кончается ничем, так что радуйся, пока ты есть.",
+    "en": "If the cup has made you merry, be happy. If the one beside you has a face as bright as the moon, be happy. Everything in the world ends in nothing, so rejoice while you are here.",
+    "es": "Si la copa te ha alegrado, sé feliz. Si a tu lado se sienta alguien de rostro luminoso como la luna, sé feliz. Todo en el mundo acaba en nada, así que alégrate mientras estás aquí.",
+    "ky": "Чөйчөк көңүлүңдү көтөрсө, бактылуу бол. Жаныңда жүзү айдай жаркыраган адам отурса, бактылуу бол. Дүйнөдө баары жоктук менен бүтөт, андыктан бар кезиңде кубан.",
+    "uz": "Qadah ko‘nglingni ko‘targan bo‘lsa, baxtli bo‘l. Yoningda yuzi oydek yorug‘ kishi o‘tirgan bo‘lsa, baxtli bo‘l. Dunyoda hamma narsa yo‘qlik bilan tugaydi, shuning uchun borligingda quvon."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 129,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Встань, любимая, и приходи ради моего сердца: твоя красота развяжет все мои узлы. Принеси кувшин, выпьем его вдвоём, пока гончары не начали лепить кувшины из нашей глины.",
+    "en": "Rise, my beloved, and come for my heart's sake: your beauty will untie all my knots. Bring a jug and let us share it, before the potters start shaping jugs from our clay.",
+    "es": "Levántate, amada, y ven por mi corazón: tu belleza deshará todos mis nudos. Trae un cántaro y compartámoslo, antes de que los alfareros empiecen a moldear cántaros con nuestro barro.",
+    "ky": "Тур, сүйүктүүм, жүрөгүм үчүн кел: сенин сулуулугуң бардык түйүндөрүмдү чечет. Кумура алып кел, экөөбүз бөлүшүп ичели, карапачылар биздин чоподон кумура жасай электе.",
+    "uz": "Tur, sevgilim, ko‘nglim uchun kel: go‘zalliging barcha tugunlarimni yechadi. Ko‘za olib kel, ikkalamiz baham ko‘raylik, kulollar bizning loyimizdan ko‘za yasashidan oldin."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 130,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Весенний ветер ласкает лицо розы, а в саду радует милое лицо любимой. О вчерашнем дне ничего хорошего не скажешь, так и не вспоминай о нём: сегодня прекрасно.",
+    "en": "The spring breeze caresses the face of the rose, and in the garden the dear face of the beloved brings joy. Nothing good can be said of yesterday, so do not dwell on it: today is beautiful.",
+    "es": "La brisa de primavera acaricia el rostro de la rosa, y en el jardín alegra el querido rostro de la amada. Del ayer no hay nada bueno que decir, así que no hables de él: hoy es hermoso.",
+    "ky": "Жазгы жел гүлдүн жүзүн сылайт, бакта болсо сүйүктүүнүн мээримдүү жүзү кубантат. Кечээ күн жөнүндө жакшы сөз айтылбайт, андыктан аны эске алба: бүгүн сонун.",
+    "uz": "Bahor shabadasi gulning yuzini erkalaydi, bog‘da esa sevgilining aziz yuzi quvontiradi. O‘tgan kun haqida yaxshi gap aytib bo‘lmaydi, shuning uchun uni eslama: bugun go‘zal."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 131,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Пусть ты всю жизнь провёл рядом с любимым человеком и вкусил все радости мира. Но в конце придётся уходить, и вся эта жизнь окажется сном, который ты видел.",
+    "en": "Suppose you spent your whole life beside the one you love and tasted every joy in the world. Still, in the end you must leave, and that whole life will turn out to be a dream you once had.",
+    "es": "Supón que pasaste toda la vida junto a quien amas y probaste todas las alegrías del mundo. Aun así, al final tendrás que partir, y toda esa vida resultará un sueño que tuviste.",
+    "ky": "Өмүр бою сүйгөн адамыңдын жанында жашап, дүйнөнүн бардык ырахатын таттың дейли. Бирок акырында кетүүгө туура келет, ошол өмүрдүн баары көргөн түшүң болуп чыгат.",
+    "uz": "Aytaylik, butun umring sevganing yonida o‘tdi va dunyoning barcha lazzatlarini totding. Baribir oxirida ketish kerak bo‘ladi va butun o‘sha umr ko‘rgan tushing bo‘lib chiqadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 132,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сердце, представь, что все блага мира уже твои и сад твоей радости зазеленел. А теперь представь, что ты, как роса, провёл на этой траве одну ночь и на рассвете исчез.",
+    "en": "Heart, imagine that all the world's goods are already yours and the garden of your joy has turned green. Now imagine that, like dew, you spent one night on that grass and vanished at dawn.",
+    "es": "Corazón, imagina que todos los bienes del mundo ya son tuyos y que el jardín de tu alegría ha reverdecido. Ahora imagina que, como el rocío, pasaste una noche sobre esa hierba y al amanecer desapareciste.",
+    "ky": "Жүрөк, дүйнөнүн бардык байлыгы сеники болуп, кубанычыңдын багы көгөрдү деп элестет. Эми шүүдүрүмдөй ошол чөптүн үстүндө бир түн өткөрүп, таң атканда жок болгонуңду элестет.",
+    "uz": "Ko‘nglim, dunyoning barcha ne’matlari allaqachon seniki va shodligingning bog‘i yashnadi, deb tasavvur qil. Endi esa shabnamdek o‘sha maysa ustida bir tun o‘tkazib, tong otganda g‘oyib bo‘lganingni tasavvur qil."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 133,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Мой обычай — пить из чаши и радоваться. Я спросил у мира, словно у невесты, какой выкуп она хочет. Она ответила: «Твоё весёлое сердце».",
+    "en": "My custom is to drink from the cup and be glad. I asked the world, as one asks a bride, what dowry she wanted. She answered: \"Your cheerful heart.\"",
+    "es": "Mi costumbre es beber de la copa y alegrarme. Le pregunté al mundo, como a una novia, qué dote quería. Me respondió: «Tu corazón alegre».",
+    "ky": "Менин адатым — чөйчөктөн ичип, кубануу. Дүйнөдөн колуктудан сурагандай, кандай калың каалайсың деп сурадым. Ал: «Сенин шайыр жүрөгүңдү», — деп жооп берди.",
+    "uz": "Mening odatim — qadahdan ichib, quvonish. Dunyodan kelinchakdan so‘ragandek, qanday mahr istaysan, deb so‘radim. U: «Sening shod ko‘nglingni», — deb javob berdi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 134,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Одна чаша радости мирит семьдесят два спорящих учения лучше любой логики. Пока мудрецы ссорятся о великом, она тихо превращает горечь жизни в золото.",
+    "en": "One cup of joy reconciles the seventy-two quarrelling schools better than any logic. While the sages argue about great matters, it quietly turns life's bitterness into gold.",
+    "es": "Una copa de alegría reconcilia a las setenta y dos escuelas en disputa mejor que cualquier lógica. Mientras los sabios discuten de grandes asuntos, ella convierte en silencio la amargura de la vida en oro.",
+    "ky": "Бир чөйчөк кубаныч талашкан жетимиш эки агымды кандай логикадан да жакшы элдештирет. Акылмандар улуу нерселер тууралуу урушуп жатканда, ал жашоонун ачуусун акырын алтынга айлантат.",
+    "uz": "Bir qadah shodlik bahslashayotgan yetmish ikki mazhabni har qanday mantiqdan yaxshiroq yarashtiradi. Donishmandlar buyuk masalalar ustida tortishayotganda, u hayotning achchig‘ini jimgina oltinga aylantiradi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 135,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "У кого есть половина лепёшки и свой уголок, кто никому не слуга и никому не господин, тому скажи: живи весело, у тебя прекрасный мир.",
+    "en": "Whoever has half a loaf of bread and a corner of his own, who is no one's servant and no one's master, tell him: live joyfully, yours is a wonderful world.",
+    "es": "A quien tiene media hogaza de pan y un rincón propio, y no es siervo ni amo de nadie, dile: vive con alegría, tu mundo es maravilloso.",
+    "ky": "Жарым нан менен өз бурчу бар, эч кимге кул эмес, эч кимге кожоюн эмес адамга айт: шайыр жаша, сенин дүйнөң сонун.",
+    "uz": "Yarim noni va o‘z go‘shasi bor, hech kimga qul ham, hech kimga xo‘jayin ham bo‘lmagan odamga ayt: shod yasha, sening dunyong ajoyib."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
