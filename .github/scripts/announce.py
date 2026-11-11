@@ -71,9 +71,34 @@ for u in new:
     title = re.search(r"<h1[^>]*>(.*?)</h1>", page, re.S)
     desc = re.search(r'<meta name="description" content="([^"]*)"', page)
     title = re.sub("<[^>]+>", "", title.group(1)).strip() if title else u
-    text = f"🍵 <b>{html.escape(html.unescape(title))}</b>\n\n{html.escape(html.unescape(desc.group(1))) if desc else ''}\n\n<a href=\"{u}\">Читать на сайте «Ча Ми»</a>"
-    if post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text, "parse_mode": "HTML"}) is None:
-        tg_failed = True
+    tag_list = re.search(r'<ul class="tags".*?</ul>', page, re.S)
+    tags = " ".join(re.findall(r"<li>(#[^<]+)</li>", tag_list.group(0))) if tag_list else ""
+    link = f'<a href="{u}">Читать статью целиком на сайте «Ча Ми»</a>'
+    story = re.search(r'<template id="tg-post">(.*?)</template>', page, re.S)
+    if story:
+        # the article's own Telegram text (Telegram HTML: <b>, <i>, <a>, line breaks)
+        body_text = re.sub(r"\n[ \t]+", "\n", story.group(1).strip())
+        text = f"{body_text}\n\n👉 {link}"
     else:
-        print("Telegram: posted", u)
+        text = f"🍵 <b>{html.escape(html.unescape(title))}</b>\n\n{html.escape(html.unescape(desc.group(1))) if desc else ''}\n\n{link}"
+    if tags:
+        text += f"\n\n{tags}"
+    res = post(f"https://api.telegram.org/bot{token}/sendMessage", {"chat_id": chat, "text": text[:4096], "parse_mode": "HTML"})
+    if res is None:
+        tg_failed = True
+        continue
+    print("Telegram: posted", u)
+    if os.environ.get("TEST"):
+        continue  # a test re-post must not move the comments to a new post
+    try:
+        msg_id = json.loads(res)["result"]["message_id"]
+        slug = u.rstrip("/").rsplit("/", 1)[-1]
+        posts_file = "articles/tg-posts.json"
+        posts = json.load(open(posts_file, encoding="utf-8")) if os.path.exists(posts_file) else {}
+        posts[slug] = msg_id
+        with open(posts_file, "w", encoding="utf-8") as f:
+            json.dump(posts, f, ensure_ascii=False, indent=2)
+            f.write("\n")
+    except Exception as e:
+        print("could not save Telegram post id:", e)
 sys.exit(1 if tg_failed else 0)

@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths: [sitemap.xml]
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   announce:
     runs-on: ubuntu-latest
@@ -18,3 +20,10 @@ jobs:
           INDEXNOW_KEY: 3d0db21aedbda6a57f1d2446491afba3
           TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Save Telegram post numbers (for comments under articles)
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
+          git add articles/tg-posts.json
+          git diff --cached --quiet || (git commit -m "Номера постов Telegram для комментариев" && git pull --rebase origin main && git push origin HEAD:main)
