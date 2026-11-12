@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "items": [
   {
    "id": 45,
@@ -1812,6 +1812,206 @@
     "es": "A quien tiene media hogaza de pan y un rincón propio, y no es siervo ni amo de nadie, dile: vive con alegría, tu mundo es maravilloso.",
     "ky": "Жарым нан менен өз бурчу бар, эч кимге кул эмес, эч кимге кожоюн эмес адамга айт: шайыр жаша, сенин дүйнөң сонун.",
     "uz": "Yarim noni va o‘z go‘shasi bor, hech kimga qul ham, hech kimga xo‘jayin ham bo‘lmagan odamga ayt: shod yasha, sening dunyong ajoyib."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 136,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сколько можно горевать о том, есть у меня что-то или нет, и проживу ли я свои дни с лёгким сердцем? Наполни чашу: ведь никто не знает, выдохнет ли он вдох, который делает сейчас.",
+    "en": "How long will I fret over what I have or lack, and whether my days will pass lightly? Fill the cup: no one knows if the breath he takes now will ever be breathed out.",
+    "es": "¿Hasta cuándo me afligiré por lo que tengo o no tengo, y por si viviré mis días con el corazón ligero? Llena la copa: nadie sabe si exhalará el aliento que ahora toma.",
+    "ky": "Менде бар-жогуна, күндөрүм шайыр өтөбү деп качанга чейин кайгырам? Чыныны толтур: азыр алган демиңди кайра чыгарарыңды эч ким билбейт.",
+    "uz": "Menda bormi-yo‘qmi, kunlarim shod o‘tadimi deb qachongacha qayg‘uraman? Kosani to‘ldir: hozir olgan nafasingni qaytarib chiqarasanmi, hech kim bilmaydi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 137,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Вставай, не горюй о мире, что проходит мимо, присядь и проведи миг в радости. Будь у мира верность, твоя очередь пожить так и не пришла бы: он ведь не остался с теми, кто был до тебя.",
+    "en": "Rise, do not grieve over a passing world; sit down and spend a moment in joy. If the world were faithful, your turn would never have come, for it did not stay with those before you.",
+    "es": "Levántate, no te aflijas por un mundo que pasa; siéntate y vive un instante de alegría. Si el mundo fuera fiel, nunca te habría llegado el turno: no se quedó con los que vinieron antes.",
+    "ky": "Тур, өтүп бара жаткан дүйнө үчүн кайгырба, отур да бир азыр кубанычта өткөр. Дүйнө опалуу болсо, сенин кезегиң эч келмек эмес: ал сенден мурункулар менен калган жок да.",
+    "uz": "Tur, o‘tib ketayotgan dunyo uchun g‘am chekma, o‘tir va bir lahzani shodlikda o‘tkaz. Dunyo vafoli bo‘lganida, navbat senga hech kelmasdi: u sendan oldingilar bilan ham qolmadi-ku."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 138,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Знаешь, почему на рассвете так жалобно кричит петух? Он показывает тебе в зеркале утра, что прошла ещё одна ночь твоей жизни, а ты и не заметил.",
+    "en": "Do you know why the rooster cries so mournfully at dawn? In the mirror of morning he shows you that another night of your life has passed, and you never noticed.",
+    "es": "¿Sabes por qué el gallo canta tan triste al amanecer? En el espejo de la mañana te muestra que ha pasado otra noche de tu vida y ni lo notaste.",
+    "ky": "Таң атканда короз эмнеге ушунча муңдуу кыйкырарын билесиңби? Ал таңдын күзгүсүндө өмүрүңдүн дагы бир түнү өткөнүн көрсөтөт, а сен байкабай да калдың.",
+    "uz": "Tong otganda xo‘roz nega bunchalik mungli qichqirishini bilasanmi? U tong ko‘zgusida umringning yana bir kechasi o‘tganini ko‘rsatadi, sen esa sezmay ham qolding."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 139,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если бы на этой долгой дороге было место, где можно отдохнуть, или у пути был конец! Если бы через сто тысяч лет можно было, как трава, снова проснуться из земли с надеждой.",
+    "en": "If only this long road had a place to rest, or an end to reach! If only, after a hundred thousand years, we could wake again from the earth like grass, full of hope.",
+    "es": "¡Ojalá este largo camino tuviera un lugar donde descansar, o un final! ¡Ojalá tras cien mil años pudiéramos despertar de la tierra como la hierba, llenos de esperanza!",
+    "ky": "Бул узак жолдо эс алчу жер, же анын аягы болсо кана! Жүз миң жылдан кийин чөптөй болуп жерден үмүт менен кайра ойгонсок кана.",
+    "uz": "Bu uzoq yo‘lda dam oladigan joy yoki uning oxiri bo‘lsa edi! Yuz ming yildan keyin o‘tdek yerdan umid bilan qayta uyg‘onsak edi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 140,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сколько ещё жизнь будет уходить на самолюбование и пустые споры о бытии? За жизнью по пятам идёт её конец, так пусть уж лучше она проходит во сне или за чашей.",
+    "en": "How long will life be spent on self-admiration and idle debates about being? Its end follows close behind, so better let it pass in sleep or over a cup.",
+    "es": "¿Hasta cuándo se irá la vida en admirarse a uno mismo y en vanas disputas sobre el ser? Su final la sigue de cerca: mejor que pase en el sueño o ante la copa.",
+    "ky": "Өмүр качанга чейин өзүн-өзү сүйүүгө жана бар-жок жөнүндөгү куру талашка кетет? Анын артынан аягы басып келет, андан көрө уйкуда же чыны менен өтсүн.",
+    "uz": "Umr qachongacha o‘zini sevish va borliq haqidagi quruq bahslarga ketadi? Uning ortidan oxiri izma-iz keladi, yaxshisi, uyquda yoki kosa ustida o‘tsin."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 141,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Говорят, каким человек уходит, таким он и встанет в последний день. Поэтому я всегда рядом с чашей и любимой: может, такими нас и поднимут.",
+    "en": "They say that as a person departs, so shall he rise on the last day. That is why I always stay beside my cup and my beloved: perhaps that is how we will be raised.",
+    "es": "Dicen que tal como uno se va, así se levantará el último día. Por eso siempre estoy junto a mi copa y a mi amada: quizá así nos levanten.",
+    "ky": "Адам кандай кетсе, акыркы күнү ошондой турат дешет. Ошон үчүн мен дайыма чыныма жана сүйүктүүмө жакынмын: балким, бизди ошондой тургузушат.",
+    "uz": "Aytishlaricha, odam qanday ketsa, oxirgi kuni shunday turadi. Shuning uchun men doim kosam va sevgilim yonidaman: balki bizni shunday turg‘izishar."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 142,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Рядом с той, что стройна, как кипарис, и свежее охапки роз, не выпускай из рук ни чаши, ни края розовых лепестков. Пока ветер судьбы не сорвал рубашку нашей жизни, как срывает лепестки с розы.",
+    "en": "Beside one as slender as a cypress and fresher than an armful of roses, do not let go of the cup or the rose's hem, before the wind of fate tears the shirt of our life as it tears a rose's petals.",
+    "es": "Junto a quien es esbelta como un ciprés y más fresca que un ramo de rosas, no sueltes la copa ni el borde de la rosa, antes de que el viento del destino rasgue la camisa de nuestra vida como deshoja una rosa.",
+    "ky": "Сервидей сымбаттуу, бир кучак гүлдөн да жаңы адамдын жанында чыныны да, гүлдүн этегин да колдон чыгарба. Тагдырдын шамалы өмүрүбүздүн көйнөгүн гүлдүн желекчелериндей үзө электе.",
+    "uz": "Sarvdek tik qomatli, bir quchoq guldan ham yangiroq yor yonida kosani ham, gul etagini ham qo‘ldan qo‘yma. Taqdir shamoli umrimiz ko‘ylagini gul yaproqlaridek yulib olmasidan avval."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 143,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Иди по дороге так, чтобы тебе не кланялись, живи среди людей так, чтобы на тебя не жаловались. А если зайдёшь в храм, будь скромен, чтобы тебя не выталкивали вперёд в учителя.",
+    "en": "Walk the road so that no one bows to you, live among people so that no one complains of you. And if you enter a house of prayer, be modest enough that no one pushes you forward to lead.",
+    "es": "Anda por el camino de modo que nadie se incline ante ti; vive entre la gente de modo que nadie se queje de ti. Y si entras en un templo, sé tan modesto que nadie te empuje a guiar a los demás.",
+    "ky": "Жолдо сага эч ким таазим кылбагандай бас, адамдардын арасында сага эч ким арызданбагандай жаша. Ибадатканага кирсең, сени алдыга устат кылып түртүшпөгүдөй момун бол.",
+    "uz": "Yo‘lda senga hech kim ta’zim qilmaydigan qilib yur, odamlar orasida sendan hech kim shikoyat qilmaydigan qilib yasha. Ibodatxonaga kirsang, seni oldinga ustoz qilib surishmaydigan darajada kamtar bo‘l."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 144,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "В наше время лучше заводить друзей поменьше и с толпой общаться издалека. Ведь тот, на кого ты опирался во всём, когда откроешь глаза разума, может оказаться совсем не другом. Выбирай близких бережно.",
+    "en": "In our times it is better to make few friends and keep the crowd at a distance. For the one you leaned on in everything may, once you open the eyes of reason, turn out to be no friend at all. Choose those close to you with care.",
+    "es": "En estos tiempos es mejor tener pocos amigos y tratar a la multitud de lejos. Porque aquel en quien te apoyabas para todo, cuando abras los ojos de la razón, puede no ser amigo en absoluto. Elige a los tuyos con cuidado.",
+    "ky": "Биздин заманда досту азыраак күтүп, элге алыстан мамиле кылган жакшы. Анткени бардык ишиңде таянган адамың, акылдын көзүн ачканыңда, такыр дос эмес болуп чыгышы мүмкүн. Жакындарыңды аяр танда.",
+    "uz": "Bizning zamonda do‘stni ozroq tutib, olomon bilan uzoqdan muomala qilgan yaxshi. Chunki har ishda suyangan odaming, aql ko‘zingni ochganingda, umuman do‘st bo‘lmay chiqishi mumkin. Yaqinlaringni ehtiyot bilan tanla."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 145,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Даже весёлый гуляка не станет разбивать красиво сложенную чашу. Так сколько же прекрасных лиц и рук сложила чья-то любовь и разбила чья-то злоба? Не будь тем, кто разбивает.",
+    "en": "Even a merry reveller will not smash a finely shaped cup. So how many lovely faces and hands were shaped by someone's love and broken by someone's spite? Do not be the one who breaks.",
+    "es": "Ni siquiera un alegre parrandero rompería una copa bien formada. ¿Cuántos rostros y manos hermosos formó el amor de alguien y rompió el rencor de otro? No seas tú quien rompe.",
+    "ky": "Шайыр кезүүчү да кооз жасалган чыныны сындырбайт. Анда канча сулуу жүз менен колду бирөөнүн сүйүүсү жасап, бирөөнүн кекчилдиги сындырды экен? Сындыруучу болбо.",
+    "uz": "Hatto sho‘x ulfat ham chiroyli yasalgan kosani sindirmaydi. Unda qancha go‘zal yuz va qo‘llarni kimningdir mehri yasab, kimningdir adovati sindirgan ekan? Sindiruvchi bo‘lma."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
