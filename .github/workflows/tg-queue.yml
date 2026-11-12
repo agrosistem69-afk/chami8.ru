@@ -1,0 +1,26 @@
+name: Telegram re-post queue
+on:
+  schedule:
+    - cron: "0 9 * * *"   # every day 12:00 Moscow time
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  repost:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Skip when the queue is empty
+        id: q
+        run: python3 -c "import json,sys; sys.exit(0 if json.load(open('.github/tg-queue.json')) else 1)" && echo go=1 >> $GITHUB_OUTPUT || echo go=0 >> $GITHUB_OUTPUT
+      - if: steps.q.outputs.go == '1'
+        run: python3 .github/scripts/tg_queue.py
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - if: steps.q.outputs.go == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
+          git add .github/tg-queue.json articles/tg-posts.json
+          git diff --cached --quiet || (git commit -m "Telegram: пост статьи опубликован заново" && git pull --rebase origin main && git push origin HEAD:main)
