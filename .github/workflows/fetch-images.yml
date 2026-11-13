@@ -19,9 +19,13 @@ jobs:
           import json, io, os, urllib.request
           from PIL import Image
           items = json.load(open(".github/ai-images.json"))
+          failed = []
           for it in items:
-              data = urllib.request.urlopen(it["url"], timeout=60).read()
-              im = Image.open(io.BytesIO(data)).convert("RGB")
+              try:
+                  data = urllib.request.urlopen(it["url"], timeout=60).read()
+                  im = Image.open(io.BytesIO(data)).convert("RGB")
+              except Exception as e:
+                  print("FAILED", it["out"], e); failed.append(it); continue
               if im.width > 1200:
                   im = im.resize((1200, round(im.height * 1200 / im.width)), Image.LANCZOS)
               os.makedirs(os.path.dirname(it["out"]), exist_ok=True)
@@ -32,7 +36,8 @@ jobs:
                       break
                   q -= 8
               print(it["out"], im.size, os.path.getsize(it["out"]))
-          json.dump([], open(".github/ai-images.json", "w"))
+          json.dump(failed, open(".github/ai-images.json", "w"), ensure_ascii=False, indent=0)
+          print("failed:", len(failed))
           PY
       - run: |
           git config user.name "github-actions[bot]"
