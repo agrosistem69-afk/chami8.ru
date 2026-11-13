@@ -1,0 +1,41 @@
+name: Fetch AI images
+# Downloads pictures listed in .github/ai-images.json, saves them as webp (1200 px wide) and empties the list.
+on:
+  push:
+    branches: [main]
+    paths: [.github/ai-images.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: pip install --quiet pillow
+      - name: Download and convert
+        run: |
+          python3 - <<'PY'
+          import json, io, os, urllib.request
+          from PIL import Image
+          items = json.load(open(".github/ai-images.json"))
+          for it in items:
+              data = urllib.request.urlopen(it["url"], timeout=60).read()
+              im = Image.open(io.BytesIO(data)).convert("RGB")
+              if im.width > 1200:
+                  im = im.resize((1200, round(im.height * 1200 / im.width)), Image.LANCZOS)
+              os.makedirs(os.path.dirname(it["out"]), exist_ok=True)
+              q = 82
+              while True:
+                  im.save(it["out"], "WEBP", quality=q, method=6)
+                  if os.path.getsize(it["out"]) <= 200_000 or q <= 50:
+                      break
+                  q -= 8
+              print(it["out"], im.size, os.path.getsize(it["out"]))
+          json.dump([], open(".github/ai-images.json", "w"))
+          PY
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898732+github-actions[bot]@users.noreply.github.com"
+          git add -A articles/img/ai .github/ai-images.json
+          git diff --cached --quiet || (git commit -m "ИИ-иллюстрации для статей" && git pull --rebase origin main && git push origin HEAD:main)
