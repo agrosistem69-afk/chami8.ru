@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "items": [
   {
    "id": 45,
@@ -2212,6 +2212,206 @@
     "es": "Mi crítico se equivocó al llamarme sabio filósofo: el cielo sabe que no soy lo que él cree. Pero ya que he llegado a este nido de penas, me basta con comprender quién soy yo mismo.",
     "ky": "Мени жамандаган киши мени акылман-философ деп жаңылды: Кудай билет, мен ал ойлогондой эмесмин. Бирок бул кайгы уясына келгенден кийин, өзүмдүн ким экенимди түшүнсөм эле жетиштүү.",
     "uz": "Meni yomonlagan odam meni donishmand faylasuf deb adashdi: Xudo biladi, men u o‘ylagandek emasman. Ammo bu g‘am uyasiga kelganimdan keyin, o‘zim kimligimni anglasam kifoya."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 156,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Держись людей чистых сердцем и разумных, а от недостойных уходи за тысячу вёрст. Горькое лекарство из рук мудреца лучше сладкого мёда из рук глупца.",
+    "en": "Keep company with the pure-hearted and the wise, and walk a thousand miles away from the unworthy. Bitter medicine from a wise hand is better than sweet honey from a fool.",
+    "es": "Júntate con los de corazón limpio y juicio sereno, y aléjate mil leguas de los indignos. Una medicina amarga de manos del sabio vale más que la miel dulce de manos del necio.",
+    "ky": "Жүрөгү таза, акылдуу адамдар менен бол, татыксыздардан миң чакырым алыс жүр. Акылмандын колунан ичкен ачуу дары акмактын колунан жеген таттуу балдан артык.",
+    "uz": "Qalbi pok va aqlli odamlar bilan bo‘l, noloyiqlardan ming chaqirim uzoq yur. Dononing qo‘lidagi achchiq dori nodonning qo‘lidagi shirin asaldan afzal."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 157,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Как тюльпан на Новруз, подними чашу, а если судьба подарила тебе рядом милое лицо, румяное, как тюльпан, радуйся вместе с ним. Синее небо однажды вдруг уложит тебя в землю, так не откладывай весну.",
+    "en": "Like the tulip at Nowruz, raise your cup, and if fate has seated a dear face, rosy as a tulip, beside you, rejoice together. One day the blue sky will suddenly lay you in the earth, so do not postpone your spring.",
+    "es": "Como el tulipán en Nouruz, alza tu copa, y si el destino te ha sentado junto a un rostro querido, sonrosado como un tulipán, alégrate con él. Un día el cielo azul te tumbará de pronto en la tierra: no aplaces tu primavera.",
+    "ky": "Наврузда жоогазын сыяктуу чөйчөгүңдү көтөр, эгер тагдыр жаныңа жоогазындай кызыл жүздүү сүйүктүүнү отургузса, аны менен кошо кубан. Көк асман бир күнү капысынан сени жерге жашырат, ошондуктан жазыңды кийинкиге калтырба.",
+    "uz": "Navro‘zda lola kabi kosangni ko‘tar, agar taqdir yoningga loladek qizil yuzli sevgilingni o‘tqazgan bo‘lsa, u bilan birga quvon. Moviy osmon bir kun to‘satdan seni yerga qo‘yadi, shuning uchun bahoringni keyinga qoldirma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 158,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "В темноте я поднял руки, чтобы найти светильник, и услышал голос будто снаружи: «Слепо то „я“, что внутри тебя». Свет, который ищешь в ночи, надо искать в себе.",
+    "en": "In the darkness I raised my hands to find a lamp, and heard a voice as if from outside: \"Blind is the 'I' within you.\" The light you seek in the night must be sought within yourself.",
+    "es": "En la oscuridad alcé las manos buscando una lámpara y oí una voz como de fuera: «Ciego es el \"yo\" que llevas dentro». La luz que buscas en la noche hay que buscarla en ti.",
+    "ky": "Караңгыда чырак издеп колумду сунсам, сырттан келгендей бир үн угулду: «Ичиңдеги „мен“ сокур». Түндө издеген жарыгыңды өзүңдөн изде.",
+    "uz": "Zulmatda chiroq izlab qo‘llarimni cho‘zdim va go‘yo tashqaridan bir ovoz eshitdim: «Ichingdagi „men“ ko‘r». Tunda izlagan nuringni o‘zingdan izla."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 159,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "От всего, что есть, в руке остаётся лишь ветер, и всё, что есть, когда-нибудь ломается. Так представь, будто всего этого нет, а то, чего нет, будто есть, и не держись так крепко за этот сон.",
+    "en": "Of all that exists, only wind is left in your hand, and everything that exists will one day break. So imagine that all this is not, and that what is not, is, and do not cling so tightly to this dream.",
+    "es": "De todo lo que existe, en la mano solo queda viento, y todo lo que existe un día se quiebra. Imagina, pues, que nada de esto es y que lo que no es, sí es, y no te aferres tanto a este sueño.",
+    "ky": "Бар нерселердин баарынан колуңда шамал гана калат, бар нерсенин баары бир күнү сынат. Ошондуктан ушунун баары жок, жок нерсе бар деп элестет да, бул түшкө мынчалык жабышпа.",
+    "uz": "Bor narsalarning hammasidan qo‘lingda faqat shamol qoladi, bor narsaning barchasi bir kun sinadi. Shunday ekan, bularning hammasi yo‘q, yo‘q narsa esa bor deb tasavvur qil va bu tushga unchalik yopishib olma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 160,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "От неверия до веры — один вдох, от сомнения до уверенности — тоже один вдох. Береги этот драгоценный вдох: в нём весь урожай нашей жизни.",
+    "en": "From disbelief to faith is a single breath, and from doubt to certainty, a single breath too. Cherish this precious breath: it is the whole harvest of our life.",
+    "es": "De la incredulidad a la fe hay un solo aliento, y de la duda a la certeza, también uno. Cuida ese aliento precioso: en él está toda la cosecha de nuestra vida.",
+    "ky": "Ишенбөөчүлүктөн ишенимге чейин бир дем, шектен ишенимдүүлүккө чейин да бир дем. Ошол кымбат демди сакта: өмүрүбүздүн бүт түшүмү ушунда.",
+    "uz": "Kufrdan imongacha bir nafas, shubhadan ishonchgacha ham bir nafas. Shu aziz nafasni asra: umrimizning butun hosili shunda."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 161,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Тот дворец, что спорил высотой с небом и у ворот которого склонялись цари, я видел пустым. На его зубцах сидела горлица и всё ворковала: «Ку-ку, ку-ку», будто спрашивала: «Где они, где?»",
+    "en": "That palace which vied with the sky, where kings once bowed at the gates, I saw empty. A turtle dove sat on its battlements, cooing over and over, \"Koo-koo, koo-koo,\" as if asking, \"Where are they, where?\"",
+    "es": "Aquel palacio que competía en altura con el cielo, ante cuyas puertas se inclinaban los reyes, lo vi vacío. En sus almenas una tórtola arrullaba sin parar: «Cu-cu, cu-cu», como preguntando: «¿Dónde están, dónde?»",
+    "ky": "Асман менен бийиктикте жарышкан, дарбазасына падышалар баш ийген ошол сарайды мен бош көрдүм. Анын чокусунда бир бактек отуруп: «Куку, куку», — деп, «Кайда алар, кайда?» деп сурагандай кайталай берди.",
+    "uz": "Osmon bilan bo‘y o‘lchashgan, darvozasida shohlar bosh egan o‘sha saroyni bo‘m-bo‘sh ko‘rdim. Uning minorasida bir musicha o‘tirib: «Ku-ku, ku-ku», deb go‘yo «Qani ular, qani?» deb so‘rardi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 162,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "И те, кто бережно копил зерно, и те, кто разбрасывал его по ветру, как дождь, одинаково становятся землёй. И никто не откапывает их потом, словно золото. Так не будь рабом своих запасов.",
+    "en": "Those who carefully hoarded their grain and those who flung it to the wind like rain alike turn into earth. And no one digs them up afterwards as if they were gold. So do not be a slave to your stores.",
+    "es": "Los que guardaron su grano con cuidado y los que lo lanzaron al viento como lluvia se vuelven por igual tierra. Y nadie los desentierra luego como si fueran oro. No seas, pues, esclavo de tus reservas.",
+    "ky": "Данын кылдат топтогондор да, аны жамгырдай шамалга чачкандар да бирдей топуракка айланат. Кийин аларды эч ким алтындай казып албайт. Ошондуктан байлыгыңдын кулу болбо.",
+    "uz": "Donini ehtiyotlab yiqqanlar ham, uni yomg‘irdek shamolga sochganlar ham birdek tuproqqa aylanadi. Keyin ularni hech kim oltindek qazib olmaydi. Shunday ekan, boyligingning quli bo‘lma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 163,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сейчас моя молодость, и я пью из чаши, потому что в этом моя радость. Не корите меня: напиток горький, но приятный. Горький он оттого, что это и есть моя жизнь.",
+    "en": "Now is my youth, and I drink from the cup, for in this is my joy. Do not reproach me: the drink is bitter, yet pleasant. It is bitter because it is my very life.",
+    "es": "Ahora es mi juventud, y bebo de la copa porque en ello está mi alegría. No me reprochéis: la bebida es amarga, pero grata. Es amarga porque es mi propia vida.",
+    "ky": "Азыр менин жаштыгым, ошондуктан чөйчөктөн ичем, кубанычым ушунда. Мени жемелебегиле: суусундук ачуу, бирок жагымдуу. Ачуу болгону, ал менин өмүрүм.",
+    "uz": "Hozir mening yoshligim, shuning uchun kosadan ichaman, quvonchim shunda. Meni ayblamang: ichimlik achchiq, ammo yoqimli. Achchiqligi shundaki, u mening umrimning o‘zi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 164,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Сердце, раз уж время печалит тебя и чистая душа однажды вдруг покинет тело, посиди несколько дней на траве и порадуйся. Пока трава не выросла из твоего праха.",
+    "en": "Heart, since time saddens you and your pure soul will one day suddenly leave the body, sit on the grass for a few days and be glad. Before the grass grows from your dust.",
+    "es": "Corazón, ya que el tiempo te entristece y tu alma pura dejará un día de repente el cuerpo, siéntate unos días sobre la hierba y alégrate. Antes de que la hierba brote de tu polvo.",
+    "ky": "Жүрөгүм, заман сени кайгыртып, таза жаның бир күнү капысынан денеңди таштап кетээр болсо, бир нече күн чөптүн үстүндө отуруп кубан. Сенин топурагыңдан чөп өсүп чыкканча.",
+    "uz": "Ey ko‘ngil, zamon seni g‘amga solsa va pok joning bir kun to‘satdan tanangni tark etsa, bir necha kun maysa ustida o‘tirib quvon. Sening tuprog‘ingdan maysa unib chiqquncha."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 165,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Течение мира без чаши и того, кто её подаёт, ничего не стоит, и без напева флейты тоже. Чем дольше я смотрю на дела этого мира, тем яснее вижу: в итоге остаётся радость, а всё остальное — ничто.",
+    "en": "The turning of the world is worth nothing without the cup and the one who pours it, nor without the song of the flute. The longer I look at the ways of this world, the clearer I see: what remains in the end is joy, and all the rest is nothing.",
+    "es": "El girar del mundo no vale nada sin la copa y quien la sirve, ni sin el canto de la flauta. Cuanto más miro los asuntos de este mundo, más claro veo: al final queda la alegría, y todo lo demás es nada.",
+    "ky": "Дүйнөнүн айланышы чөйчөксүз жана аны сунган адамсыз эч нерсеге арзыбайт, сыбызгынын обону жок болсо да ошондой. Бул дүйнөнүн иштерине канча карасам, ошончо ачык көрөм: акырында кубаныч калат, калганы эч нерсе эмес.",
+    "uz": "Dunyo aylanishi kosasiz va uni tutuvchisiz hech narsaga arzimaydi, nay navosisiz ham shunday. Bu dunyo ishlariga qancha qarasam, shuncha aniq ko‘raman: oxirida quvonch qoladi, qolgani esa hech narsa."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
