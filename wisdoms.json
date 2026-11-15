@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "items": [
   {
    "id": 45,
@@ -2412,6 +2412,206 @@
     "es": "El girar del mundo no vale nada sin la copa y quien la sirve, ni sin el canto de la flauta. Cuanto más miro los asuntos de este mundo, más claro veo: al final queda la alegría, y todo lo demás es nada.",
     "ky": "Дүйнөнүн айланышы чөйчөксүз жана аны сунган адамсыз эч нерсеге арзыбайт, сыбызгынын обону жок болсо да ошондой. Бул дүйнөнүн иштерине канча карасам, ошончо ачык көрөм: акырында кубаныч калат, калганы эч нерсе эмес.",
     "uz": "Dunyo aylanishi kosasiz va uni tutuvchisiz hech narsaga arzimaydi, nay navosisiz ham shunday. Bu dunyo ishlariga qancha qarasam, shuncha aniq ko‘raman: oxirida quvonch qoladi, qolgani esa hech narsa."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 166,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я поднимаю чашу не от бедности, не от стыда и не ради хмеля. Раньше я пил ради весёлого сердца, а теперь, когда в моём сердце поселилась ты, мне и чаша не нужна.",
+    "en": "I don't raise the cup out of poverty, nor out of shame, nor for the sake of drunkenness. I used to drink for a cheerful heart, but now that you have settled in my heart, I need no cup at all.",
+    "es": "No alzo la copa por pobreza, ni por vergüenza, ni por embriagarme. Antes bebía para alegrar el corazón; ahora que tú vives en mi corazón, ya no necesito ninguna copa.",
+    "ky": "Мен чөйчөктү жакырчылыктан да, уяттан да, мас болуш үчүн да көтөрбөйм. Мурун жүрөгүм шаттансын деп иччүмүн, эми сен жүрөгүмө орношкондо, мага чөйчөктүн кереги жок.",
+    "uz": "Men kosani kambag‘allikdan ham, uyatdan ham, mast bo‘lish uchun ham ko‘tarmayman. Avval yuragim shod bo‘lsin deb ichardim, endi sen yuragimga joylashganingda, menga kosa kerak emas."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 167,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Никто ещё не дотянулся до прекрасной, как роза, пока шип судьбы не уколол его сердце. Посмотри на гребень: пока его не разрезали на сотню зубцов, он не мог коснуться локонов любимой.",
+    "en": "No one has ever reached a rose-like beauty before a thorn of fate pricked his heart. Look at the comb: until it was cut into a hundred teeth, it could not touch the beloved's curls.",
+    "es": "Nadie ha alcanzado a una belleza como una rosa sin que antes una espina del destino le hiriera el corazón. Mira el peine: hasta que no lo cortaron en cien dientes, no pudo tocar los rizos de la amada.",
+    "ky": "Тагдырдын тикени жүрөгүн сайбай туруп, эч ким гүлдөй сулууга жеткен эмес. Таракты кара: аны жүз тишке кеспей туруп, ал сүйүктүүнүн чачына тие алган эмес.",
+    "uz": "Taqdir tikani yuragiga sanchilmaguncha, hech kim gulday go‘zalga yetishmagan. Taroqqa qara: uni yuz tishga kesmagunlaricha, u sevgilining sochlariga tega olmagan."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 168,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Говорят, что влюблённые и весёлые гуляки попадут в ад. Если бы это было так, рай завтра стоял бы пустым, как ладонь. Не бойся тех, кто пугает за любовь.",
+    "en": "They say lovers and merry revellers will end up in hell. If that were so, paradise would stand as empty as the palm of a hand tomorrow. Don't fear those who try to frighten you away from love.",
+    "es": "Dicen que los enamorados y los alegres juerguistas irán al infierno. Si así fuera, mañana el paraíso estaría vacío como la palma de la mano. No temas a quienes te asustan por amar.",
+    "ky": "Сүйгөндөр менен шайыр кишилер тозокко түшөт дешет. Эгер ошондой болсо, эртең бейиш алакандай бош турмак. Сүйгөнүң үчүн коркуткандардан коркпо.",
+    "uz": "Oshiqlar va shod-xurram ulfatlar do‘zaxga tushadi, deyishadi. Agar shunday bo‘lsa, ertaga jannat kaftday bo‘m-bo‘sh qolardi. Sevging uchun qo‘rqitadiganlardan qo‘rqma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 169,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Уже утро: давай поднимем чашу и разобьём о камень хрупкий сосуд чужих мнений о нас. Отпустим длинные несбыточные надежды и коснёмся лучше длинных локонов и струн арфы.",
+    "en": "It's morning already: let's raise the cup and smash against a stone the fragile flask of what others think of us. Let's let go of long, empty hopes and touch instead long curls and the strings of the harp.",
+    "es": "Ya amanece: alcemos la copa y rompamos contra una piedra el frágil frasco de lo que otros piensan de nosotros. Soltemos las largas esperanzas vanas y toquemos mejor unos largos rizos y las cuerdas del arpa.",
+    "ky": "Таң атты: келчи, чөйчөк көтөрөлү да, башкалардын биз жөнүндөгү оюнун морт идишин ташка уруп сындыралы. Узун, курулай үмүттөрдү коё берип, андан көрө узун чачтарга жана арфанын кылдарына тийели.",
+    "uz": "Tong otdi: kel, kosani ko‘taraylik va boshqalarning biz haqimizdagi fikrining mo‘rt idishini toshga urib sindiraylik. Uzun, behuda umidlarni qo‘yib yuborib, yaxshisi uzun sochlarga va arfa torlariga tegaylik."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 170,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Чаша не раз лишала меня почёта и доброй славы. И всё же я часто думаю: что могут купить виноделы такого, что было бы хоть вполовину так же ценно, как то, что они продают?",
+    "en": "The cup has more than once robbed me of honour and a good name. And yet I often wonder: what could the vintners ever buy that is even half as precious as what they sell?",
+    "es": "La copa me ha robado más de una vez el honor y el buen nombre. Y aun así me pregunto a menudo: ¿qué podrían comprar los vinateros que valga ni la mitad de lo que venden?",
+    "ky": "Чөйчөк мени бир нече жолу урмат-сыйдан жана жакшы атактан ажыратты. Ошентсе да көп ойлоном: жүзүмчүлөр сатканынын жарымындай баалуу эмнени сатып ала алышат?",
+    "uz": "Kosa meni bir necha bor izzat-hurmat va yaxshi nomdan mahrum qildi. Shunday bo‘lsa ham tez-tez o‘ylayman: uzumchilar sotganining yarmichalik qimmatli nimani sotib ola olishadi?"
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 171,
+   "tag": "tea",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Те, кто попал в плен к рассудку, извелись в тоске о бытии и небытии и стали ничем. Ты же, кто понимает, выбирай сок винограда: эти мудрецы так и засохли в изюм, не успев созреть.",
+    "en": "Those who became prisoners of reason wore themselves out longing over being and non-being and came to nothing. You who understand, choose the juice of the grape: those wise men dried into raisins while still unripe.",
+    "es": "Quienes se volvieron prisioneros de la razón se consumieron pensando en el ser y el no ser y quedaron en nada. Tú, que lo entiendes, elige el jugo de la uva: aquellos sabios se secaron como pasas sin haber madurado.",
+    "ky": "Акылдын туткунуна айланган адамдар бар менен жоктун азабын тартып, жок болуп кетишти. Сен болсо, түшүнгөн адам, жүзүм ширесин танда: ал акылмандар бышпай туруп эле мейиз болуп куурап калышты.",
+    "uz": "Aql asiriga aylanganlar bor va yo‘q haqidagi o‘ylar bilan ado bo‘lib, hech narsaga aylanishdi. Sen esa, tushungan odam, uzum sharbatini tanla: u donishmandlar g‘o‘raligida mayizga aylanib qurib qolishdi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 172,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Время от времени кто-нибудь поднимается и кричит: «Это я!», гордясь богатством, серебром и золотом. Но едва его дела наладятся, смерть выходит из засады и тоже говорит: «Это я!» Не кичись тем, что имеешь.",
+    "en": "Every so often someone rises and cries 'Here I am!', proud of his wealth, silver and gold. But just when his affairs are in order, death steps out of hiding and says too: 'Here I am!' Don't boast of what you have.",
+    "es": "De vez en cuando alguien se levanta y grita «¡Aquí estoy yo!», orgulloso de su riqueza, su plata y su oro. Pero justo cuando sus asuntos se arreglan, la muerte sale de su escondite y dice también: «¡Aquí estoy yo!». No presumas de lo que tienes.",
+    "ky": "Анда-санда бирөө байлыгына, күмүш-алтынына сыймыктанып: «Бул менмин!» деп чыгат. Бирок иштери оңолору менен ажал буктурмадан чыгып, ал да: «Бул менмин!» дейт. Колуңдагы нерсе менен мактанба.",
+    "uz": "Goh-goh kimdir boyligi, kumushi va oltini bilan g‘ururlanib: «Bu menman!» deb chiqadi. Ammo ishlari yo‘lga tushishi bilan ajal pistirmadan chiqib, u ham: «Bu menman!» deydi. Qo‘lingdagi narsa bilan maqtanma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 173,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если ты стараешься добыть то, что нужно, чтобы поесть и одеться, это простительно. Всё остальное не стоит труда: смотри, не продай за это свою драгоценную жизнь.",
+    "en": "If you strive to earn what you need to eat and to dress, that is forgivable. Everything beyond that is not worth the effort: take care not to sell your precious life for it.",
+    "es": "Si te esfuerzas por ganar lo que necesitas para comer y vestirte, eso se perdona. Todo lo demás no vale la pena: cuida de no vender por ello tu preciosa vida.",
+    "ky": "Тамак-ашка жана кийимге керектүүнү табууга аракет кылсаң, бул кечиримдүү. Калганы эмгекке арзыбайт: ошол үчүн кымбат өмүрүңдү сатып жибербе.",
+    "uz": "Agar yeyish va kiyinish uchun keraklisini topishga harakat qilsang, bu kechirimli. Qolgani mehnatga arzimaydi: ehtiyot bo‘l, buning uchun qimmatli umringni sotib yuborma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 174,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Через трудности человек становится свободным: капля становится жемчужиной, только побыв в тесной раковине. Ушло богатство — была бы голова цела; опустела чаша — её снова наполнят.",
+    "en": "Through hardship a person becomes free: a drop turns into a pearl only after being shut inside a narrow shell. If wealth is gone, as long as you are still here, all is well; if the cup is empty, it will be filled again.",
+    "es": "Con las dificultades una persona se vuelve libre: una gota se convierte en perla solo tras estar encerrada en una estrecha concha. Si se fue la riqueza, mientras tú sigas aquí todo está bien; si la copa se vació, volverán a llenarla.",
+    "ky": "Кыйынчылык аркылуу адам эркин болот: тамчы тар кабыкка камалып барып гана бермет болот. Байлык кетсе, өзүң аман болсоң болду; чөйчөк бошосо, аны кайра толтурушат.",
+    "uz": "Qiyinchilik orqali inson ozod bo‘ladi: tomchi tor chig‘anoqqa qamalgandan keyingina marvaridga aylanadi. Boylik ketsa, o‘zing omon bo‘lsang bas; kosa bo‘shasa, uni yana to‘ldirishadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 175,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Мы сами — источник радости и рудник печали, кладезь справедливости и корень несправедливости. Мы и низки, и высоки, и совершенны, и полны изъянов: мы заржавевшее зеркало и в то же время волшебная чаша Джамшида, в которой виден весь мир.",
+    "en": "We ourselves are the source of joy and the mine of sorrow, the treasury of justice and the root of injustice. We are low and high, perfect and full of flaws: a rusted mirror and at the same time Jamshid's magic cup, in which the whole world can be seen.",
+    "es": "Nosotros mismos somos la fuente de la alegría y la mina de la tristeza, el tesoro de la justicia y la raíz de la injusticia. Somos bajos y altos, perfectos y llenos de defectos: un espejo oxidado y a la vez la copa mágica de Yamshid, en la que se ve el mundo entero.",
+    "ky": "Биз өзүбүз кубанычтын булагы да, кайгынын кени да, адилеттиктин казынасы да, адилетсиздиктин тамыры да. Биз пас да, бийик да, кемчиликсиз да, кемчиликке толгон да: дат баскан күзгү да, бүт дүйнө көрүнгөн Жамшиддин сыйкырдуу чөйчөгү да.",
+    "uz": "Biz o‘zimiz quvonch manbai ham, qayg‘u koni ham, adolat xazinasi ham, adolatsizlik ildizi ham. Biz past ham, baland ham, mukammal ham, nuqsonlarga to‘la ham: zang bosgan ko‘zgu ham, butun dunyo ko‘rinadigan Jamshidning sehrli kosasi ham."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
