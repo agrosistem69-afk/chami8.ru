@@ -1,0 +1,27 @@
+name: IndexNow
+# Сообщает Яндексу и Bing о новых и изменённых страницах из живой карты сайта sitemap-all.xml.
+on:
+  schedule:
+    - cron: "0 7 * * *"    # 10:00 по Москве
+    - cron: "0 15 * * *"   # 18:00 по Москве
+  workflow_run:
+    workflows: ["Deploy site"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "За сколько дней отправить страницы"
+        default: "2"
+        required: true
+permissions:
+  contents: read
+jobs:
+  ping:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 .github/scripts/indexnow.py
+        env:
+          DAYS: ${{ github.event.inputs.days || '2' }}
+          INDEXNOW_KEY: 3d0db21aedbda6a57f1d2446491afba3
