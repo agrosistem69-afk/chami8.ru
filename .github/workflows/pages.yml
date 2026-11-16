@@ -1,0 +1,38 @@
+name: Deploy site
+# Выкладка сайта на GitHub Pages через Actions.
+# Работает, когда в Settings → Pages → Source выбрано «GitHub Actions».
+# На сайт НЕ попадают: _drafts/ (черновики), .github/, .git/.
+# Перед выкладкой site_build.py собирает sitemap-all.xml и добавляет новые статьи в список.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0   # нужна история: по ней берутся даты для sitemap
+      - name: Copy site without drafts
+        run: |
+          mkdir _site
+          git ls-files -z | grep -zv -e '^_drafts/' -e '^\.github/' | xargs -0 cp --parents -t _site
+          test ! -e _site/_drafts && echo "Черновиков в выкладке нет"
+      - name: Build sitemap-all.xml and article list
+        run: python3 .github/scripts/site_build.py _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4

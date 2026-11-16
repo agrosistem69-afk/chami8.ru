@@ -12,6 +12,12 @@
   python3 .github/scripts/drafts.py build SRC OUT [--date ...]     — собрать страницу для проверки
   python3 .github/scripts/drafts.py check SRC...                    — проверить исходники
 Источник черновиков: ветка origin/drafts (git fetch origin drafts) или папка, заданная DRAFTS_DIR.
+
+С 16.11.2026 черновики лежат готовыми страницами в main: _drafts/<slug>/index.html (на сайт не выкладываются,
+см. .github/workflows/pages.yml), очередь — _drafts/queue.txt. Если папка _drafts/ есть, `next` и `publish`
+берут черновик оттуда: `publish` переносит папку в articles/<slug>/, ставит дату выпуска и обновляет
+список статей, sitemap.xml, llms.txt и ARTICLES.md. Править черновики — только в _drafts/.
+  python3 .github/scripts/drafts.py pagecheck [_drafts/*/index.html] — проверить готовые страницы (пост, хештеги)
 """
 import datetime, html, json, os, re, subprocess, sys, urllib.parse
 
@@ -336,8 +342,15 @@ def build(meta, body, tg, date, published=None, modified=None):
 
 # ---------- выпуск ----------
 
+PAGE_DRAFTS = "_drafts"
+
+
+def page_drafts():
+    return os.path.isdir(PAGE_DRAFTS)
+
+
 def drafts_read(path):
-    base = os.environ.get("DRAFTS_DIR")
+    base = os.environ.get("DRAFTS_DIR") or (PAGE_DRAFTS if page_drafts() and path == "queue.txt" else None)
     if base:
         with open(os.path.join(base, path), encoding="utf-8") as f:
             return f.read()
@@ -369,6 +382,10 @@ def next_slug(date):
         nb = opts.get("not_before")
         if nb and date < nb:
             continue
+        if page_drafts():
+            if os.path.isfile(f"{PAGE_DRAFTS}/{slug}/index.html"):
+                return slug
+            continue
         try:
             drafts_read(f"src/{slug}.html")
         except Exception:
@@ -377,16 +394,49 @@ def next_slug(date):
     return None
 
 
-def publish(slug, date):
-    meta, body, tg = parse_src(drafts_read(f"src/{slug}.html"))
-    errs = check(meta, body, tg)
+def meta_from_page(page):
+    def m(rx):
+        r = re.search(rx, page, re.S)
+        return html.unescape(strip_tags(r.group(1)).strip()) if r else ""
+    desc = m(r'<meta name="description" content="([^"]*)"')
+    return {"h1": m(r"<h1[^>]*>(.*?)</h1>"), "card": desc, "llms": desc}
+
+
+def publish_page(slug, date):
+    """Черновик-страница из _drafts/: перенести в articles/ и поставить дату выпуска."""
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import site_build
+    src = f"{PAGE_DRAFTS}/{slug}"
+    errs = page_check(f"{src}/index.html")
     if errs:
         sys.exit("Черновик не прошёл проверку: " + "; ".join(errs))
-    pub = published_slugs() | {slug}
-    page = build(meta, body, tg, date, published=pub)
-    os.makedirs(f"articles/{slug}", exist_ok=True)
-    with open(f"articles/{slug}/index.html", "w", encoding="utf-8") as f:
-        f.write(page)
+    if os.path.exists(f"articles/{slug}"):
+        sys.exit(f"articles/{slug} уже есть")
+    page = open(f"{src}/index.html", encoding="utf-8").read()
+    page, _ = site_build.fix_date(page, datetime.date.fromisoformat(date))
+    os.makedirs("articles", exist_ok=True)
+    subprocess.run(["git", "mv", src, f"articles/{slug}"], check=False)
+    if os.path.exists(src):  # не в git — просто переносим
+        os.rename(src, f"articles/{slug}")
+    open(f"articles/{slug}/index.html", "w", encoding="utf-8").write(page)
+    return meta_from_page(page), page
+
+
+def publish(slug, date):
+    if page_drafts():
+        meta, page = publish_page(slug, date)
+        art = re.search(r'<article.*', page, re.S)
+        body = art.group(0) if art else page  # для картинки карточки в списке статей
+    else:
+        meta, body, tg = parse_src(drafts_read(f"src/{slug}.html"))
+        errs = check(meta, body, tg)
+        if errs:
+            sys.exit("Черновик не прошёл проверку: " + "; ".join(errs))
+        pub = published_slugs() | {slug}
+        page = build(meta, body, tg, date, published=pub)
+        os.makedirs(f"articles/{slug}", exist_ok=True)
+        with open(f"articles/{slug}/index.html", "w", encoding="utf-8") as f:
+            f.write(page)
     d = datetime.date.fromisoformat(date)
     url = f"{SITE}/articles/{slug}/"
 
@@ -432,10 +482,73 @@ def publish(slug, date):
     return meta
 
 
+EMOJI = re.compile("[\U0001F300-\U0001FAFF\u2600-\u27BF\u2B50\u2B55\u26F0-\u26FF]")
+
+
+def tg_check(tg):
+    """Правила поста (16.11.2026): см. .github/TELEGRAM-POSTS.md."""
+    errs = []
+    lines = [l.strip() for l in tg.strip().splitlines() if l.strip()]
+    text = html.unescape(strip_tags(tg)).strip()
+    if not 1500 <= len(text) <= 2500:
+        errs.append(f"пост {len(text)} знаков (нужно 1500–2500)")
+    e = len(EMOJI.findall(text))
+    if not 2 <= e <= 4:
+        errs.append(f"эмодзи {e} (нужно 2–4, считая ✅)")
+    if re.sub(r"</?(b|i)>", "", tg).count("<"):
+        errs.append("в посте только <b> и <i>, без ссылок")
+    if re.search(r"(^|\s)#[\wА-Яа-яЁё]", text):
+        errs.append("в посте не должно быть хештегов")
+    bolds = re.findall(r"<b>(.*?)</b>", tg, re.S)
+    if len(bolds) != 2 or not lines[0].startswith("<b>") or not lines[-1].startswith("<b>") or "?" not in bolds[-1]:
+        errs.append("жирным только первая строка и финальный вопрос")
+    if "✅ Что мы советуем" not in lines:
+        errs.append("нет строки «✅ Что мы советуем»")
+    else:
+        i = lines.index("✅ Что мы советуем")
+        bul = []
+        for l in lines[i + 1:]:
+            if not l.startswith("•"):
+                break
+            bul.append(l)
+        if len(bul) < 2:
+            errs.append("после «✅ Что мы советуем» нужен список «•»")
+        for j, b in enumerate(bul):
+            t = b[1:].strip()
+            if not t.lstrip("«\"(").lstrip()[:1].islower():
+                errs.append(f"совет с маленькой буквы: {t[:30]}")
+            end = "." if j == len(bul) - 1 else ";"
+            if not t.endswith(end):
+                errs.append(f"совет должен кончаться «{end}»: …{t[-30:]}")
+    return errs
+
+
+def page_check(path):
+    page = open(path, encoding="utf-8").read()
+    errs = []
+    slug = os.path.basename(os.path.dirname(path))
+    if f'<link rel="canonical" href="{SITE}/articles/{slug}/">' not in page:
+        errs.append("canonical не на /articles/<адрес>/")
+    m = re.search(r'<template id="tg-post">(.*?)</template>\s*', page, re.S)
+    if not m:
+        errs.append("нет <template id=\"tg-post\">")
+    else:
+        errs += tg_check(m.group(1))
+        if "</article>" in page and page.index("</article>") < m.start():
+            errs.append("пост должен стоять перед </article>")
+    ul = re.search(r'<ul class="tags"[^>]*>(.*?)</ul>', page, re.S)
+    tags = re.findall(r"<li>(#[^<]+)</li>", ul.group(1)) if ul else []
+    if len(tags) != 7:
+        errs.append(f"хештегов {len(tags)} (нужно 7)")
+    elif tags[-1] != "#ЧаМи":
+        errs.append("последний хештег — #ЧаМи")
+    return errs
+
+
 def main(argv):
     import argparse
     ap = argparse.ArgumentParser()
-    ap.add_argument("cmd", choices=["next", "publish", "build", "check"])
+    ap.add_argument("cmd", choices=["next", "publish", "build", "check", "pagecheck"])
     ap.add_argument("paths", nargs="*")
     ap.add_argument("--date", default=datetime.date.today().isoformat())
     ap.add_argument("--slug")
@@ -452,6 +565,14 @@ def main(argv):
                 errs = [str(e)]
             print(("OK   " if not errs else "FAIL ") + p + (": " + "; ".join(errs) if errs else
                   f"  ({words(body)} слов, пост {len(strip_tags(tg))} зн.)"))
+            bad += bool(errs)
+        sys.exit(1 if bad else 0)
+    if a.cmd == "pagecheck":
+        import glob
+        bad = 0
+        for p in a.paths or sorted(glob.glob(f"{PAGE_DRAFTS}/*/index.html")):
+            errs = page_check(p)
+            print(("OK   " if not errs else "FAIL ") + p + (": " + "; ".join(errs) if errs else ""))
             bad += bool(errs)
         sys.exit(1 if bad else 0)
     if a.cmd == "build":

@@ -20,3 +20,4 @@ User-agent: YandexBot
 Allow: /
 
 Sitemap: https://chami8.ru/sitemap.xml
+Sitemap: https://chami8.ru/sitemap-all.xml
