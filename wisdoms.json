@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "items": [
   {
    "id": 45,
@@ -2812,6 +2812,206 @@
     "es": "Jayam, que pasó la vida cosiendo las tiendas de la sabiduría, cayó en el horno de la tristeza y de pronto ardió. Las tijeras del destino cortaron la cuerda de su tienda, y el mercader de esperanzas lo entregó a cambio de nada. Ni siquiera el sabio es eterno: aprecia tu tiempo mientras tu tienda siga en pie.",
     "ky": "Бүт өмүрүн акылмандыктын чатырларын тигип өткөргөн Хайям кайгынын очогуна түшүп, капыстан күйүп кетти. Тагдырдын кайчысы анын чатырынын жибин кыркты, үмүт сатуучу аны бекер берип жиберди. Акылман да түбөлүк эмес: чатырың турганда убактыңды баркта.",
     "uz": "Butun umrini hikmat chodirlarini tikib o‘tkazgan Xayyom g‘am o‘chog‘iga tushib, birdan yonib ketdi. Taqdir qaychisi uning chodiri arqonini kesdi, umid dalloli esa uni tekinga berib yubordi. Donishmand ham abadiy emas: chodiring turganida vaqtingni qadrla."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 186,
+   "tag": "both",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Осталась во мне лишь искорка сил, и та благодаря тому, кто подаёт чашу. От людской дружбы остались одни обманы, от вчерашней ночи — одна последняя чаша. А сколько осталось от жизни, не знает никто: допей её с благодарностью.",
+    "en": "Only a spark of strength is left in me, and that thanks to the one who pours the cup. Of people's friendship only broken promises remain, and of last night only one last cup. How much of life remains, no one knows: finish it with gratitude.",
+    "es": "Solo me queda una chispa de fuerza, y eso gracias a quien sirve la copa. De la amistad de la gente quedan solo promesas rotas, y de la noche de ayer, una última copa. Cuánto queda de la vida, nadie lo sabe: termínala con gratitud.",
+    "ky": "Менде бир аз гана күч калды, ал да чыны куйган адамдын аркасы менен. Адамдардын достугунан убадалар гана калды, кечээки түндөн бир акыркы чыны калды. Өмүрдөн канчасы калганын эч ким билбейт: аны ыраазычылык менен ичип бүт.",
+    "uz": "Menda bir uchqun kuch qoldi, u ham kosa tutgan kishi sharofati bilan. Odamlar do‘stligidan faqat buzilgan va’dalar qoldi, kechagi tundan esa bitta so‘nggi kosa. Umrdan qancha qolganini hech kim bilmaydi: uni minnatdorlik bilan ichib tugat."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 187,
+   "tag": "dream",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Ты спросил меня, что такое этот призрачный узор, который мы зовём миром. Ответить долго, но коротко так: это рисунок, что поднялся из глубин моря и снова уйдёт на его дно. Как сон, что приходит из ночи и в ночь возвращается.",
+    "en": "You asked me what this ghostly pattern we call the world really is. The full answer is long, but in short: it is a picture that rose from the depths of the sea and will sink back to its floor. Like a dream that comes out of the night and returns to it.",
+    "es": "Me preguntaste qué es este dibujo ilusorio que llamamos mundo. La respuesta completa es larga, pero en breve: es una imagen que surgió de las profundidades del mar y volverá a hundirse en su fondo. Como un sueño que sale de la noche y a ella regresa.",
+    "ky": "Сен менден дүйнө деп аталган бул элестүү оюм эмне экенин сурадың. Толук жооп узун, бирок кыскасы: бул деңиздин тереңинен чыккан сүрөт, кайра анын түбүнө кетет. Түндөн келип, кайра түнгө кайткан түш сыяктуу.",
+    "uz": "Sen mendan dunyo deb atalgan bu xayoliy naqsh nima ekanini so‘rading. To‘liq javob uzun, qisqasi esa shunday: bu dengiz qa’ridan chiqqan surat, u yana uning tubiga qaytadi. Tundan kelib, yana tunga qaytadigan tush kabi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 188,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Бывают люди, которые по невежеству уверены, что вся мудрость мира у них в руках, а всякого, кто думает иначе, объявляют чужаком. Рядом с ними не спорь до хрипоты: иногда мудрее улыбнуться и показаться простаком.",
+    "en": "There are people who, out of ignorance, are sure they hold all the world's wisdom, and they call anyone who thinks differently an outsider. Don't argue with them until you're hoarse: sometimes it is wiser to smile and seem simple.",
+    "es": "Hay gente que, por ignorancia, está segura de tener toda la sabiduría del mundo, y llama extraño a cualquiera que piense distinto. No discutas con ellos hasta quedarte ronco: a veces es más sabio sonreír y parecer sencillo.",
+    "ky": "Кээ бир адамдар билбестиктен дүйнөнүн бардык акылы өздөрүндө деп ишенишет, башкача ойлогондун баарын жат деп жарыялашат. Алар менен үнүң карлыкканча талашпа: кээде жылмайып, жөнөкөй көрүнгөн акылдуураак.",
+    "uz": "Ba’zi odamlar nodonlikdan dunyoning barcha hikmati o‘z qo‘llarida deb ishonadi va boshqacha o‘ylaganlarni begona deb ataydi. Ular bilan ovozing bo‘g‘ilguncha bahslashma: ba’zan jilmayib, sodda ko‘ringan donoroqdir."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 189,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Ни одна капля, что мы проливаем из чаши на землю, не пропадает зря: может быть, она тихо уходит вглубь и утоляет печаль того, кто лежит там давным-давно. Вспоминай ушедших с теплом: память о них — тоже глоток для души.",
+    "en": "Not a single drop we spill from the cup onto the earth is wasted: perhaps it quietly sinks down and eases the sorrow of someone who has lain there for ages. Remember those who are gone with warmth: memory of them is also a sip for the soul.",
+    "es": "Ni una sola gota que derramamos de la copa sobre la tierra se pierde: quizá se hunde en silencio y alivia la tristeza de alguien que yace allí desde hace siglos. Recuerda con cariño a los que se fueron: su memoria también es un sorbo para el alma.",
+    "ky": "Чыныдан жерге төккөн бир да тамчыбыз бекер кетпейт: балким, ал акырын тереңге сиңип, ал жерде илгертен жаткан адамдын кайгысын басат. Кеткендерди жылуулук менен эсте: аларды эскерүү да жан үчүн бир жутум.",
+    "uz": "Kosadan yerga to‘kkan birorta tomchimiz ham behuda ketmaydi: balki u sekin chuqurga singib, u yerda azaldan yotgan kishining g‘amini yengillatar. Ketganlarni iliqlik bilan esla: ularni xotirlash ham qalb uchun bir qultum."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 190,
+   "tag": "friends",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Небо, ты рушишь всё своей враждой и издавна поступаешь несправедливо. А ты, земля, если раскрыть твою грудь, сколько в ней найдётся бесценных жемчужин, сколько дорогих людей! Береги тех, кто рядом, пока они не стали сокровищем под землёй.",
+    "en": "O sky, you ruin everything with your spite and have long been unjust. And you, earth, if your breast were opened, how many priceless pearls would be found in it, how many dear people! Cherish those beside you before they become treasure under the ground.",
+    "es": "Oh cielo, todo lo arruinas con tu rencor y desde siempre eres injusto. Y tú, tierra, si abrieran tu pecho, ¡cuántas perlas de valor incalculable se hallarían en él, cuánta gente querida! Cuida a los que tienes cerca antes de que se vuelvan tesoro bajo tierra.",
+    "ky": "Асман, сен баарын кекчилдигиң менен кыйратасың, илгертен адилетсизсиң. А сен, жер, төшүңдү ачса, анда канча баа жеткис бермет, канча кымбат адамдар табылмак! Жаныңдагыларды алар жер астындагы казынага айлана электе баркта.",
+    "uz": "Ey falak, sen hamma narsani adovating bilan buzasan va azaldan adolatsizsan. Sen esa, ey yer, ko‘ksingni ochsalar, unda qancha bebaho gavhar, qancha aziz odamlar topilardi! Yoningdagilarni ular yer ostidagi xazinaga aylanmasidan oldin asra."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 191,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если чаша, которую ты пьёшь, и губы, которые ты целуешь, кончатся тем же, чем кончается всё на свете, подумай так: сегодня ты тот же, кем был вчера, и завтра не станешь меньше. Люби спокойно, без страха перед концом.",
+    "en": "If the cup you drink and the lips you kiss end in what everything ends in, then think: today you are what you were yesterday, and tomorrow you will be no less. Love calmly, without fear of the end.",
+    "es": "Si la copa que bebes y los labios que besas acaban en lo mismo que acaba todo, piensa así: hoy eres lo que eras ayer, y mañana no serás menos. Ama con calma, sin miedo al final.",
+    "ky": "Сен ичкен чыны да, сен өпкөн эриндер да дүйнөдөгү баары эмне менен бүтсө, ошол менен бүтсө, мындай ойло: бүгүн сен кечээки өзүңсүң, эртең да кем болбойсуң. Аягынан коркпой, тынч сүй.",
+    "uz": "Sen ichayotgan kosa ham, sen o‘payotgan lablar ham dunyodagi hamma narsa nima bilan tugasa, o‘sha bilan tugasa, shunday o‘yla: bugun sen kechagi o‘zingsan, ertaga ham kam bo‘lmaysan. Oxiridan qo‘rqmay, xotirjam sev."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 192,
+   "tag": "love",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Я не знаю, создал ли меня мой Творец для рая или для ада. Но у края поля у меня есть чаша, любимая и лютня — это моё наличными сегодня. А рай пусть пока будет твоим, в долг на потом.",
+    "en": "I don't know whether my Maker shaped me for paradise or for hell. But at the edge of the field I have a cup, my beloved and a lute: that is my cash today. Let paradise be yours for now, on credit for later.",
+    "es": "No sé si mi Creador me hizo para el paraíso o para el infierno. Pero al borde del campo tengo una copa, a mi amada y un laúd: eso es mi dinero contante hoy. Que el paraíso sea tuyo por ahora, a crédito para después.",
+    "ky": "Мени Жаратканым бейиш үчүн жараттыбы же тозок үчүнбү, билбейм. Бирок талаанын четинде менин чынам, сүйгөнүм жана комузум бар: бул менин бүгүнкү накталай байлыгым. Бейиш азырынча сеники болсун, кийинкиге карызга.",
+    "uz": "Meni Yaratganim jannat uchun yaratdimi yoki do‘zax uchunmi, bilmayman. Lekin dala chetida mening kosam, sevgilim va udim bor: bu mening bugungi naqd boyligim. Jannat hozircha seniki bo‘lsin, keyinga nasiyaga."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 193,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Говорят, своими расчётами я сделал календарь точнее. Нет, я лишь вычеркнул из него ещё не родившееся завтра и уже умершее вчера. Остался только сегодняшний день, и его хватает с избытком.",
+    "en": "They say my calculations made the calendar more exact. No, I only struck from it the unborn tomorrow and the dead yesterday. Only today remains, and it is more than enough.",
+    "es": "Dicen que mis cálculos hicieron el calendario más exacto. No, solo taché de él el mañana que aún no nace y el ayer ya muerto. Solo queda el día de hoy, y basta de sobra.",
+    "ky": "Айтышат, менин эсептерим календарды тагыраак кылды деп. Жок, мен андан төрөлө элек эртеңди жана өлүп калган кечээни гана сызып салдым. Бүгүнкү күн гана калды, ал жетиштүү.",
+    "uz": "Aytishlaricha, mening hisob-kitoblarim taqvimni aniqroq qilgan. Yo‘q, men undan hali tug‘ilmagan ertani va allaqachon o‘lgan kechani o‘chirib tashladim, xolos. Faqat bugungi kun qoldi, u esa bemalol yetadi."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 194,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Пусть ветвь твоей жизни выросла из крепкого корня удачи и жизнь сидит на тебе, как ладно скроенная одежда. Всё равно не опирайся слишком сильно на шатёр своего тела: его четыре колышка держатся непрочно. Будь благодарен и не будь беспечен.",
+    "en": "Even if the branch of your life grew from a strong root of good fortune and life fits you like a well-cut garment, don't lean too hard on the tent of your body: its four pegs are loose. Be grateful, and don't be careless.",
+    "es": "Aunque la rama de tu vida haya crecido de una fuerte raíz de buena suerte y la vida te siente como un traje bien cortado, no te apoyes demasiado en la tienda de tu cuerpo: sus cuatro estacas están flojas. Sé agradecido y no seas descuidado.",
+    "ky": "Өмүрүңдүн бутагы бактынын бекем тамырынан өсүп, өмүр сага жакшы бычылган кийимдей жарашса да, денеңдин чатырына өтө таянба: анын төрт казыгы бош турат. Ыраазы бол, бирок бейкапар болбо.",
+    "uz": "Umring shoxi baxtning mustahkam ildizidan o‘sgan bo‘lsa ham va umr senga yaxshi bichilgan kiyimdek yarashsa ham, tanang chodiriga haddan ortiq suyanma: uning to‘rt qozig‘i bo‘sh. Shukr qil, lekin beparvo bo‘lma."
+   },
+   "s": {
+    "ru": "Омар Хайям, рубаи (пересказ)",
+    "en": "Omar Khayyam, rubaiyat (retold)",
+    "es": "Omar Jayam, rubaiyat (versión libre)",
+    "ky": "Омар Хайям, рубаилер (кайра баяндоо)",
+    "uz": "Umar Xayyom, ruboiylar (erkin bayon)"
+   }
+  },
+  {
+   "id": 195,
+   "tag": "life",
+   "fa": "عمر خیام",
+   "py": "ʿOmar Khayyām · 1048–1131",
+   "t": {
+    "ru": "Если бы сердце по-настоящему поняло тайну жизни, оно поняло бы и тайну смерти. Но сегодня, пока ты в себе, ты так ничего и не узнал. Что же узнаешь завтра, когда себя покинешь? Учись понимать жизнь, пока она с тобой.",
+    "en": "If the heart truly understood the secret of life, it would understand the secret of death as well. But today, while you are yourself, you have learned nothing. What will you learn tomorrow, when you leave yourself? Learn to understand life while it is with you.",
+    "es": "Si el corazón comprendiera de verdad el secreto de la vida, comprendería también el de la muerte. Pero hoy, mientras eres tú mismo, no has aprendido nada. ¿Qué aprenderás mañana, cuando te dejes a ti mismo? Aprende a entender la vida mientras está contigo.",
+    "ky": "Эгер жүрөк өмүрдүн сырын чындап түшүнсө, өлүмдүн сырын да түшүнмөк. Бирок бүгүн, өзүң менен турганыңда, эч нерсе билген жоксуң. Эртең өзүңдү таштап кеткенде эмнени билесиң? Өмүр жаныңда турганда аны түшүнүүгө үйрөн.",
+    "uz": "Agar yurak hayot sirini chindan anglaganida, o‘lim sirini ham anglagan bo‘lardi. Ammo bugun, o‘zing bilan ekansan, hech narsani bilmading. Ertaga o‘zingni tark etganingda nimani bilasan? Hayot sen bilan ekan, uni anglashni o‘rgan."
    },
    "s": {
     "ru": "Омар Хайям, рубаи (пересказ)",
